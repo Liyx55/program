@@ -1,0 +1,685 @@
+[{
+	"id": 17408505,
+	"category": {
+		"id": 48,
+		"name": "Work"
+	},
+	"emotion": "Embarrassed",
+	"turns_number": 6,
+	"dialogues": [
+		[1503838, 0, "how embarrassing to hear my workers talk shit about me in a room class thinking their miss were off .", [], 2],
+		[1514297, 1, "no you really do not need that and I m sure your an amazing teacher . no you do not but I m here for you. my snap code is pick if you want to connect there or you can message me on here if you like", [], 2],
+		[1503838, 0, "i do not really care what people think about me but when they sit there and say i am a thirty teacher and this and that . it actually hurt . and i am already so close to a breaking point with so many other personal things i have going on . i do not need their shit too .", ["🙃"], 2],
+		[1514297, 1, "I m sorry that happened . terrible people .", [], 2],
+		[1487354, 2, "the worlds full of spindles fuck that do that shit", [], 1],
+		[1263187, 3, "that is awful ! so sorry", ["😳"], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3
+	}
+}, {
+	"id": 17407974,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 6,
+	"dialogues": [
+		[0, 0, "so tired of being used and abused by .the person you think it , is your companion but ability not .", [], 2],
+		[0, 0, "I m already leaving alone my mother and father both past away to years ago I do not have sister or brother to rely on I do not have capability to raised my kiss alone at this time.my salary are not enough to support for all the needs of my to kiss", [], 2],
+		[0, 0, "I wanted to end up this toxic relationship but I have to kiss and they are young to expiernce the broken family at their young age . I can not decide right now but I always feel I want to skin this kind of life", [], 2],
+		[0, 0, "yeah and I feel drained all the.timeeven small things he refused to find lotions always keep on things worst 10 years of sacrifices and still no result even just small respect . I ask", [], 2],
+		[1164203, 1, "If you can get out of this toxic relationship , do not hesitate", [], 2],
+		[1513681, 2, "this is the most painful thing ever", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17410003,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Lonely",
+	"turns_number": 5,
+	"dialogues": [
+		[1514397, 0, "it is a very lonely night tonight", [], 2],
+		[1475107, 1, "Same and kind of happy about that", [], 2],
+		[1514397, 0, "I used to be very hopeful and position have but this last year that is worn down over time . I feel alone most of the time . it is not like me", [], 2],
+		[1488709, 2, "want to talk then , ?", [], 1],
+		[1270690, 3, "i can understand that is feel", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3
+	}
+}, {
+	"id": 17404796,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Overwhelmed",
+	"turns_number": 4,
+	"dialogues": [
+		[1514100, 0, "yet again . the wait line in the suicide hot line chats is just too long . so I m just home . thinking all this negative have is again about how the world would be so much better off without my useless existence .", [], 2],
+		[1512230, 1, "I feel like ending my life as well", [], 2],
+		[1514100, 0, "I do not want to be the burden doing something like that . because that would just mask the issues that nobody knows about . I tried that a while ago . does not work . and so breaking long I have fought everything off just to keep myself together . now I got someone in my life who makes it better . but I still feel so broken . I m so so tired of living . even if I do not want to die anymore . I am so exhausted with my existence .", [], 2],
+		[582710, 2, "not quite . just think . if you could go out in . blaze of glory vs just removing yourself", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17330719,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Confused",
+	"turns_number": 5,
+	"dialogues": [
+		[0, 0, "it does not seem to matter what gender the other person is , i feel like before falling for what they are i fall for who they are but that confused me even more .", [], 2],
+		[1492427, 1, "I do not know if you are confused about anything but that sounds like you are pan ? I do not know the Pansexuals sometimes say that they see a person and not really their gender so I do not know if this is helpful to you or not but I hope it was", ["💀"], 2],
+		[0, 0, "and the guns that currently making me confused bout it ( not the first time i am confused bout it its actually the 3rd time ) well we talked like a lot and i ended up having for his of sleep and well since i woke up i am just waiting for him to get online", ["😩"], 2],
+		[1349053, 2, "pansexuality maybe ? I could be wrong the", [], 2],
+		[1017420, 3, "I find personality more attract have than looks or gender", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3
+	}
+}, {
+	"id": 17330152,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 5,
+	"dialogues": [
+		[1501298, 0, "can we ever understand a person without being understood by that person", [], 2],
+		[1497104, 1, "I can know someone in & out . But when I ask them a simply question about me they do not know . I guess I m always a shoulder to lean on , but not important enough to anyone for them to get to genuinely know me . No wonder why I always feel like a longer .", [], 2],
+		[1501298, 0, "done the try and try in many ways been all too long n not quite sure .", [], 2],
+		[1257711, 2, "You can try and try for that but it end badly if it does not work out trust", [], 2],
+		[831127, 3, "if that was the case nobody would understand anybody  ", ["🤷", "♂"], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3
+	}
+}, {
+	"id": 17327903,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 5,
+	"dialogues": [
+		[1509726, 0, "i feel that my mental health has declined and I just want to talk about everything that is hurting me but i ca not afford therapy and i have not found a way to video chat with others who are going through the same thing . please help !", [], 2],
+		[1333781, 1, "Financial worries , issues to sort are all reliable for me * warm huge * , if you wish to vent or talk , feel free to mug", [], 2],
+		[1509726, 0, "my financial inability and family issues has taken a great toll on me and I feel like I m drowning in stress and anxiety . I can not even sleep through the night because of all my frustration .", [], 2],
+		[1491054, 2, "Yeah let is talk maybe I can help", [], 2],
+		[1498685, 3, "Try talking to somebody out here , just talk and vent it out !", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3
+	}
+}, {
+	"id": 17916725,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Sad",
+	"turns_number": 9,
+	"dialogues": [
+		[1328008, 0, "send good vices people I m could position have", ["😔", "❤"], 2],
+		[1329903, 1, "it is ok . you ll be fine soon .", [], 2],
+		[1328008, 0, "I feel a lot better thanks everyone", ["😊"], 2],
+		[1178467, 2, "You got this You will be all fine .Just eat foods which helps to build immunity . lots of fruits and vegetables .", ["🤗"], 2],
+		[1204191, 3, "Hey you will be alright and you are not in quarante because we people are always there to talk to you whenever you need to . just be position have and eat healthy foods . Take care", [], 2],
+		[1370874, 4, "i am as well.it sort of get better after 7 - 8 days , Hope you get well sooner", [], 2],
+		[1010084, 5, "get well soon muddy ", ["❤"], 2],
+		[1495631, 6, "soon you ll be negative have", [], 2],
+		[904570, 7, "you ll get through it :)", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3,
+		"4": 4,
+		"5": 5,
+		"6": 6,
+		"7": 7
+	}
+}, {
+	"id": 17326363,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Anxious",
+	"turns_number": 4,
+	"dialogues": [
+		[1402877, 0, "I just message the guy I like ( mid conversation ) that he is adorable oh gash i am breaking . But like , he knows I like him so maybe it is ok ? I do not know oh my god", ["😖", "🥺"], 2],
+		[1410221, 1, "yeah , it is fine . just accept whatever happened next do not take any decision in anger or sadness think position have", [], 2],
+		[1402877, 0, "Update : it went fine", ["😇"], 2],
+		[1222084, 2, "Calm down I think things will be fine . Stay strong and see youth chin up ", ["☀"], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17936307,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Caring",
+	"turns_number": 5,
+	"dialogues": [
+		[1544151, 0, "I feel so worthless , empty , scared , confused , dissociated , hurt , filled with anguish n sense of being unsettled n feel.as though.the only way I can truly get my feelings , hurts , n emotions out is by experiencing a real good bare bottom spanning just like a parent would i have their children .", [], 2],
+		[1546811, 1, "you want a serious relationship ?", [], 2],
+		[1457332, 2, "you are wonderful , pretty , smart & cared for . I m sorry that you feel so . i am here if you need someone to talk to . I m sending you some green for when your life is despairing - A little sunshine for when you shelter from the storm - a little blue in the face of your torment - A little yellow for when the sky is grey - A little red for love - I m sending you a rainbow to remind you that life is still beautiful .", [], 2],
+		[1544151, 0, "Mike , I really do want to talk to you.", [], 2],
+		[1536195, 3, "you are loved even the I do not know you I love you because God gave me that love to love people with . And anything is possible with God sometimes we are stuck and we need big help", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3
+	}
+}, {
+	"id": 17403494,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Loving",
+	"turns_number": 4,
+	"dialogues": [
+		[1242704, 0, "In conclusion , you are beautiful :)", [], 2],
+		[1049312, 1, "We are all beautiful ", ["❤"], 2],
+		[1381269, 0, "that is not what he said the", [], 2],
+		[1009381, 2, "inconclusuon , that is a see see", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17105708,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 5,
+	"dialogues": [
+		[1495905, 0, "I feel so lost . My husband of 3 years decided to divorce me . I do not understand , we had the most loving , daring , and respectful marriage . it is crazy how someone can just wake up one day and for no reason not want to be married to you anymore .", [], 2],
+		[1494741, 1, "Do not feel bad you did everything you could", [], 2],
+		[1495905, 0, "I have exhausted every thing in me to try and make it work . He said he just is not in love with me anymore . Makes your self doubt start to kick in . Even though I know I did everything in my power to be a great and loving wife .", [], 2],
+		[921077, 2, "Talk to him see why he is made this decision and try your best to accept it . Maybe it is something you can work out , maybe not .", [], 2],
+		[748062, 3, "He did not just wake up one day and decided to divorce you , you probably over looked the red flags.sorry you are going through that .", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3
+	}
+}, {
+	"id": 17105579,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Inspired",
+	"turns_number": 8,
+	"dialogues": [
+		[779397, 0, "Him I felt inspired to do something and I said why not create something to pass time so I made a song hope you ll enjoy ithttps:/dry have.goose.com / file / d/1A4nrdlqxhimhsyju - gbnhpxtnd0idol / view?up = dry havesdk", [], 2],
+		[1131853, 1, "already on my Goose Dry have", [], 1],
+		[1131853, 1, "it is only instrumental ?", [], 1],
+		[692607, 2, "I was expecting you singing", [], 2],
+		[1010070, 3, "how much free time do you have ?", [], 1],
+		[1390553, 4, "Oh man . that was so nice to listen . especially from to:00 onwards I really loved the beats you really have a great talent . keep creating it . you have a beautiful future ahead . May God bless you to the fullest . You are capable of everything Never i have up on anything strong man Lastly thank you so much for lagging me here . I really enjoyed your music", ["🎶", "❤", "💪", "☺"], 2],
+		[564749, 5, "it is actually good , i like it", [], 2],
+		[779397, 0, "if you like the song comment me here I ll appreciate it", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3,
+		"4": 4,
+		"5": 5
+	}
+}, {
+	"id": 17320367,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Overwhelmed",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "So I am someone who does not believe in online or long distance relationships . But I met this girl who I like a lot . Can an online relationship work do you think ? It seems like it could never work . :(", [], 2],
+		[952242, 1, "hey it can not work , at one time i thought it could but its like you are still just strangers and you dun know each other like you should no matter but you do", [], 2],
+		[872029, 0, "it can but it is never as you think . i would choose wisely how you go about it", [], 2],
+		[884718, 2, "I think it can , but both people have to want it and work for it to work . You can not forget that you are a team and you are in it together", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17319093,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Supportive",
+	"turns_number": 5,
+	"dialogues": [
+		[1509272, 0, "If someone ever needs to talk i am here . i am the type where I will help others even if i am struggling . I struggle on my own most of the time the", [], 2],
+		[1483084, 1, "I need someone to talk to everyday and someone to be happy with", [], 2],
+		[1509272, 0, "Thank y all so much !", [], 2],
+		[1488709, 2, "how about you talk about what is wrong in you might be struggling to even I m here to listen to you you", [], 2],
+		[1346892, 3, "Thank you and we ll always be here for you as well", ["❤"], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3
+	}
+}, {
+	"id": 17318781,
+	"category": {
+		"id": 67,
+		"name": "Self-Care"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 6,
+	"dialogues": [
+		[1497341, 0, "I am hopeful I will get a liking body in to lose belly fat any tips please let me know .", [], 2],
+		[938163, 1, "Keep yourself in Calorie deficit zone , go for spot reduction exercises . but remember not to starve yourself otherwise it may lead to loose skin", [], 2],
+		[1497341, 0, "Thank you all for tips if you have more please tell me", [], 2],
+		[1506125, 2, "dance daily . it reduce stress and also reduce our fat . jolly way of weight loss", [], 2],
+		[298178, 3, "follow a program called Insanity by Shan T", [], 2],
+		[1056420, 4, "drink along water and try running in the morning before breakfast :) or just do some exercising at home and drink along water and no snacks ever unless it is fruit", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3,
+		"4": 4
+	}
+}, {
+	"id": 17317923,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loving",
+	"turns_number": 7,
+	"dialogues": [
+		[1509193, 0, "for men : how long is your current relationship or how long was the last one ?", [], 2],
+		[1462044, 1, "Currently single but my last relationship was 5 years , howe have that was 13 years ago .", [], 2],
+		[1509193, 0, "thank you everyone , keep the comments going ! let us hear a", ["☺"], 2],
+		[832479, 2, "6 years was the last left one", [], 2],
+		[1470676, 3, "for year relationship . None since then for a year and a half now . Probably never be in another relationship again . Not worth much", [], 2],
+		[1020378, 4, "zero and yet again zero # just - indian - things", ["😬"], 2],
+		[984464, 5, "1 year . Dumped for the guy who rapid her . I developed depression , self esteem , and suicidal creation because of it . Women have no idea how destruction have they are when they exchange good men for bad men . You potentially destroy a man entire sense of self and he is never kind to any women he meets after you because of your actions . Doubt any of you care though", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3,
+		"4": 4,
+		"5": 5
+	}
+}, {
+	"id": 17317129,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": null,
+	"turns_number": 5,
+	"dialogues": [
+		[1399044, 0, "I m going to hurt myself . Please . I do not want to do it but l want to at the same time . Please help me .", [], 2],
+		[820364, 1, "Try to sleep or watch a movie or take a walk . In other words try to direct mind .", [], 2],
+		[1399044, 0, "my des do not work anymore Ankhsunamun#9239 this is my discord .", [], 2],
+		[919743, 2, "It is not worth it , because it is a short term fix to a long term problem . And then the scars leave you with another long term problem", [], 2],
+		[382990, 3, "I m here for you . Talk to me please", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3
+	}
+}, {
+	"id": 17316575,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Depressed",
+	"turns_number": 6,
+	"dialogues": [
+		[1332555, 0, "ugh , I m depressed today .", ["😒"], 2],
+		[1485545, 1, "Been feeling the same for last few days . Hope you feel better", [], 2],
+		[1332555, 0, "plus I forgot to take my beds yesterday so it may have a lot to do with it . you you", [], 2],
+		[328815, 2, "what is giving you depression ?", [], 2],
+		[1300859, 3, "someday or the other everyone is .", [], 2],
+		[1367879, 4, "take a deep breath , go wash you are face with cold water several times , entertain herself with smith you like to do ,", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3,
+		"4": 4
+	}
+}, {
+	"id": 17316059,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 4,
+	"dialogues": [
+		[1508777, 0, "I really need someone to really love me for who and what I am", ["😔"], 2],
+		[1497981, 1, "are you bidding me a girl like you worrying about finding someone who loves her ? hata girl come on . i am sure that they are lining up in front of you", ["😐", "😂", "😑"], 2],
+		[1508777, 0, "I try my best to be a good woman", [], 2],
+		[1346896, 2, "you will do not worry . I have faith in you", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17315583,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Depressed",
+	"turns_number": 4,
+	"dialogues": [
+		[1509062, 0, "i have depression . I am using some drugs . But i feel tired and alone .", [], 2],
+		[1098821, 1, "Since there is do many types of antidepressants it is impossible to figure out which one is going to work for you unless you try it . Talk to you doctor if your meditation is not helping .", [], 2],
+		[1509062, 0, "this drugs about depression . do not do not", [], 2],
+		[933921, 2, "do not do that . It make it worst", ["😟"], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17315363,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Anxious",
+	"turns_number": 4,
+	"dialogues": [
+		[1364168, 0, "I just message my crush and he is essaying me back god help me", ["😩"], 2],
+		[1509005, 1, "now you mug God has listened to you , now you will not receive have any mug or call", [], 2],
+		[1477018, 2, "try your best to make him gets into", [], 2],
+		[1364168, 0, "He does not like me the", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17314682,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loved",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "I love my wonderful girlfriend . Should I be worried ?", [], 2],
+		[311564, 1, "since you are posting that shit here in a form of confusion query you definitely should be now", [], 2],
+		[0, 0, "You are right guns . It is all Fine", [], 2],
+		[743843, 2, "do you have a reason to be worried ?", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17314287,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 4,
+	"dialogues": [
+		[479586, 0, "What if he does not earn good but he is a good person and I love himshould I not marry him because he has no stability .", [], 2],
+		[1214337, 1, "Does he have a personal development plan or career improvement idea ?", [], 2],
+		[479586, 0, "What about love , does it fade away", [], 2],
+		[1395855, 2, "you will later Realize money is the most important thing", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17314256,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loving",
+	"turns_number": 4,
+	"dialogues": [
+		[479586, 0, "What if two people are in love but they want different things . And being together is also important but being together means many sacrifices by just one of them . Is separation the only option if we want different things than our partner , love has no role to play ?", [], 2],
+		[835190, 1, "by my experience I can tell you that at least 50 % of relationships end up not working out because of that exact issue . unfortunately people need to have things in common to make it work .", [], 2],
+		[479586, 0, "what is the right thing to do", [], 2],
+		[1505606, 2, "it is up to you", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17313044,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Supported",
+	"turns_number": 9,
+	"dialogues": [
+		[1508934, 0, "Today I broke up with my boyfriend , we had a very toxic relationship and I decided to end It . Now I m alone and I do not have any friends who can i have me a single hug .", [], 2],
+		[1285195, 1, "Hello and welcome here ! Great job on making the right decision rather then staying and being miserable ! You are strong and you will look back at this being the right thing to do . Now you can be free of the past and start working on the new you ! Be safe , lots of love and huge toyouryour", ["❤"], 2],
+		[1508934, 0, "thank you so much everyone , i did not think so many people would be there to support me ! i will try to see the position have side like Iii Summer said , at least It ended !", [], 2],
+		[1501502, 2, "Hey if you need help feel free to message me or if you just want an chat I m open for that swell :)", [], 2],
+		[1506727, 3, "I am lonely too , you can always come talk ,", [], 2],
+		[632838, 4, "yeah after the . update they removed that hug option too", [], 2],
+		[1494607, 5, "you can do me if you need to talk .", [], 2],
+		[418273, 6, "a virtual because of could", [], 2],
+		[1428004, 7, "Hug the Devil * huge *", ["😈"], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3,
+		"4": 4,
+		"5": 5,
+		"6": 6,
+		"7": 7
+	}
+}, {
+	"id": 17312438,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Meh",
+	"turns_number": 7,
+	"dialogues": [
+		[0, 0, "You all are no fun here", ["😒"], 2],
+		[1506538, 1, "in it is because we use this app to vent co y it is a mental health app brush", [], 2],
+		[1488847, 2, "What do you mean by fun ?", [], 1],
+		[0, 0, "You all hardly comment on nice things , you all only comment when attacked . So is is", ["😞"], 2],
+		[1403569, 3, "We are a bunch of depressed hoes of we are not fun", [], 2],
+		[1109762, 4, "and that is the real fun . an Ironic fun", [], 2],
+		[1239900, 5, "I am jumping on bed .", [], 1]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3,
+		"4": 4,
+		"5": 5
+	}
+}, {
+	"id": 17935829,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Numb",
+	"turns_number": 4,
+	"dialogues": [
+		[1486104, 0, "I do not want to li have anymore I just can not help me please I can not do it anymore pretend like it is all alright when I am dying inside", [], 2],
+		[951063, 1, "inside and outside . when you want it you are going to make it . you will be great", [], 2],
+		[1045252, 2, "hey it is going to be ok do not do anything bad trust me it is going to get easier just hang in there", [], 2],
+		[1486104, 0, "ok keep liking them for your help everyone", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17935429,
+	"category": {
+		"id": 72,
+		"name": "Anxiety"
+	},
+	"emotion": "Anxious",
+	"turns_number": 4,
+	"dialogues": [
+		[1544093, 0, "Panic disorder is really scar during Could", [], 2],
+		[1541035, 1, "My daughter has something and doctor says anxiety disorder . She has never ties that come on at the restaurant , neighbors , grocer store , while watching to , or doing room ( room really bad ) and it is her senior year . She had 3 entire weeks and could not speak only who and hata . doctor took her off all beds and it just gets worse . My heart hurts . my own BY mania has showed it is face and I can not get any help .", [], 2],
+		[1544093, 0, "Does anyone here has panic disorder ? ", ["☹"], 2],
+		[1360279, 2, "Sorry you have this too . it sure does not help . I hope you find your peace !", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}, {
+	"id": 17311885,
+	"category": {
+		"id": 68,
+		"name": "I Need Help"
+	},
+	"emotion": "Supported",
+	"turns_number": 6,
+	"dialogues": [
+		[1427737, 0, "This shows that you are compassionate and affectionate . That is how I am .", [], 2],
+		[252796, 1, "It is definitely ok . Pets become part of our families .", [], 2],
+		[1427737, 0, "It is normal . I send huge", [], 2],
+		[390370, 2, "I ll never get over it when my cat dies", [], 2],
+		[1398495, 3, "its totally normal to cry when you lose a pet !", [], 2],
+		[1488703, 4, "it is ok , everything will be fine", ["💜"], 2]
+	],
+	"speakers": {
+		"1": 0,
+		"2": 1,
+		"3": 2,
+		"4": 3,
+		"5": 4
+	}
+}, {
+	"id": 17311822,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Embarrassed",
+	"turns_number": 5,
+	"dialogues": [
+		[464736, 0, "My boyfriend suffers from premature ease you alteration . what can I do to help", [], 2],
+		[1241645, 1, "Tell him to work on it . You should not have to do his homework", ["😂"], 2],
+		[464736, 0, "I think he got very mild UP as well . so that might effect it I do not know", [], 2],
+		[1471424, 2, "the to encourage him . I was tried a guy and I found out he had that too", [], 2],
+		[1443908, 3, "Tell him to think of the bathroom scene in the shining while doing it", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3
+	}
+}, {
+	"id": 17311706,
+	"category": {
+		"id": 65,
+		"name": "Eating Disorders"
+	},
+	"emotion": null,
+	"turns_number": 6,
+	"dialogues": [
+		[1399044, 0, "May I speak with someone who has an ED ? I have some questions .", [], 2],
+		[1419153, 1, "i am ok with answering questions depends on what ED you want to talk about . i have bolivia more on the anorexic side .", [], 2],
+		[1508879, 2, "we can talk on discord , add me . it is lamegamer#9782", [], 2],
+		[1399044, 0, "I see you mentioned me in a comment . Due to me being online and no longer having the pp , I can not see what you wrote . You need to create a new comment without replying to mine or mentioning me in it .", [], 2],
+		[1399044, 0, "Really ? may I i have you my discord and we may speak on there ? I do not have des on the pp anymore", [], 2],
+		[1508879, 2, "I would be glad to answer some foryouryour", [], 2]
+	],
+	"speakers": {
+		"0": 0,
+		"1": 1,
+		"2": 2
+	}
+}]
