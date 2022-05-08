@@ -1,0 +1,565 @@
+[{
+	"id": 17943571,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Overwhelmed",
+	"turns_number": 3,
+	"dialogues": [
+		[1442206, 0, "I need someone but I am too insecure , or prideful to admit it", []],
+		[1543601, 2, "it's normal do not worry to say it .", []],
+		[1537662, 1, "Everyone is here has some struggle to fight with , you are not alone say what you want to said freely", []]
+	],
+	"speakers": {
+		"Ash": 0,
+		"Swoordie": 1,
+		"positiveDarkness": 2
+	}
+}, {
+	"id": 17943569,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Calm",
+	"turns_number": 4,
+	"dialogues": [
+		[1506393, 0, "I stopped essaying you but i could not stop missing you", ["😌", "🦋"]],
+		[1245735, 3, "must be someone special to you", []],
+		[1543601, 2, "i know this feeling .", []],
+		[1401663, 1, "Memories bring back , memories bring back you", []]
+	],
+	"speakers": {
+		"Vampire 🦋": 0,
+		"Parth  with the D": 1,
+		"Swoordie": 2,
+		"Daredevil": 3
+	}
+}, {
+	"id": 17407221,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Exhausted",
+	"turns_number": 3,
+	"dialogues": [
+		[888983, 0, "Being dead would definitely be better than living this embarrassing trash show called life . Being socially anxious and depressed is the worst", []],
+		[1514203, 2, "Especially when your depression shows . People just seem to find it fun to pick at you for it .", []],
+		[1514209, 1, "I can related my friend but there are brighter day I ll be praying for you well being do not i have up there are brighter days god bless !", []]
+	],
+	"speakers": {
+		"24jsmn": 0,
+		"Brandon": 1,
+		"Eezz": 2
+	}
+}, {
+	"id": 17407196,
+	"category": {
+		"id": 67,
+		"name": "Self-Care"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[91524, 0, "I need to be someone else . something else . I need to change I guess . I need to stop thinking so much at least .", []],
+		[1466912, 2, "If you find it hard to inspire yourself , try something that will inspire other people . Its like a boomerang", ["😀"]],
+		[1514206, 1, "You do not need to be someone else . Not at all . You need to find yourself , which is really diffuse you later to do . The overthinking is slowly killing us , makes us feel worthless and if we are not good enough at anything and that we are wrong . The problem is your thoughts , not you . You should try to do some meditation , it should help you control and suppress the overthinking circle . Try to stay strong .", []]
+	],
+	"speakers": {
+		"phoenix": 0,
+		"Anne": 1,
+		"gloomy": 2
+	}
+}, {
+	"id": 17407166,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[558689, 0, "i am so worthless and afraid , depressed and ashamed .", []],
+		[1250713, 2, "somehow it will be ok . stay strong", []],
+		[1511887, 1, "You are not worthless , I mean it . And why are you afraid or ashamed", []]
+	],
+	"speakers": {
+		"megan": 0,
+		"ATHEIST GOD": 1,
+		"Kaan": 2
+	}
+}, {
+	"id": 17407133,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Positive",
+	"turns_number": 3,
+	"dialogues": [
+		[871848, 0, "The best thing I did for myself : I stopped chasing someone who was ok losing me .", []],
+		[1514203, 2, "Glad you saw your worth .", []],
+		[1003681, 1, "that is awesome ! never forget your worth , add tax and interest too !", []]
+	],
+	"speakers": {
+		"Angel2019": 0,
+		"Brandon": 1,
+		"Lola Bunny": 2
+	}
+}, {
+	"id": 17406951,
+	"category": {
+		"id": 5,
+		"name": "Bullying"
+	},
+	"emotion": "Sad",
+	"turns_number": 5,
+	"dialogues": [
+		[1512160, 0, "What would you do if people online were spreading lies about you and you could not defend yourself because you do not want them to know you even know what they are saying ? but it is ruining your reputation and people believe it bc they do not know you", []],
+		[1441273, 4, "Those who care will talk to you about it to hear your side of the story", []],
+		[1130332, 3, "I would work on becoming the best version of myself and not worry to much about the other people . I would work on my own mental health and remove myself from the situation , whether that means meeting social media or taking a break . Just solely rousing on my well being and removing toxicity from my life .", []],
+		[353197, 2, "then let people know who you really are , show them the real you and ignore these lies", []],
+		[1395205, 1, "Why not take a stand and let them know the real you", []]
+	],
+	"speakers": {
+		"Gracie": 0,
+		"Hoss": 1,
+		"SpiritualSongstress💚": 2,
+		"Itachi sensei 🇪🇬": 3,
+		"NeedToLearnStuffs": 4
+	}
+}, {
+	"id": 17406910,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1510571, 0, "I came here seeking for help but I m still all alone , th changed", []],
+		[1439116, 2, "i am here best . you can talk to me if you want i am always available", []],
+		[1466912, 1, "You are never alone , so many of us are here for you", ["❤"]]
+	],
+	"speakers": {
+		"you name me": 0,
+		"<3": 1,
+		"Anne": 2
+	}
+}, {
+	"id": 17406909,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[1046624, 0, "I got into a fight with my sister and she told me to go kill myself , I took more than I m supposed to of my anxiety beds , I self harmed yesterday and have to wear long sleeves today . O hate my day so far .", []],
+		[1466912, 2, "Your sister needs a full dose of reality . That is an awful thing to say to someone- no matter who they are .", []],
+		[1505325, 1, "Do not listen to your sister . We want you here ali have well and not self harming yourself . Today might not be the best day but you are here now and i wish you feel better .", []]
+	],
+	"speakers": {
+		"Bird Brain": 0,
+		"Anne": 1,
+		"One eye Willie": 2
+	}
+}, {
+	"id": 17406902,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loving",
+	"turns_number": 5,
+	"dialogues": [
+		[1514191, 0, "I just need someone in my life", []],
+		[951592, 4, "got the person i want more than anything right front of me . she loves me but not in the way i want . hurts like hell but i put up with it because i rather have her in my life than not at all", []],
+		[1425917, 3, "you have someone . YOU . start treating yourself with love , respect and dignity as much as you would to someone else in your life who you love .", []],
+		[1513824, 2, "you have you , yourself and most importantly YOU", []],
+		[1512771, 1, "You have your right hand do not you", []]
+	],
+	"speakers": {
+		"Assam Reagan": 0,
+		"Josue": 1,
+		"*Amira❤️Adore*": 2,
+		"m_keke_m": 3,
+		"User Suspended": 4
+	}
+}, {
+	"id": 17406840,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "One of these days I ll find someone I can be open with about anything .", []],
+		[935879, 2, "It is a great feeling th . I hope that you find this someone !", []],
+		[1491526, 1, "I truly hope you find that person", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"W": 1,
+		"NightOwl29": 2
+	}
+}, {
+	"id": 17406709,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "I need to be stronger , I m so weak", []],
+		[930805, 2, "It's all about self improvement , if you li have an unhealthy lifestyle then its a place to start to improve . If its not the case then i wish you the best", []],
+		[1514182, 1, "I completely understand how you feel but I try to think of depression as a war you win battles you lose battles but as long as you keep fighting you are strong", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Mikky": 1,
+		"Tayla": 2
+	}
+}, {
+	"id": 17406702,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Depressed",
+	"turns_number": 4,
+	"dialogues": [
+		[1502751, 0, "Tonight I want to end it , i have had enough , but i ca not and it makes me so maids that app real , are there people that really care , and or just automatic responses ?", []],
+		[940104, 3, "hold on to whatever made you decide otherwise . glad you kept going . stay safe", []],
+		[743843, 2, "i am sorry you feel like this , if you want to talk you can always text me . hug for you", ["🤗"]],
+		[1514048, 1, "please do not take your life . I m in that same box you are in but I m holding on . You can do it too . you have made it this far which means you are stronger than you think .", []]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"i": 1,
+		"~ Broken Shadow ~": 2,
+		"mangqungqu😜": 3
+	}
+}, {
+	"id": 17406611,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "I think I want to quit art and just focus on my music", []],
+		[1314958, 2, "Do what feels right for you . I wish you all the best", []],
+		[1003681, 1, "you have to keep in mind that music is art too . so you never really gave up art !", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Who's Luis?": 1,
+		"Lola Bunny": 2
+	}
+}, {
+	"id": 17406569,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Numb",
+	"turns_number": 3,
+	"dialogues": [
+		[1514176, 0, "numb , empty , motionless . The only things I have been  feeling  for weeks now . but these past few days it is gotten worse no matter how hard I try to  stay position have  or do things to distract me . It always comes and floods my mind .", ["😞"]],
+		[344634, 2, "i am here for you my friend , just do not i have up on herself during this bad phase .", []],
+		[1312627, 1, "find life purpose , find your true inner self , improve mind and body , coming better with depressionthen you be at peace you like to know more ? do me", []]
+	],
+	"speakers": {
+		"aims": 0,
+		"hASH": 1,
+		"Righteous Force": 2
+	}
+}, {
+	"id": 17406463,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Anxious",
+	"turns_number": 3,
+	"dialogues": [
+		[1204613, 0, "Hey guys . I have like a really bad stomach ache . and like I feel sick . but I have college tomorrow . what do I do ?", []],
+		[1257431, 2, "suck it up and go ! the first day is really important", []],
+		[496407, 1, "Take something to ease the sickness but if you really do not feel too great you should not go , your health should come first especially during this time ", ["❤"]]
+	],
+	"speakers": {
+		"Broken.girl.": 0,
+		"🪐Zarina🪐": 1,
+		"Erin__": 2
+	}
+}, {
+	"id": 17406445,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Sad",
+	"turns_number": 5,
+	"dialogues": [
+		[1514166, 0, "I m not good enough are not I ? I m ugly , I Am ? I m annoying are not I ?", []],
+		[697764, 4, "I do not think so .", []],
+		[1031520, 3, "are not you * / am i*You are not ugly nor annoying & you are enough .", []],
+		[1514145, 2, "my dad is annoying . even people tell me I m annoying . I feel like I m becoming exactly like my dad as I m growing up .", []],
+		[1288103, 1, "you are perfect just the way you are friend !", []]
+	],
+	"speakers": {
+		"Jupiter _starlove": 0,
+		"Far han": 1,
+		"Theonly": 2,
+		"Rajveer Arora": 3,
+		"SPARTAN-117": 4
+	}
+}, {
+	"id": 17406439,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[483863, 0, "I have lost or am losing interest in everything . I feel ok and better than before , I think , but its becoming harder to bother with anything or anyone . I feel I am going to start losing people soon , as I have not been making an effort to talk . It is hard to want to be act have in life .", []],
+		[233586, 2, "I have been feeling the same way . It is like . I m not as depressed as I was before but now I just have no will or motivation to do anything with my life . Most of the days I just exist", []],
+		[548925, 1, "maybe its depression ? I hope it will pass soon . apathy is quite awful . do you have a therapist or Dr who you can talk to about it ?", ["🌻"]]
+	],
+	"speakers": {
+		"S0me0neNew": 0,
+		"elain": 1,
+		"GirlDisappearing": 2
+	}
+}, {
+	"id": 17406387,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Inspired",
+	"turns_number": 3,
+	"dialogues": [
+		[900818, 0, "I have been working every weekend as a cinematographer the last for months . I just started working out again . I made some $ and saving every cent . And tonight I have a date . Things going pretty well lately .", []],
+		[504336, 2, "Congress ! Keep it up and good luck on the date", ["😊"]],
+		[743843, 1, "I m glad to hear your back on track , keep going like this!have fun tonight my friend , enjoy", ["🤗"]]
+	],
+	"speakers": {
+		"FilmAddict": 0,
+		"Prima ": 1,
+		"~ Broken Shadow ~": 2
+	}
+}, {
+	"id": 17406377,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 5,
+	"dialogues": [
+		[1391470, 0, "I am losing my friends one by one . is something wrong with me ?", []],
+		[982710, 4, "I think it depends , what is the reason of them leaving .", []],
+		[1514145, 2, "oh you are still losing . I lost mine several years ago . someone told me everyone is temporary . I wish it was not true .", []],
+		[1514145, 2, "do you want to be friends with me ? besides I have no friends at all . and I m new here", []],
+		[496407, 1, "Life works in funny ways . I think it is a good thing because they are not in your life anymore for a reason , it i have you a chance to grow and meet new people who are better suited for you . It can be hard to let go of these people because you share a lot of memories that you do not want to lose but sometimes you have just got to take it as it is and good will come to you ", ["❤"]]
+	],
+	"speakers": {
+		"Nympha": 0,
+		"🅝🅐🅣🅐🅛🅘🅔": 1,
+		"Rajveer Arora": 2,
+		"Erin__": 3
+	}
+}, {
+	"id": 17406360,
+	"category": {
+		"id": 72,
+		"name": "Anxiety"
+	},
+	"emotion": "Supported",
+	"turns_number": 4,
+	"dialogues": [
+		[1026183, 0, "I am getting sick of always feeling weak because of anxiety ! it is annoying everyday with anxiety symptoms ! I just want it to go away !", ["😓"]],
+		[1514094, 2, "hey i feel you , want to talk ?", []],
+		[1514173, 1, "A like help you , but i do not make this because i do not speak english very good , i am from Brass", []],
+		[1514173, 1, "but i know what you will good", []]
+	],
+	"speakers": {
+		"♡loveJanelle ♡": 0,
+		"dreamgirl": 1,
+		"Ariel F. Costa": 2
+	}
+}, {
+	"id": 17406252,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Angry",
+	"turns_number": 3,
+	"dialogues": [
+		[1513969, 0, "Everybody rates me in my hometowneverybody rates me", []],
+		[770153, 2, "I m sorry to hear that . maybe consider moving away ? I did that when I was in a similar situation", []],
+		[1491526, 1, "hey do not feel bad maybe just a change of environment", []]
+	],
+	"speakers": {
+		"Yo Yo Deadboy": 0,
+		"∆": 1,
+		"NightOwl29": 2
+	}
+}, {
+	"id": 17406221,
+	"category": {
+		"id": 68,
+		"name": "I Need Help"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[579770, 0, "You know that i am here if you need to talk <3", []],
+		[859993, 2, "i hope the virtual hug helps", []],
+		[1247195, 1, "I m here for you", []]
+	],
+	"speakers": {
+		"🌻": 0,
+		"Zak": 1,
+		"Austin Hadley": 2
+	}
+}, {
+	"id": 17406219,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Inspired",
+	"turns_number": 4,
+	"dialogues": [
+		[1514161, 0, "i am struggling so hard i am Destroying myself", []],
+		[1441033, 3, "I am too . I m not sure how I can be more self drstructi have", []],
+		[1499088, 2, "same I feel like giving up", ["😪"]],
+		[1512230, 1, "same . i have no desire to do anything", []]
+	],
+	"speakers": {
+		"Leonie Kühni": 0,
+		"river song bored asf": 1,
+		"itz.bry_bry🎭": 2,
+		"Milan Luu": 3
+	}
+}, {
+	"id": 17406178,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Nervous",
+	"turns_number": 4,
+	"dialogues": [
+		[1385851, 0, "am i that unlovable ? :/", []],
+		[270807, 2, "I do not know you", []],
+		[270807, 2, "But probably you just have not found the right people yet .", []],
+		[1507538, 1, "I love your helpless and beautiful self mate ! I m sure people who have you in their life , appreciate your presence and feel blessed to have a friend in you", []]
+	],
+	"speakers": {
+		"bb yoda": 0,
+		"🇰🇪 me": 1,
+		"Alien": 2
+	}
+}, {
+	"id": 17406132,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Lonely",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "Everybody is making me feel unwanted on this pp , just because I am young and no one takes me serious .", []],
+		[989532, 3, "then do not say your age , it really makes a difference", []],
+		[859993, 2, "up . better do not mention your age on the profile . put it to something like 120", []],
+		[801545, 1, "you do not need feel unwanted no matter what age you are . as the others say to feel safe put your age on 120 or something . if you need to vent or talk feel free . i am here for you", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"MaryJune": 1,
+		"Zak": 2,
+		"MrLooping82": 3
+	}
+}, {
+	"id": 17406117,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[1266394, 0, "all my TO posts are so depressing but i only come here when i am really sad or when i want to say something i ca not or wo not say girl . whatever .", []],
+		[593745, 2, "that is what I use this for.its useless for anything else .", []],
+		[1349053, 1, "that is totally fine . you are allowed to express yourself howe have you see fit . I hope you feel better soon", []]
+	],
+	"speakers": {
+		"aria 🥀": 0,
+		"Granny👵🏿": 1,
+		"Lain": 2
+	}
+}, {
+	"id": 17773058,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[491776, 0, "The World is Full of Beautiful Things Like You ^_^", ["🌍"]],
+		[1524867, 2, "Also . like you , too", ["🤗", "🌷"]],
+		[1534974, 1, "In fact , I am the MOST beautiful thing .", []]
+	],
+	"speakers": {
+		"Himandri": 0,
+		"Eren": 1,
+		"Tartare Sauce": 2
+	}
+}, {
+	"id": 17773053,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "I am feeling very lonely . I do not feel like i have an act have friendcircle , I do not feel like i have a best . i do not feel like there is someone looking out for me . anyone there to support me through my problems ?", ["😟"]],
+		[1501774, 2, "Hey can you message me i feel the same", []],
+		[1534534, 1, "I have your same problem . It is hard to find someone you can really trust", ["🥺"]]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"LostTryingToFindMyWay": 1,
+		"Yosra": 2
+	}
+}, {
+	"id": 17773035,
+	"category": {
+		"id": 53,
+		"name": "Education"
+	},
+	"emotion": "Exhausted",
+	"turns_number": 3,
+	"dialogues": [
+		[1469536, 0, "I m unhappy . I can not cope with both work and studies . I have no motivation to finish my assignment which is due on Friday", []],
+		[1431899, 1, "I hear you , I feel the exact same way", []],
+		[1431899, 1, "and my assignment is due friday as well and I m not close to be being done", []]
+	],
+	"speakers": {
+		"Doggy": 0,
+		"Dime": 1
+	}
+}]

@@ -1,0 +1,761 @@
+[{
+	"id": 17994218,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Loved",
+	"turns_number": 3,
+	"dialogues": [
+		[971782, 0, "school teacher be like : teacher : what is 20 dollars + 1 dollar?student : 21?teacher : 21 WHAT ? APPLES ? BANANA ? SAVAGE ? 21 WHAT ? ! ? !", []],
+		[1546555, 2, "That is so true ! :)", []],
+		[1140459, 1, "laughing my arms off . that is so true . and here I am like what the fuck do not a know the question .", ["🙄"]]
+	],
+	"speakers": {
+		"justa boi": 0,
+		"JKP": 1,
+		"S̶̶i̶̶r̶̶i̶̶u̶̶s̶̶A̶̶c̶̶u̶̶b̶̶e̶̶n̶̶s̶̶": 2
+	}
+}, {
+	"id": 17994182,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1392069, 0, "Have a heart that never gardens , and a temper that never tires , and a touch that never hurts . ", ["❤"]],
+		[977204, 2, "It is kind of hard .", ["😐"]],
+		[1114630, 1, "your app is such a mood .", []]
+	],
+	"speakers": {
+		"Pizza & Beer 🍕🍻": 0,
+		"Hi, It's May | 🥀": 1,
+		".": 2
+	}
+}, {
+	"id": 17994168,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 4,
+	"dialogues": [
+		[1547427, 0, "Mistakes are better than regrets", []],
+		[1136232, 3, "Only if you regret , it is a mistake or else it is an event", []],
+		[1446863, 2, "but what if we ca not solve those mistakes ?", []],
+		[265543, 1, "but mistakes cause regrets right ?", []]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"Arun ĢŃ": 1,
+		"James016": 2,
+		"love_me_like_I_do": 3
+	}
+}, {
+	"id": 17994153,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Insecure",
+	"turns_number": 3,
+	"dialogues": [
+		[1289528, 0, "Once I told my therapist that our sessions do not correspond some because we are always in contradiction . She said it was my fault because I can not accept others opinions . Yesterday , I spoke to her and that I could understood her point . Then in the middle of the session , she said I bring everybody down with me , in depression", ["😔"]],
+		[1530801, 2, "Must be diffuse you later to hear those things", []],
+		[619435, 1, "so what ? ! of course they are going to be down with you and sad , because they CARE about you . they want you to feel better . would you blame someone for getting in a car accident and their family members being completely devastated ? No ! That therapist is a PUS if you ask me . Also from what I understand , they are not supposed to make any claims or force a statement on you - they only guide your train of thought , help you explain and vent emotions , and suggest things .", []]
+	],
+	"speakers": {
+		"Elisa 🇨🇭": 0,
+		"MyShadow": 1,
+		"Drew": 2
+	}
+}, {
+	"id": 17944438,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Irritated",
+	"turns_number": 3,
+	"dialogues": [
+		[1450235, 0, "it is hard to get vaccine in my country cos i m not doctor nor president . * sigh *", []],
+		[1508835, 2, "come . I will inject up", []],
+		[1544301, 1, "where are you from ?", []]
+	],
+	"speakers": {
+		"bonita": 0,
+		"cora": 1,
+		"Awaara": 2
+	}
+}, {
+	"id": 17944400,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[1544541, 0, "Such . I need a boyfriend . also I can talk to sleep .", []],
+		[1541895, 2, "He may forget most of your words after sleep", []],
+		[1544301, 1, "you need a boyfriend is you can go to sleep , so unfair on the poor guy", ["😂"]]
+	],
+	"speakers": {
+		"Enny": 0,
+		"George": 1,
+		"Awaara": 2
+	}
+}, {
+	"id": 17944393,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Sick",
+	"turns_number": 3,
+	"dialogues": [
+		[1310448, 0, "How do you handle anxiety", []],
+		[1283064, 2, "sleep . medicine . roaming out . talking with dear one . chocolate", ["💕"]],
+		[1360990, 1, "Write down the problems then rip the paper to bits . works for me plus gets clot of my chest .", []]
+	],
+	"speakers": {
+		"Tej": 0,
+		"LIONESS__GIRL": 1,
+		"🌻 El 🌻": 2
+	}
+}, {
+	"id": 17944380,
+	"category": {
+		"id": 72,
+		"name": "Anxiety"
+	},
+	"emotion": "Anxious",
+	"turns_number": 3,
+	"dialogues": [
+		[950490, 0, "Is my brain upset with me or am i upset with my brain ? The functions i want to do vs the execution of these actions . constant battle . always losing .", []],
+		[1183634, 2, "You are your brain . One part of your brain is upset with another part .", []],
+		[1378898, 1, "that is what called emotions , I hate having my emotions and I get tired of it now how you feel drain and can not keep moving through out your days", []]
+	],
+	"speakers": {
+		"Wonder": 0,
+		"Max01": 1,
+		"star": 2
+	}
+}, {
+	"id": 17944377,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[1310448, 0, "Social media were meant to connect people but .", []],
+		[994467, 2, "If everyone was forced to comment or message with a video message / comments it would be a different story", []],
+		[1462390, 1, "it made them more distant", []]
+	],
+	"speakers": {
+		"Tej": 0,
+		"aš☠︎︎ℳ𝓎𝓁𝒾𝓊 𝓉𝒶𝓋ℯ 𝒾𝓇 𝓈𝒶𝓋ℯ☢︎︎": 1,
+		"sunshine": 2
+	}
+}, {
+	"id": 17944311,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Lonely",
+	"turns_number": 4,
+	"dialogues": [
+		[1544541, 0, "Why is it so hard to find someone who speaks the same frequency like us ?", []],
+		[1136232, 3, "You need to be popular for that", []],
+		[1540763, 2, "cause we are wired differently , unique . but most likely you ll find someone who is the same wavelength as you", []],
+		[1483084, 1, "I need someone to talk to everyday", []]
+	],
+	"speakers": {
+		"Enny": 0,
+		"Arun ĢŃ": 1,
+		"Eljaded": 2,
+		"Gideon": 3
+	}
+}, {
+	"id": 17944283,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Loving",
+	"turns_number": 4,
+	"dialogues": [
+		[1312221, 0, "You did not touch my heart , you touched my soul", []],
+		[1532021, 3, "I would have to kill you if I wanted to touch your heart", []],
+		[1377067, 2, "she did not touch my app , so I touched myself", []],
+		[1544137, 1, "she did touch my heart and played with my feelings and left me alone", ["💔"]]
+	],
+	"speakers": {
+		"Roel": 0,
+		"yourweirdclassmate": 1,
+		"potatosenpai": 2,
+		"🌚kush !!": 3
+	}
+}, {
+	"id": 17944271,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Bored",
+	"turns_number": 5,
+	"dialogues": [
+		[1075385, 0, "please please please motivate me to study a little", []],
+		[602025, 4, "if you study , there be colonies when you finish", []],
+		[1543601, 3, "You want to be stupid and without work ? no . so study for you are better future !", []],
+		[866846, 2, "well you have to study to i have you are held a better tomorrow", []],
+		[1430132, 1, "do not study , stay happy wasting time and rock the cradle", []]
+	],
+	"speakers": {
+		"Mariyam": 0,
+		"The Lunatic": 1,
+		"Swoordie": 2,
+		"AAMHL": 3,
+		"Ria": 4
+	}
+}, {
+	"id": 17944245,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 3,
+	"dialogues": [
+		[1426505, 0, "How do you look at someone you love and tell yourself it is time to walk away ? .", ["😭", "💔"]],
+		[1495631, 2, "it will happen by itself .", []],
+		[1217393, 1, "Simply walk away and move on .", []]
+	],
+	"speakers": {
+		"Jane": 0,
+		"Noseferatu": 1,
+		"user finnished": 2
+	}
+}, {
+	"id": 17944238,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Inspired",
+	"turns_number": 4,
+	"dialogues": [
+		[1245735, 0, "I never faced my care for someone", []],
+		[1377067, 3, "you should ! would save you a lot of trouble", []],
+		[1544519, 2, "must have hurt at some point", []],
+		[1535861, 1, "Ignoring the other comment of potatosenpai : That is good ! it is nice to know there is someone out there who does not face things important things like that . I personally find taking that you care to be extremely cruel or just plain wrong depending on what your taking exactly ", []]
+	],
+	"speakers": {
+		"Parth  with the D": 0,
+		"potatosenpai": 1,
+		"Val": 2,
+		"Summer": 3
+	}
+}, {
+	"id": 17944205,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loving",
+	"turns_number": 3,
+	"dialogues": [
+		[1542196, 0, "They remember only my mistakes they did not see how much I take care", ["🥺", "😰", "😢"]],
+		[644884, 2, "Imagine being a really good babysitter until you kill the baby by mistake one day :/", []],
+		[1543791, 1, "yeah.it also happens to me.dont just get upset yourself over negative have things.just be position have", []]
+	],
+	"speakers": {
+		"sai teja": 0,
+		"Danny": 1,
+		"lazy potato": 2
+	}
+}, {
+	"id": 17944146,
+	"category": {
+		"id": 50,
+		"name": "Music"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[1428004, 0, "I do not know why i am feeling Empty tonight", []],
+		[1479543, 2, "try fight with like levi , you will feel better :)", []],
+		[1542900, 1, "Try to do something brush . you can listening some music to boost your mood", []]
+	],
+	"speakers": {
+		"Numb♑": 0,
+		"sirius black": 1,
+		"J💜": 2
+	}
+}, {
+	"id": 17944130,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Thankful",
+	"turns_number": 3,
+	"dialogues": [
+		[656925, 0, "What is something that you are thankful for today ?", []],
+		[1532021, 2, "that I am breathing ?", []],
+		[1220872, 1, "My family.(it is actually everyday . )", []]
+	],
+	"speakers": {
+		"Wantun": 0,
+		"yourweirdclassmate": 1,
+		"Ethereal_existence": 2
+	}
+}, {
+	"id": 17944129,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "am I the only girl who feels extremely sleepy while on my period ?", []],
+		[1037632, 2, "some times it is me", []],
+		[488604, 1, "Ah I sleep all day when i am on mine", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"lucky": 1,
+		"Ino🥀": 2
+	}
+}, {
+	"id": 17944121,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Shocked",
+	"turns_number": 28,
+	"dialogues": [
+		[1121938, 0, "NEWTON BABIES LOOK LIKE ALIENS!Anyone who disagrees ?", ["😒"]],
+		[378234, 28, "They look rather disgusting honestly", []],
+		[622527, 27, "I mean they do not look like aliens . I want to draw aliens . I have such a desire to avoid babies that I would not even draw one .", []],
+		[485992, 26, "Oh my god i swear just i saw newton he was like alien", []],
+		[1372060, 25, "aah they look like shit , aliens are much cooper", []],
+		[1025482, 24, "I am just here to say  baby life matter  after seeing all these comments And yea they look like aliens .", ["😳", "🥴"]],
+		[1257431, 23, "they look like ET and smell like hospital", ["😂"]],
+		[684673, 22, "I like if they have alien eyes . Otherwise , no , they look like underdeveloped deformed squishy humans to me", []],
+		[1535161, 21, "yeah i do not like their faces", ["😂"]],
+		[1455162, 20, "why this is so popular ?", ["😂"]],
+		[1405208, 19, "i definitely agree but after a couple weeks they start to get cut laugh out loud", []],
+		[1535766, 18, "a bloody pile of meat", []],
+		[1365919, 16, "From some comments here I feel like some of y all have never actually had contact with a newton", []],
+		[697379, 15, "The come out looking like potatoes , beans or straight up aliens", []],
+		[1253816, 14, "they look like human meatal and not in a mummy way I do not like em", []],
+		[508050, 13, "some of the people in comments really scare me oh my god .", ["💀"]],
+		[1360781, 12, "I do ! They look like potatoes to me .", []],
+		[1066151, 11, "ah I do not think so", []],
+		[270519, 10, "They look like a monstrosity", []],
+		[908696, 9, "They look super cut and we never see aliens . We just imagined it .", []],
+		[349954, 8, "oh hell yeah , and they all look the same th", []],
+		[1534237, 7, "why is it the human babies are so awful but that of other species are so cut", []],
+		[1354181, 6, "yes and they get unimaginably annoying when they learn to talk", []],
+		[1260790, 5, "BRUSH the boost worked very well LAFA", ["😂"]],
+		[1535445, 4, "they look like an unfinished network", []],
+		[1430132, 3, "looks like featureless , fatherless chicken in:|", []],
+		[1441806, 2, "Can not say I disagree but I also do not know what an alien looks like", []],
+		[1335292, 1, "sinus but make it a ll worse", []]
+	],
+	"speakers": {
+		"🕸️ 𝑨𝒚𝒏𝒂𝒆𝒕 🕸️": 0,
+		"Daniel": 1,
+		"durka": 2,
+		"I can't handle stress stay away": 3,
+		"siwar": 4,
+		"Potato Angel💝": 5,
+		"🪐Zarina🪐": 6,
+		"Kama2": 7,
+		"➡➡➡": 8,
+		"Linquty": 9,
+		"ctrlaltd3l": 10,
+		"werardgay": 11,
+		"Alina": 12,
+		"Cassie": 13,
+		"hobocollector": 14,
+		"hello! it's a potato": 15,
+		"Mirror": 16,
+		"Cheese burst pizza": 17,
+		"Saitama 👊🏻": 18,
+		"Aurora🌸": 19,
+		"User Banned": 20,
+		"Caminante": 21,
+		"Zenith": 22,
+		"JaM1209": 23,
+		"nevyn": 24,
+		"Ria": 25,
+		"🦇𝐕𝐚𝐦𝐩𝐲🦇": 26,
+		"silver": 27
+	}
+}, {
+	"id": 17944118,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Calm",
+	"turns_number": 3,
+	"dialogues": [
+		[836488, 0, "A break from someone will either make you realize how much you truly miss / love them or how much peace you have without them .", []],
+		[1334445, 2, "makes us realise wat we really are .", []],
+		[1495631, 1, "or maybe the balance between the two . you miss them but then you think you are better off without them .", []]
+	],
+	"speakers": {
+		"Shruti ❤": 0,
+		"LűćA": 1,
+		"Noseferatu": 2
+	}
+}, {
+	"id": 17944097,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[1497393, 0, "How do people distract themselves from the urges ? Nobody knows i am going through this so I ca not talk to anyone in person", []],
+		[866846, 2, "i am here to talk", []],
+		[1400255, 1, "just try to do something and keep herself distracted that works alright for me", []]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"AAMHL": 1,
+		"justarandomdude": 2
+	}
+}, {
+	"id": 17943981,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[1002342, 0, "what is on your mind ?", []],
+		[628982, 2, "I might have could , been feeling sick", []],
+		[1538351, 1, "I been thinking about life and how I want or to change .", []]
+	],
+	"speakers": {
+		"Marie": 0,
+		"Tyrion Lannister": 1,
+		"Newbie": 2
+	}
+}, {
+	"id": 17943930,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Disgust",
+	"turns_number": 3,
+	"dialogues": [
+		[1173226, 0, "Sometimes we are toxic to ourselves . Have you ever thought about the way you treat yourself , or even the intentions you may have for your own life?We surround ourselves with people that are not so good for us so that we can have a excuse of why we are miserable , sometimes miserable people are around us because it is not a choice but it is our choice to let them affect us .", []],
+		[655426, 2, "True . I do not need other people to feel this way though", []],
+		[1543188, 1, "Yep it is all about what you are willing to accept .", []]
+	],
+	"speakers": {
+		"Jackfruitchips": 0,
+		"Question Everything": 1,
+		"DastardlyDan": 2
+	}
+}, {
+	"id": 17943924,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Numb",
+	"turns_number": 4,
+	"dialogues": [
+		[1500066, 0, "I just want to get touched like by a car . Really Hard . Just hit me with a car .", []],
+		[1170913, 3, "Oh my god . Do not say that .", []],
+		[1544333, 2, "Cross the road covering your eyes with a Veil when its Green for the Vehicles . , Your Wish will be Granted .", []],
+		[1357683, 1, "no never , do not think like that", []]
+	],
+	"speakers": {
+		"lia": 0,
+		"Harley quin gone bad.🏳️‍🌈": 1,
+		"PRiNCE FaiSaL": 2,
+		"The_Useless_World": 3
+	}
+}, {
+	"id": 17943901,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Nostalgic",
+	"turns_number": 4,
+	"dialogues": [
+		[1370874, 0, "Can not clear my fucking mind .", []],
+		[789471, 3, "try listening to music , it might help", []],
+		[1140707, 2, "Try baths , long walks , lookout , reading , watching some movie , and maybe light up a candle", []],
+		[1460921, 1, "* tries to use mind powers to help * :3 did it work ?", []]
+	],
+	"speakers": {
+		"‎": 0,
+		"2410🧿": 1,
+		"Voodoo": 2,
+		"GrimmyReap🖤🔪": 3
+	}
+}, {
+	"id": 17943864,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Calm",
+	"turns_number": 3,
+	"dialogues": [
+		[689262, 0, "Best date ever : going to the park and just sitting on the swing", []],
+		[1536515, 2, "ahahah yep that is cool", []],
+		[1537662, 1, "A with nature its peaceful .", []]
+	],
+	"speakers": {
+		"sxdness.exe": 0,
+		"Ãbhï": 1,
+		"positiveDarkness": 2
+	}
+}, {
+	"id": 17943851,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[360787, 0, "I can not sleep these days co I do not feel tired enough .how do I exhaust some energy in lockdown !", []],
+		[1298765, 2, "relax yourself and your mind try to stay still without your phone .i think that will help. ", ["❤"]],
+		[1544333, 1, "Lookout with your Partner !", []]
+	],
+	"speakers": {
+		"ijustsaidwhatisaid": 0,
+		"Kind": 1,
+		"PRiNCE FaiSaL": 2
+	}
+}, {
+	"id": 17943829,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Positive",
+	"turns_number": 3,
+	"dialogues": [
+		[1522957, 0, "Religion does not liberate . , it enslaved .", []],
+		[571575, 2, "Reasons why I will never do organized religion does not mean I do not believe in god just means I know how citrusy religion is", []],
+		[1305616, 1, "It depends on how you follow it", []]
+	],
+	"speakers": {
+		"ApaceF": 0,
+		"Mickey": 1,
+		"🍬𝕂𝕚𝕞𝕞𝕚𝕔𝕠🍬": 2
+	}
+}, {
+	"id": 17943808,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Excited",
+	"turns_number": 3,
+	"dialogues": [
+		[30751, 0, "going back to pink hair today and i am so excited to fully feel like myself again ? i know it is such a small thing but it helps so much w my confidence", []],
+		[530977, 2, "very had , I m planning on dying mine mint", ["😌"]],
+		[1506309, 1, "Little things are what life is mostly made out of~", []]
+	],
+	"speakers": {
+		"𝖇𝖆𝖇𝖞 𝖉𝖗𝖆𝖈𝖚𝖑𝖆.": 0,
+		"YouCan'tHandleMyCuteAss": 1,
+		"No more tears": 2
+	}
+}, {
+	"id": 17943725,
+	"category": {
+		"id": 75,
+		"name": "Life Hacks"
+	},
+	"emotion": "Meh",
+	"turns_number": 3,
+	"dialogues": [
+		[1170913, 0, "Do not get attached to strangers you met online .", ["💙"]],
+		[1464714, 2, "So what should I do ?", ["🙁"]],
+		[794232, 1, "true , sometimes we get attached without out knowing .", []]
+	],
+	"speakers": {
+		"Harley quin gone bad.🏳️‍🌈": 0,
+		"VED": 1,
+		"Vkris": 2
+	}
+}, {
+	"id": 17943724,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 4,
+	"dialogues": [
+		[1520384, 0, "can someone tell me . is love real or just an illusion ? what are your thoughts or opinions about love", []],
+		[1460375, 3, "there is nothing like love.only need is there", []],
+		[1524466, 2, "definitely is real , and it is what helps us to heal the most in my opinion .", []],
+		[1519182, 1, "course it is real . but it is hard to find people who truly love us .", []]
+	],
+	"speakers": {
+		"sunflower": 0,
+		"अजीब आत्मा": 1,
+		"ronan": 2,
+		"RogueNinja777": 3
+	}
+}, {
+	"id": 17943718,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Calm",
+	"turns_number": 3,
+	"dialogues": [
+		[1077095, 0, "how is everyone ? let us talk !", ["😂"]],
+		[1323694, 2, "Am good how is you sure we can talk", []],
+		[1472994, 1, "good and you ? nd of course , just mug me .", ["😌"]]
+	],
+	"speakers": {
+		"LovePoison🌟": 0,
+		"parth": 1,
+		"Manny Çärēs": 2
+	}
+}, {
+	"id": 17943707,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1537272, 0, "do not get attached to people you meet online", []],
+		[1521466, 2, "I am supporting this because personally I am not the person who will stick around too long . Get tired really fast of people .", []],
+		[1502610, 1, "do not get too attached to anybody", []]
+	],
+	"speakers": {
+		"Bunny": 0,
+		"ika": 1,
+		"♠️": 2
+	}
+}, {
+	"id": 17943689,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Numb",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "Sitting is the new smoking", []],
+		[1305616, 2, "and it is wealthier than smoking", []],
+		[1372060, 1, "no , smoking is something else .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"🍬𝕂𝕚𝕞𝕞𝕚𝕔𝕠🍬": 1,
+		"siwar": 2
+	}
+}, {
+	"id": 17943628,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Meh",
+	"turns_number": 6,
+	"dialogues": [
+		[1365919, 0, "What name is prettier , Kansas or Papa ?", []],
+		[1245735, 5, "Kansas is better in .but for whom ?", []],
+		[665054, 4, "Kansas has a pretty meaning so yea", []],
+		[707787, 3, "kansas which country is this a name in ? never heard it before", []],
+		[725140, 2, "what is the meaning of each .", []],
+		[1432537, 1, "papa is a village in my state .", []]
+	],
+	"speakers": {
+		"Alina": 0,
+		"Parth  with the D": 1,
+		"Iwon'tHURTchew": 2,
+		"🎻📏": 3,
+		"Cruel World": 4,
+		"Ankush": 5
+	}
+}, {
+	"id": 17943625,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Sad",
+	"turns_number": 4,
+	"dialogues": [
+		[847924, 0, "I barely did anything today and I feel rubbish about it . I wish I did not waste my day just strolling through Instagram on my phone .", []],
+		[416629, 3, "same its so much better then actually revision though", ["😅"]],
+		[1382784, 2, "no its sky do not be said", []],
+		[1427075, 1, "And you will do it tomorrow too", []]
+	],
+	"speakers": {
+		"Sprinkle": 0,
+		"Shaniqua": 1,
+		"Jason17vx": 2,
+		"JKC": 3
+	}
+}, {
+	"id": 17943613,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[1544501, 0, "I want to get top surgery , but I m scared of the care of it , can anyone help me out with that fear", []],
+		[541914, 2, "by care do you mean the danger of the surgery ?", []],
+		[1504015, 1, "i am kind of in the same situation . unfortunately i ca not help but i hope everything works out for you", []]
+	],
+	"speakers": {
+		"Addison White": 0,
+		"Layla X Akechi ship": 1,
+		"acideyes": 2
+	}
+}, {
+	"id": 17943583,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Anxious",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "My boyfriend said that if I ever cut myself again and he found out , he would slap me in the face and yell at me . I was like what the hell , that is not the right thing to do . So he asked me what I would prefer : if he cared and slapped me or if he did not care at also I said I would be better off if he did not care if the other thing involves violence and he could not understand my thinking . It kind of worries me .", []],
+		[1544223, 2, "sounds like the result of child abuse .", []],
+		[1533911, 1, "see i am the one that would cut so he would need to follow through . but that is troublesome", ["😅"]]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"xenz": 1,
+		"Justabeast": 2
+	}
+}]

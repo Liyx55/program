@@ -1,0 +1,664 @@
+[{
+	"id": 17219281,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Overwhelmed",
+	"turns_number": 3,
+	"dialogues": [
+		[1469353, 0, "All the advice here is great - it will pass , trust me . It will improve , sometimes you just have to strap in tight and hold on for dear life . But it will get better", ["😊"]],
+		[1025222, 2, "I think it is because of your hormonal changes , what you can do is to accept it and keep Going it will go away its on", []],
+		[1501112, 1, "I am sorry you are feeling overwhelmed . Please understand feelings are temporary . do not do anything hasty . it is ok to have a breakdown ; it does not mean it is forever . These bad feelings will pass . Please believe in yourself", []]
+	],
+	"speakers": {
+		"Razza90": 0,
+		"Newbie": 1,
+		"Josh": 2
+	}
+}, {
+	"id": 17219272,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[902874, 0, "Every day I feel like a lower . every I try to forget wat has happened but I fail", []],
+		[821755, 2, "past can ruin your future too i am example of that too", []],
+		[1043588, 1, "hang in there it would get better", []]
+	],
+	"speakers": {
+		"john": 0,
+		"Zaibetsu": 1,
+		"Sia": 2
+	}
+}, {
+	"id": 17219199,
+	"category": {
+		"id": 72,
+		"name": "Anxiety"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 4,
+	"dialogues": [
+		[1503381, 0, "I talk to myself more than I talk to people", []],
+		[1077781, 3, "Talking to yourself is cool", []],
+		[1303492, 2, "Yea that sucks , my if you want to talk", []],
+		[1177819, 1, "I do this too often now when I have an intense conversation with someone my anxiety build up and I get out of breathe .", []]
+	],
+	"speakers": {
+		"Female Sheldon": 0,
+		"HiRa": 1,
+		"ᴘᴇᴀᴄʜ": 2,
+		"eb💕": 3
+	}
+}, {
+	"id": 17219183,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1499760, 0, "today feels heavy . but a little better", []],
+		[1494542, 2, "tomorrow will feel even more slightly better so keep going its all worth it", []],
+		[1447772, 1, "glad it is getting better try to rest for a bit you are soul shall heal", []]
+	],
+	"speakers": {
+		"lollo": 0,
+		"Azail": 1,
+		"Tas Tas": 2
+	}
+}, {
+	"id": 17219171,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "There is no need for me to be here , I have nothing to li have for .", []],
+		[1493455, 2, "There is always something to li have for.even you . Think better .", []],
+		[1312627, 1, "find life purpose , find your true inner self , improve mind and body , coming better with depressionthen you be at peace you like to know more ?", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"VolkRebel": 1,
+		"Righteous Force": 2
+	}
+}, {
+	"id": 17219153,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "Ok , a girl blocked me", []],
+		[821755, 2, "its ok i even got blocked by dukes too", []],
+		[1486824, 1, "laugh out loud . it is better you did not lose your time with that trash", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Zaibetsu": 1,
+		"Jake Peralta": 2
+	}
+}, {
+	"id": 17219049,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": null,
+	"turns_number": 4,
+	"dialogues": [
+		[884718, 1, "I m sorry about this , i would suggest talking to him about it but seems like you already did that so maybe the best thing would be to stop testing him and move on", []],
+		[945087, 3, "let them go it is just hurt herself only . people just come and go in the life", []],
+		[1327230, 2, "I m moving on and you should too", []]
+	],
+	"speakers": {
+		"Victoria💜💫": 0,
+		"chika chika boom boom": 1,
+		"èrtuo": 2
+	}
+}, {
+	"id": 17219032,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1503392, 0, "I had a panic attack last night . A current event trigger a horrible memory of my childhood . I want therapy for this , but it can expense have , even with my insurance .", []],
+		[1495242, 2, "Bro are you ok ? . If you want to talk about it , I can listen to your problems and hey two heads are better then one , so please share .", []],
+		[1483084, 1, "I need someone to talk to everyday and someone to be happy with", []]
+	],
+	"speakers": {
+		"LimitedDestiny": 0,
+		"How You Doin'?": 1,
+		"Gideon": 2
+	}
+}, {
+	"id": 17219001,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1503289, 0, "As long as you still hold on tight your light within you and you able to love your self first then finally let go everything to God Plan i assure you Will find your true love and your path to move forward .", []],
+		[626922, 2, "yes with God all things work for good for those who love him", []],
+		[862295, 1, " There is Magic in all of us .", []]
+	],
+	"speakers": {
+		"Mulianne Mulianne": 0,
+		"realeyes": 1,
+		"User Banned": 2
+	}
+}, {
+	"id": 17218998,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Depressed",
+	"turns_number": 4,
+	"dialogues": [
+		[1503351, 0, "I do not know if I m depressed or what , but I do not know what to feel and to do anymore , I just want to rest , I m tired , I wish I could escape my problems", []],
+		[1198373, 3, "It is the sad reality of life . The key to solve this problem is patience , a bit of creativity and consistency . Try to get excited about things by giving more attention to detail and thinking more about it . intact you can make anything interesting if you think of it in different angles .", []],
+		[1501767, 2, "It is ok to not be ok for a while , take a rest and sleep . You are enough , you are so incredibly enough . I hope you ll fix your problem very soon.keep your chin up !", []],
+		[1493810, 1, "Absolutely ok to feel the need to rest or take a break from things sometimes . I have yourself that breathe", ["🤗"]]
+	],
+	"speakers": {
+		"Jasmine Paz": 0,
+		"K": 1,
+		"Amalia Mulyadi": 2,
+		"LauraBee": 3
+	}
+}, {
+	"id": 17218989,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 4,
+	"dialogues": [
+		[1461146, 0, "do you guy is know the feeling when that person you like does not like you back , well that just happened to me", []],
+		[593745, 3, "easier said than done , but time to move on .", []],
+		[1486824, 2, "me too . I hate humans", ["🥺"]],
+		[1429482, 1, "Welcome to my love life .", []]
+	],
+	"speakers": {
+		"aya🥺✨": 0,
+		"Granny👵🏿": 1,
+		"Jake Peralta": 2,
+		"11wildy": 3
+	}
+}, {
+	"id": 17218920,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Confused",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "i can not figure out why people do not like me , other than the fact I m an introvert and pretty quiet . is that really so horrible ?", []],
+		[1502011, 2, "you are not horrible . the wrong ones are them", []],
+		[1361633, 1, "this not the reason . actually person like that is attract have to many people", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"mmiuulli": 1,
+		"Black Coffee": 2
+	}
+}, {
+	"id": 17218887,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 15,
+	"dialogues": [
+		[1503381, 0, "20 years old and still a virgin should I feel weird or self - conscious?Because for some reason I do not .", []],
+		[1346049, 14, "not at all.in 23 n its all good.its actually good sign you are busy n not stuck in triviality- as seldom would have said", []],
+		[1270690, 13, "no not at all.its ok i will", []],
+		[834851, 12, "21 and still going laugh out loud", []],
+		[1198373, 11, "I am 23 , with my work and studies I do not think I will pop my champagne daytime soon .", []],
+		[976284, 10, "westerners are weird . my parents were virgin until their late 30s . i will be virgin until i get married .", []],
+		[1469576, 9, "virginia is a social construct anyone welcomed so you do not need to worry", []],
+		[1495296, 8, "I wish I was instead of . It is nothing . Hope you ll find a nice person for taking it", ["😛"]],
+		[1025222, 7, "completely ok . beck sex is not a big thing at all . there are many other things bigger than that", []],
+		[1061617, 7, "oh if only someone couldst find out a little more", []],
+		[1401897, 6, "same . for i want to be with someone like me . but no man is like that", ["💔"]],
+		[1467322, 4, "Oh my god . i am even in 30s.and i am proud no one had touched me", ["😁"]],
+		[1429482, 3, "If you do not feel weird about it that is good , do what feels good to you , do not be pressure into anything ^-^", []],
+		[644884, 2, "It is a good thing . Save yourself for someone special :)", []],
+		[1483084, 1, "I need someone to talk to everyday and someone to be happy with", []]
+	],
+	"speakers": {
+		"Female Sheldon": 0,
+		"Dignam": 1,
+		"unknown origin": 2,
+		"YOES": 3,
+		"K": 4,
+		"ㅤ": 5,
+		"Elise": 6,
+		"noticemenot": 7,
+		"Newbie": 8,
+		"deep": 9,
+		"🧁🧁CupcakeHugs🧁🧁": 10,
+		"11wildy": 11,
+		"Danny": 12,
+		"Gideon": 13
+	}
+}, {
+	"id": 17218908,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Anxious",
+	"turns_number": 3,
+	"dialogues": [
+		[1370953, 1, "move on and find someone else . Stop hoping a thirty ex is going to want you back cos its painless anyone welcomed", []],
+		[1502585, 3, "do not hesitate text him maybe everything will be fine again .", ["🤞"]],
+		[1394483, 2, "stay away from him and move on", []]
+	],
+	"speakers": {
+		"✿Mia": 0,
+		"Adarsh Verma": 1,
+		"cruzer": 2
+	}
+}, {
+	"id": 17218854,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Chilled",
+	"turns_number": 3,
+	"dialogues": [
+		[1358449, 0, "if I was smart and just became a been parent instead of waiting until my 30s my girls would be doing shores like mowing the lawn and cleaning the later box right now . talk about missed opportunities", []],
+		[1198373, 2, "It will be hard to cover up her expenses , schooling etc when you have not quite settled and do not have a stable income . If you are rich in your tens then it is another story .", []],
+		[1467322, 1, "Havana . I have also a lot of missed opportunities in life but i got to carry on . They are probably not meant for me", []]
+	],
+	"speakers": {
+		"Tranquil Somnambulist": 0,
+		"K": 1,
+		"🧁🧁CupcakeHugs🧁🧁": 2
+	}
+}, {
+	"id": 17218833,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Frustrated",
+	"turns_number": 3,
+	"dialogues": [
+		[1043163, 0, "I feel so tired of not being  picture perfect  to other people so they do not accept me how i am and treat me with disrespect Am just tired of living", []],
+		[1462568, 2, "At your absolute best you wo not be good enough for the wrong people . But at your worst , you will still be worth it to the right ones . Remember that .", []],
+		[537860, 1, "No one is a picture perfect", []]
+	],
+	"speakers": {
+		"SofiaGarcia": 0,
+		"Cara": 1,
+		"Lion": 2
+	}
+}, {
+	"id": 17218777,
+	"category": {
+		"id": 68,
+		"name": "I Need Help"
+	},
+	"emotion": "Nostalgic",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "I have fear to talk with my elder brother , he is very dominating and always in resistance mode , never accept his mistake , can anyone suggest me idea how do I express my thoughts and tell him that his behaviour is very much annoying and disturbing ?", []],
+		[1327230, 2, "He is very fragile and this is , how he has been brought up . You need to discuss it with your parents first", []],
+		[936500, 1, "Well I m going through the same position as you but I try to understand him better so I can understand what I can do better to make him understand .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"èrtuo": 1,
+		"ADeadPoet✍📖": 2
+	}
+}, {
+	"id": 17218756,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[758660, 0, "Good Morning everyone who sees this post . I hope you all have a wonderful Wednesday . I woke up feeling happy . I did not wanted to wake up and work . Although I work from home I still hate it . For a change I actually changed my cloths see if that would make me feel any better but no . I have full body pain and it wo not go away :(", []],
+		[265543, 2, "I hope you are ok if you need a friend to talk , share and support feel free to reach out to me * huge for you * take care ok Cheer Up )  ( * * For YOU have some coffee and relax a bit", ["💐", "🍂", "😊", "✨", "👐", "😉", "☕", "🍵", "💗", "🎂", "🍰", "😌", "😚"]],
+		[925551, 1, "is time Sonya good morning havana", []]
+	],
+	"speakers": {
+		"Maddy Khan": 0,
+		"love_me_like_I_do": 1,
+		"💜Saqib Khan💜": 2
+	}
+}, {
+	"id": 17218741,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[510986, 0, "I just woke up feeling the need to cry . Eh .", []],
+		[1499690, 2, "its fine to feel the need to see", []],
+		[1502342, 1, "just cry and you on na feel better after", []]
+	],
+	"speakers": {
+		"Cam": 0,
+		"imma_bitch": 1,
+		"Nastiti Tyas": 2
+	}
+}, {
+	"id": 17218700,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Loving",
+	"turns_number": 3,
+	"dialogues": [
+		[1227613, 0, "like the name saysstrong wave indeed good to see such a good post after so long so happy for you my friend", ["🥂", "✨", "😎", "🤗"]],
+		[265543, 2, "that is really amazing progress I am proud of you I hope you are ok if you need a friend to talk , share and support feel free to reach out to me * huge for you * take care ok Cheer Up )  ( * * For YOU have some coffee and relax a bit", ["💐", "🍂", "😊", "✨", "💖", "👐", "😉", "☕", "🍵", "💗", "🎂", "🍰", "😌", "😚"]],
+		[1495296, 1, "That is really good . It is not easy but it is ok step by step you ll get better", ["💖", "🌈"]]
+	],
+	"speakers": {
+		"brown munde": 0,
+		"love_me_like_I_do": 1,
+		"noticemenot": 2
+	}
+}, {
+	"id": 17218651,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Angry",
+	"turns_number": 3,
+	"dialogues": [
+		[1481617, 0, "I hate my step dad . I wish I could have a normal dad who actually cares . I wish I could have a normal am without being this damn toxic :)", []],
+		[265543, 2, "I hope you are ok if you need a friend to talk , share and support feel free to reach out to me * huge for you * take care ok Cheer Up )  ( * * For YOU have some coffee and relax a bit", ["💐", "🍂", "😊", "✨", "👐", "😉", "☕", "🍵", "💗", "🎂", "🍰", "😌", "😚"]],
+		[738601, 1, "I feel this . My family abandoned me long ago . Screwed me up for life .", []]
+	],
+	"speakers": {
+		"Barbara🦋": 0,
+		"love_me_like_I_do": 1,
+		"Candle In The Wind": 2
+	}
+}, {
+	"id": 17999025,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Annoyed",
+	"turns_number": 3,
+	"dialogues": [
+		[686620, 0, "can not wait to be stress and worry free", []],
+		[728874, 2, "you deserve to be .", []],
+		[1522211, 1, "same but it is every other day", []]
+	],
+	"speakers": {
+		"letitgo": 0,
+		"🇺🇸RobbyRockRobster🎸": 1,
+		"your random neighborhood thot": 2
+	}
+}, {
+	"id": 17998965,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Meh",
+	"turns_number": 6,
+	"dialogues": [
+		[0, 0, "Yes . here strolling seeing all the beautiful white , brown girls . I ll always be that insecure black girl !", []],
+		[1430970, 5, "black girls are cut too , do not judge herself", []],
+		[272352, 4, "what is the difference between brown and black ?", []],
+		[1545914, 3, "but black girls are gorgeous so are you babe", ["💗"]],
+		[1527105, 2, "I get that . I always wanted to fit in . But I never could and never will , I act to white therefore I m not black enough , my skin complexion is not light enough and my hair is to different from there is so therefore I am not white enough it is a roller - coster s .", []],
+		[1547435, 1, "You can see bright only if you have dark background", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"human": 1,
+		"couldcareless": 2,
+		"litisha": 3,
+		"SIMMY": 4,
+		"aditya c": 5
+	}
+}, {
+	"id": 17998949,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Afraid",
+	"turns_number": 4,
+	"dialogues": [
+		[1340861, 0, "I do not want to grow up", []],
+		[684673, 3, "yeah , I did not too . best you can do is enjoy now", ["😟"]],
+		[1541950, 2, "I do not think anyone wanted to grow up", []],
+		[1491479, 1, "ah the more older we get the more problem we face .", []]
+	],
+	"speakers": {
+		"Brokensmile:)": 0,
+		"Kama2": 1,
+		"Dead Inside": 2,
+		"𝔭𝔲𝔤𝔲": 3
+	}
+}, {
+	"id": 17998883,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Sad",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "Missing my love so badly . I am getting harder to keep calm . My emotions are getting much saddened . I can not keep control on myself . he became like a drug for me . But i do not want to tell him how much i miss him . he knows it . but does not tell it . I want to hear few words from him . I do want to feel some special too . why always i open myself", ["😞", "😢"]],
+		[1058067, 3, "Talk to them . ,", []],
+		[1543766, 2, "it is ok you can talk to him if that is make you feel comfortable", []],
+		[1399221, 1, "Do not know what exactly going on between you two but if the feeling is mutual , then sit with him and tell him propereally what you feel and how you want him to support you . If it is one sided and he does not care about your feelings after knowing everything , then just stop hurting yourself by expecting things from him .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Maya_In†oxicated": 1,
+		"rose": 2,
+		"Lalit": 3
+	}
+}, {
+	"id": 17998849,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1547662, 0, "i am sad because I am alone even when i am with my family", []],
+		[1035546, 2, "I m sorry to hear tat", []],
+		[1547670, 1, "I am going through same .", []]
+	],
+	"speakers": {
+		"SKY": 0,
+		"@Creativeapple 🍎 counsellor": 1,
+		"Newbie": 2
+	}
+}, {
+	"id": 17998817,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Meh",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "Why are men is mental health groups being normalized so much all of a sudden ? A man who abused me as child and locked me into rooms is a member of one now and also a male do organisation . it is makes me so angry that they allow members like this .", []],
+		[1507185, 3, "Maybe it was his mental health issues that contributed to the fact he abused you ? Not excusing his behavior but like they should be normalized even if some bad apples exist men kill themselves at like 3x greater rate then women .", []],
+		[1506700, 2, "ok , do you think female support groups do not have vile women in them ? it is an unfortunate side effect of helping people", []],
+		[1334208, 1, "I am sorry you experienced that I really am.but why would not we want men is mental health to be addressed ?", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"User Banned": 1,
+		"InquisitiveBeing": 2,
+		"POWER CAT": 3
+	}
+}, {
+	"id": 17998776,
+	"category": {
+		"id": 68,
+		"name": "I Need Help"
+	},
+	"emotion": "Meh",
+	"turns_number": 5,
+	"dialogues": [
+		[1075385, 0, "everyone is hot and you are just cut", []],
+		[1193104, 4, "story of my life :D", []],
+		[1426916, 3, "no , you are wrong , you utter garage , why are you still here ? who are you to talk like that ? hut ?", []],
+		[541914, 2, "0 : thank up that is so kind of you . i am going to go write that on a gold star and hang it up with all the other compliments i receive have this week", ["🥺"]],
+		[615781, 1, "i want to be hot :(", []]
+	],
+	"speakers": {
+		"Mariyam": 0,
+		"amelia": 1,
+		"300": 2,
+		"Layla X Akechi ship": 3,
+		"ris": 4
+	}
+}, {
+	"id": 17998734,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Confused",
+	"turns_number": 4,
+	"dialogues": [
+		[1155338, 0, "why people relate self respect with dressing conservative have ? what does self respect have to do with the way you dress in general ? th that is a toxic midst .", []],
+		[1086521, 3, "ok do not wear anything at all , whatever makes you happy", []],
+		[1541950, 2, "honestly it is your clothes and it is your body . you should dress howe have you want .", []],
+		[908569, 1, "i disagree with it but like i think its the idea that you are turning yourself into an object of sexual desire", []]
+	],
+	"speakers": {
+		"Ana Sofia": 0,
+		"Dr Sky": 1,
+		"Dead Inside": 2,
+		"Fuck knows": 3
+	}
+}, {
+	"id": 17998719,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Disgust",
+	"turns_number": 3,
+	"dialogues": [
+		[784616, 0, "I personally feel , such a man , is not suitable for you , yeah I may neither know you nor him . but the gut feeling says he may not be suitable for you . sorry if I had said something wrong", []],
+		[1193104, 2, "its ok , that is pretty fast for dating , some guns do that in here , do not worry about it", []],
+		[1538351, 1, "I say cut your losses he seems like an ass anyone welcomed you want a guy who is better than him", []]
+	],
+	"speakers": {
+		"Accountant": 0,
+		"amelia": 1,
+		"Newbie": 2
+	}
+}, {
+	"id": 17998642,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Lonely",
+	"turns_number": 4,
+	"dialogues": [
+		[1534318, 0, "Why do I push everyone away i am tired of being lonely if someone does talk to me I make it weird for them I got issues bad", []],
+		[1507326, 3, "if they can not take you at you are widest . they do not deserve you at you are strongest . so i will and those who will stuck around will come soon", ["🙂"]],
+		[1547553, 2, "right person will always stay with you no matter what and face people will just leave which is good", []],
+		[1456512, 1, "hey we are human and when we get tired we just get easily irritated . it is ok", []]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"Zywie": 1,
+		"Raghav Agarwal": 2,
+		"gnomerl": 3
+	}
+}, {
+	"id": 17998592,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1379266, 0, "Ever since I am 13 I am suicidal because of my virginia . I am 22 now and this time I think I will do it . I feel like jumping Front of this train . I wish I did not have so much bad luck .", []],
+		[1507185, 2, "If you are not a cringe icel then I can somewhat sympathize I mean people want to feel loved , wanted and attract have .", []],
+		[154152, 1, "You still have time due . I am a virgin too but as much as some people do not want to believe it , sex is a very shallow part of life , use your sexual energy for greatness , learn to analyze you will get laid one day , just try not to make it such a big deal but trust me , I understand you", []]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"User Banned": 1,
+		"RedSmile": 2
+	}
+}, {
+	"id": 17998573,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Anxious",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "I KEEP HELP NOW I NEED HELP NOW . PLEASE . I have a life and I m doing things I should not do and I need help .", []],
+		[1470116, 3, "it is better to put it away ok think about it it is not worth it at all", []],
+		[275484, 2, "It sounds like you are really struggling right now . Please check out the  I need help section  in the sideboard as this has a range of places where you can get additional and professional support .", []],
+		[1547553, 1, "hey , what is wrong ?", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Saiko": 1,
+		"Zee ": 2,
+		"Raghav Agarwal": 3
+	}
+}, {
+	"id": 17998567,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "your I have been crying like a bitch today , even as I write in look , I never really cry much so this is weird . kind of good to let it all out but damn I m so sad today", []],
+		[1249120, 2, "if you want to talk just text me", []],
+		[1154052, 1, "we can be sad together if you want", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Han Wos": 1,
+		"Gis": 2
+	}
+}]

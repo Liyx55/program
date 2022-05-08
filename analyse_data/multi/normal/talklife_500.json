@@ -1,0 +1,948 @@
+[{
+	"id": 17106393,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 4,
+	"dialogues": [
+		[1496672, 0, "Is macdonald is spite crisp or spice ?", []],
+		[1350922, 3, "Dizzy and a bit sour . Only a little bit .", []],
+		[1330049, 2, "it is actually diluted hydrochloric acid", ["🤣"]],
+		[622527, 1, "Actually it is not crisp or spice enough for my tastes . That is why I get my Spite at Army is .", []]
+	],
+	"speakers": {
+		"Okie is okie": 0,
+		"Mr. Hatt": 1,
+		"Ember": 2,
+		"durka the Dreamer": 3
+	}
+}, {
+	"id": 17106389,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[1496708, 0, "maybe someday you will find a friend who understands you", []],
+		[1280219, 2, "maybe you just need a close friend too . ?", []],
+		[1060696, 1, "People leave that is just how it is", []]
+	],
+	"speakers": {
+		"blabla": 0,
+		"Kitsuqwq": 1,
+		"☁Phantom☁": 2
+	}
+}, {
+	"id": 17106378,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "MEN how do you feel being hit on by a woman ? Is it unattractive have ?", []],
+		[1496321, 2, "depends on where she trying to hit", ["🎯", "😜"]],
+		[1368389, 1, "I like it for sure .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Newbie": 1,
+		"HeshamEbada": 2
+	}
+}, {
+	"id": 17106368,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Worried",
+	"turns_number": 4,
+	"dialogues": [
+		[30751, 0, "hope all my fellow texans are staying safe and warm and taking care of their mental health ! today is been a lot , i have never seen a blizzard / blackest like this in my ten years here .", []],
+		[605637, 3, "how much snow is there-", []],
+		[606000, 2, "we already snowed in in Louisiana stores are all closed", ["😭"]],
+		[1478168, 1, "hello am doing my best to stay warm . I still have got to dry have to go to work . good thing is I work tomorrow then off the next to days .", ["👋"]]
+	],
+	"speakers": {
+		"𝖇𝖆𝖇𝖞 𝖉𝖗𝖆𝖈𝖚𝖑𝖆.": 0,
+		"Shadow Master ÒwÓ": 1,
+		"Hurrikane": 2,
+		"Emilee": 3
+	}
+}, {
+	"id": 17106261,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 5,
+	"dialogues": [
+		[1489359, 0, "do you think your ex is is a good person ?", ["🤔"]],
+		[715557, 4, "More than a good person", []],
+		[1480819, 3, "Great guy but not to me", []],
+		[606000, 2, "they are all the devil", []],
+		[1432847, 1, "NO ! he is bad .", ["🤣", "😂"]]
+	],
+	"speakers": {
+		"phoneix🖤🌹": 0,
+		"Wanderer": 1,
+		"Jessica": 2,
+		"Hurrikane": 3,
+		"oops": 4
+	}
+}, {
+	"id": 17106229,
+	"category": {
+		"id": 53,
+		"name": "Education"
+	},
+	"emotion": "Calm",
+	"turns_number": 3,
+	"dialogues": [
+		[783007, 0, "It sounds bad that i am saying this , but i am smart .", []],
+		[836063, 2, "then do my homework for me", ["✋", "😭"]],
+		[868367, 1, "65 % of Americans believe they are smarter than they actually are", []]
+	],
+	"speakers": {
+		"𝕸𝖆𝖓𝖚𝖊𝖑": 0,
+		"「summer」": 1,
+		"": 2
+	}
+}, {
+	"id": 17106228,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Meh",
+	"turns_number": 4,
+	"dialogues": [
+		[1017857, 0, "put a bandage where a bandage should not go and now i ca not get it off", []],
+		[1019544, 3, "Should not have put it there#captain hind sight to there issue", []],
+		[1280219, 2, "where did you put it . ? if its now do not tell me", []],
+		[868367, 1, "just rip it off and get it over with", []]
+	],
+	"speakers": {
+		"tired bookworm🐌": 0,
+		"CtrlAltDel": 1,
+		"Kitsuqwq": 2,
+		"": 3
+	}
+}, {
+	"id": 17106215,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Calm",
+	"turns_number": 3,
+	"dialogues": [
+		[1496615, 0, "I am genuinely curious to see if you were granted one wish ( can not ask for more wishes ) what would you wish for ?", []],
+		[1469590, 2, "take me where Tasha is", ["😂"]],
+		[710403, 1, "I would wish to have a good relationship with God , Jesus , and the holy spirit", []]
+	],
+	"speakers": {
+		"Tasha": 0,
+		"Stardust 🌟": 1,
+		"Matthew Williams": 2
+	}
+}, {
+	"id": 17106203,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Tired",
+	"turns_number": 5,
+	"dialogues": [
+		[0, 0, "Question for men : Does a non flat belly bother you during is*x ?", []],
+		[690654, 4, "not even a little bit", []],
+		[622527, 3, "I have never gotten that far with a woman but I like someone who has more body weight . But only if they are not going to interrupt and be all self - conscious about it , you know ? I mean once someone is got you with your parts down , it is a win if they are still going .", []],
+		[1449753, 2, "The pp who say yes are not men they are boys who need to just grow out of Societies beauty standards bc if something so little others them during sex then maybe just maybe they should not be having sex in the first place .", []],
+		[1493569, 1, "No . Does not bother me a bit . I am all for healthy eating and general exercise howe have that does not always work for everyone and they should not be ashamed for that . I knew a girl in high school who was in multiple sports , ate healthy , she neareally became a police officer . Howe have no matter how hard she tried she could not lose weight .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"MindCavity": 1,
+		"durka the Dreamer": 2,
+		"✨Brat✨": 3,
+		"MatthewGreen": 4
+	}
+}, {
+	"id": 17106185,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nothing",
+	"turns_number": 4,
+	"dialogues": [
+		[1492210, 0, "What does love even feel like ? The most intense I felt was adrenalin , intellectual engaged , admired , respect and danger . Love ? I have no idea .", []],
+		[344835, 3, "I ask this all the time", []],
+		[567783, 2, "It feels good until it does not . then you will wish you never tasted it", []],
+		[1396207, 1, "it feels good but at the same time it does not , it makes me too dependent", ["🤢"]]
+	],
+	"speakers": {
+		"User Banned": 0,
+		"💔Brokebutnotbroken💖": 1,
+		"Jean-Claude Van Sam": 2,
+		"𝕻𝖎𝖊𝖓𝖆𝖙💖": 3
+	}
+}, {
+	"id": 17106180,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Supportive",
+	"turns_number": 5,
+	"dialogues": [
+		[1495537, 0, "is it ok for a husband to watch other women on FF ? or inst", []],
+		[1495865, 4, "it can go both ways.women do the same", []],
+		[1226909, 3, "You mean stalk ? While being in a relationship already?Ah that is kind of weird .", []],
+		[1458740, 2, "You are allowed to watch , not grab that sounds to much better in Norwegian but hey", ["🤣"]],
+		[1221620, 1, "if it is a husband then no", []]
+	],
+	"speakers": {
+		"Ciara💖": 0,
+		"SWEETBABYJESUS": 1,
+		"Mehhhh": 2,
+		"Tommen": 3,
+		"deloaded": 4
+	}
+}, {
+	"id": 17106094,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Disgust",
+	"turns_number": 3,
+	"dialogues": [
+		[1433661, 0, "ugh I am so tired of the snow , ice , and below zero weather . Iowa sucks .", []],
+		[836063, 2, "do not come to santa house . we do be freezing here", []],
+		[952165, 1, "40 see all year long also sucks , when you li have in the tropics of South Hemisphere .", []]
+	],
+	"speakers": {
+		"Aquila Pobuda": 0,
+		"「summer」": 1,
+		"Melkor": 2
+	}
+}, {
+	"id": 17106086,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[1199484, 0, "Maybe I should stick to girls  ", ["👩", "😔", "🤝", "🏼"]],
+		[1009381, 2, "some girls are a different breed", []],
+		[1446148, 1, "Men are like weeds , you have got to pull a lot of us before you are left with a flower hope someone treats you the way you deserve soon", ["✌", "🏻", "🤗"]]
+	],
+	"speakers": {
+		"ElfieCece": 0,
+		".": 1,
+		"Brad": 2
+	}
+}, {
+	"id": 17106053,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "some of you all need to hit the grm more often", []],
+		[935879, 2, "if this is not a sign for me . I do not know what is .", []],
+		[947263, 1, "and what about you", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"W": 1,
+		"tryingtobehappy": 2
+	}
+}, {
+	"id": 17106001,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Meh",
+	"turns_number": 4,
+	"dialogues": [
+		[1495765, 0, "How do you say to your therapist that you want to kill yourself ?", []],
+		[1373506, 3, "If you do that you will end up in a hospital . That is what my therapist tells me .", []],
+		[1017857, 2, "your therapist will probably end up admitting you into a hospital .", []],
+		[858961, 1, "you can say you have been having suicidal thoughts , but stress that you do not have a plan and they might not feel the need to take you to the hospital , mine does it", []]
+	],
+	"speakers": {
+		"Kathe": 0,
+		"Hoji": 1,
+		"tired bookworm🐌": 2,
+		"elliephant": 3
+	}
+}, {
+	"id": 17105990,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 8,
+	"dialogues": [
+		[1496666, 0, "What do you do when you are ex tells you to kill yourself", []],
+		[1192754, 7, "Say you would but you just remembered you are not with them anymore and it put a smile on your face .", []],
+		[880196, 6, "Excuse my bluntness , but fuck them and move on and be happy eventually .", []],
+		[1370953, 5, "Nothing ? Ignore them and move on :)", []],
+		[1375732, 4, "li have your best life and the have", []],
+		[1225328, 3, "told me already before my first attempt .", []],
+		[1495747, 2, "sorry for my language but fuck em , your ex can go eat shit . they do not even deserve you . you know what . li have your best life , work on yourself and be the happiest you could ever be . move on . let them see that your doing just fine with them.rub it in their faces", []],
+		[1473679, 1, "You instead kill her or him with kindness ! Waters hate happiness on others .", []]
+	],
+	"speakers": {
+		"Joshua": 0,
+		"Talloran": 1,
+		"Revere": 2,
+		"✿Mia": 3,
+		"Newbie": 4,
+		"Rido": 5,
+		"☽︎𝖒𝖊𝖓𝖆𝖈𝖊☾︎": 6,
+		"Bird": 7
+	}
+}, {
+	"id": 17105954,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 4,
+	"dialogues": [
+		[326325, 0, "The sun will shine on us again . ", ["☀", "🌻"]],
+		[1451117, 3, "its going to shine in an hour . still no sleep", []],
+		[1304345, 2, "yep it is almost sunrise", []],
+		[1009381, 1, "everytime i see one , it disappears", []]
+	],
+	"speakers": {
+		"Teo🦋🍀": 0,
+		"BATMAN WHO LOVED": 1,
+		"DireWolf": 2,
+		".": 3
+	}
+}, {
+	"id": 17105922,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[1495484, 0, "is it just me or does my room have to be cold as fuck in order for me to fall asleep .", []],
+		[1441273, 2, "We sleep easier in coldness", []],
+		[883201, 1, "Cold as F I guess", []]
+	],
+	"speakers": {
+		"Kat": 0,
+		"Hoss": 1,
+		"The Viper  Haz": 2
+	}
+}, {
+	"id": 17105908,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Confused",
+	"turns_number": 3,
+	"dialogues": [
+		[836063, 0, "why some people be sleeping without clothes ? imagine something happens at night and you have to get out of your house or see someone in a matter of minutes laughing my arms off", []],
+		[1170506, 2, "she already unwrapped herself from me how thoughtful me coming out the window", []],
+		[1370953, 1, "Cos its so damn come . And the likelihood of something like that happening is rare whereas you can sleep without clothes everyday laugh out loud", []]
+	],
+	"speakers": {
+		"「summer」": 0,
+		"Teddy Flowers": 1,
+		"✿Mia": 2
+	}
+}, {
+	"id": 17105873,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Loving",
+	"turns_number": 4,
+	"dialogues": [
+		[1006972, 0, "Goodnight to everyone except those who sleep with their socks on", ["🥰"]],
+		[795446, 3, "i am going to put my socks on now since a said that", []],
+		[684673, 2, "sock racism . what if they are special sleep socks ?", []],
+		[1494951, 1, "You are evil . The ducks on my socks are sad . :(", []]
+	],
+	"speakers": {
+		"potato": 0,
+		"sleepingmylifeaway": 1,
+		"Kama2": 2,
+		"soban zafar": 3
+	}
+}, {
+	"id": 17407889,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Positive",
+	"turns_number": 3,
+	"dialogues": [
+		[1138599, 0, "White supremacy and anti - communism have always shared a bed , from Hither to Hooker , Began to Rush , corps to Paris , Klan to Vienna .", []],
+		[1003078, 2, "also many black activist were communist like the Planters", []],
+		[1241645, 1, "Yeah because Stain was super woke Just because white supremacists dislike something , it does not make everyone who dislikes it , a white supremacist . That is the dullest fallacy I have ever heard .", ["😂"]]
+	],
+	"speakers": {
+		"Valontino The GOD": 0,
+		"Miraboreas": 1,
+		"𝘾𝙤𝙨𝙢𝙞𝙘 𝙒𝙖𝙣𝙙𝙚𝙧𝙚𝙧": 2
+	}
+}, {
+	"id": 17407819,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[1513691, 0, "how are you guys feeling ?", []],
+		[1415519, 2, "empty , and you", []],
+		[1511682, 1, "a little bored ,you", []]
+	],
+	"speakers": {
+		"fiona": 0,
+		"Anarchic Badger": 1,
+		"Charmaine Cervantes": 2
+	}
+}, {
+	"id": 17407799,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[482422, 0, "I want everything and I want nothing . I want love but that shit is scar . I want to be alone but that shit is career .", []],
+		[1458276, 2, "Hi , would you like to talk ?", []],
+		[1512863, 1, "You should search for the right person", []]
+	],
+	"speakers": {
+		"Danica": 0,
+		"Rocky Humble": 1,
+		"Mi Do": 2
+	}
+}, {
+	"id": 17407783,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Irritated",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "All my posts get taken down and I literally did not say anything", []],
+		[668648, 2, "You obviously said something if they got removed", []],
+		[1305616, 1, "Maybe they were low quality", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Kenzie Bear": 1,
+		"🍬𝕂𝕚𝕞𝕞𝕚𝕔𝕠🍬": 2
+	}
+}, {
+	"id": 17407781,
+	"category": {
+		"id": 48,
+		"name": "Work"
+	},
+	"emotion": "Exhausted",
+	"turns_number": 3,
+	"dialogues": [
+		[1514187, 0, "We never actually hate our job , it is just the environment and the people that make us hate our job .", []],
+		[1082079, 2, "The job sucks too sometimes", []],
+		[719375, 1, "Cleareally never worked in retail or a factory laugh out loud", []]
+	],
+	"speakers": {
+		"Fadh": 0,
+		"Silva": 1,
+		"Yeetyeet selfdelete": 2
+	}
+}, {
+	"id": 17407741,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": null,
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "I made a post about my preference for people of color and someone reported my post. Mind you I did not say anything racism . Yet girls come on this app posting half hopeless pick now and it stays up", ["🚫"]],
+		[1498797, 2, "Bless your reported post ( |T  T )", []],
+		[1082079, 1, "You are the one who likes black guys ?", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"コーヒーくん": 1,
+		"Silva": 2
+	}
+}, {
+	"id": 17407706,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Relaxed",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "Hey , Just because someone treats you badly or does not want to be with you does not mean that you are worthless .", []],
+		[579447, 2, "You should not have posted this as an anonymous , i would have boasted it", []],
+		[919810, 1, "it was more than one", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Lars 🐻": 1,
+		"Moonlight": 2
+	}
+}, {
+	"id": 17407694,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 4,
+	"dialogues": [
+		[1514203, 0, "What makes you confident ?", []],
+		[1512881, 3, "That is a fantastic question as it is more of a feeling than a concrete thing . I guess just knowing that I do have an effect on people and the world around me , and seeing how I have advanced in my life just being who I am and doing what I think makes sense .", []],
+		[1451749, 2, "My looks , and a lot of others things about me", []],
+		[579770, 1, "my personality and my eyeliner laughing my arms off", []]
+	],
+	"speakers": {
+		"Brandon": 0,
+		"Veils09": 1,
+		"🔥FieryTemper🔥": 2,
+		"🌻": 3
+	}
+}, {
+	"id": 17407678,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Furious",
+	"turns_number": 3,
+	"dialogues": [
+		[1508146, 0, "How are people ok with themselves after they emotional destroyed someone .", []],
+		[1294033, 2, "I think the majority of people do not realize it . We hurt people is feelings every day and do not know it . But , some people just care more about themselves than they do about others .", []],
+		[1465956, 1, "maybe they are fuckboys and used to it , jumping from person to person is what they are best at", []]
+	],
+	"speakers": {
+		"blu.": 0,
+		"Sunny": 1,
+		"⠀": 2
+	}
+}, {
+	"id": 17407655,
+	"category": {
+		"id": 75,
+		"name": "Life Hacks"
+	},
+	"emotion": "Disgust",
+	"turns_number": 9,
+	"dialogues": [
+		[564749, 0, "bro , when did people get so annoying ? accept other people having different opinions it is easy .", ["👏", "🏻"]],
+		[1174295, 7, "so wait though ? is not that contradictory ? you are not accepting their opinion of other people is opinions ?", []],
+		[1421206, 6, "I love your posts .", ["🥺"]],
+		[1421206, 6, "Let me tell you , there are some people , like 3 - for people . And they are so special for me . Whenever I see their posts , I feel like there is a garden with blossom flowers in my heart . And you are one of em .", []],
+		[460904, 5, "brush who are you to say people got annoying ?", []],
+		[1016004, 4, "some opinions are crime .", []],
+		[628982, 3, "Do not bring back this emboli see you literature", ["👏"]],
+		[1126750, 2, "my own independent political party is called DID : you disagree you die.so I m not annoying.j we must accept other people is opinions unless they are extreme .", []],
+		[749374, 1, "it is easy until that persons opinion is the exact opposite ofyouryour", []]
+	],
+	"speakers": {
+		"Twentyxne_": 0,
+		"revengeistastey": 1,
+		"𝐌 𝐑   𝐀 𝐋 𝐏 𝐇 𝐀   𝐓 𝐋   𝐂 𝐀 𝐏 𝐓 𝐀 𝐈 𝐍": 2,
+		"lyfsgood": 3,
+		"Man of Steel (Straight only)": 4,
+		"Tyrion Lannister": 5,
+		"Music enjoyer": 6,
+		"Jack": 7
+	}
+}, {
+	"id": 17407642,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Supportive",
+	"turns_number": 4,
+	"dialogues": [
+		[1513874, 0, "I just dreamt about my high school crush / first love last night . Is this a sign ? laugh out loud", ["😅", "😂", "🤣"]],
+		[647135, 3, "Are not you still in highschool ? laugh out loud", []],
+		[1341104, 2, "maybe tomorrow at the mall , you on  bump into him", []],
+		[1152131, 1, "Maybe , maybe not \\_()_/", []]
+	],
+	"speakers": {
+		"Princess Diana": 0,
+		"The fruit dude 🍉": 1,
+		"z rêve": 2,
+		"as_adrija✨": 3
+	}
+}, {
+	"id": 17407574,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Anxious",
+	"turns_number": 3,
+	"dialogues": [
+		[1198043, 0, "I hate having to buy things online , it always makes me anxious", ["😩"]],
+		[1226909, 2, "The opposite for me havana", []],
+		[695321, 1, "I prefer online shopping", []]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"Mehhhh": 1,
+		"Anonymous": 2
+	}
+}, {
+	"id": 17407567,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Insecure",
+	"turns_number": 3,
+	"dialogues": [
+		[1432927, 0, "That is our nature sometimes , we hunt and leave .", []],
+		[1224550, 2, "Sounds like a player to me.", []],
+		[1491339, 1, "ask him directly why he is not being as conversant and if something changed between you two . do not waste your time if you do not see potential or if he is leading you on .", []]
+	],
+	"speakers": {
+		"Pyaaracetamol": 0,
+		"James Silkstone": 1,
+		"princess": 2
+	}
+}, {
+	"id": 17407552,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Inspired",
+	"turns_number": 3,
+	"dialogues": [
+		[1511495, 0, "I can tell this story about my elementary school , junior high school I was pulled by my classmates without knowing my mistake", []],
+		[1228349, 2, "so what is your reaction bout that", []],
+		[1514206, 1, "That is how people are . They come to wrong conclusions too soon , without knowing the truth . And they do like to judge others a lot too .", []]
+	],
+	"speakers": {
+		"Famelya Mentari Fazira": 0,
+		"MIO": 1,
+		"gloomy": 2
+	}
+}, {
+	"id": 17407520,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Embarrassed",
+	"turns_number": 6,
+	"dialogues": [
+		[0, 0, "I wish my girlfriend was better looking . She has no front teeth .", []],
+		[668144, 5, "I will be with her you find someone else", []],
+		[1465956, 4, "why are you still with her , if you want her to be better looking", []],
+		[487365, 3, "at least someone loves you . I can not even get a girlfriend or a friend for that matter . tell her I m single and she can hum .", []],
+		[1169716, 2, "It is ok to have a preference but honestly this was so shallow you knew she looked like that when you committed to her so now you are aggravated ?", []],
+		[1051343, 1, "I ll pay for her front teeth and get her a better quality boyfriend", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"MadmaX": 1,
+		"fluffykins": 2,
+		"🌔DiamondRock☪️": 3,
+		".": 4,
+		"ㅤ": 5
+	}
+}, {
+	"id": 17407486,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[1196334, 0, "Anyone else on a hack sleep schedule ?", []],
+		[997880, 2, "I can not have a hack sleep schedule cause I have a 9 - 5 job.but only during the week . on weekend I stay up to to - 3 in the morning .", []],
+		[649267, 1, "I have forgotten what it was like to have a normal schedule :(", []]
+	],
+	"speakers": {
+		"Drew": 0,
+		"Mystery": 1,
+		"'": 2
+	}
+}, {
+	"id": 17407457,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Meh",
+	"turns_number": 6,
+	"dialogues": [
+		[1510779, 0, "My boyfriend gave me an ultimatum to either believe in what he does because he care or to split . anyone else had something similar to this ?", []],
+		[1224550, 6, "Had it with a girlfriend of mine , any time someone gave me an ultimatum I easily when no and failed .", []],
+		[422921, 5, "i had a girl who gave me the ultimatum to come to her house within to months ( we li have far away form eachother ) or to split long story short i splitter", []],
+		[1502074, 3, "While ultimatum are not exactly healthy , what exactly is t he thing he wants you to believe in ?", []],
+		[1499549, 2, "I would drop you in no time laughing my arms off", []],
+		[285024, 1, "I would split , do not let anyone control you , if you ok it this time , it will only continue for the rest of your relationship", []]
+	],
+	"speakers": {
+		"Chelsea": 0,
+		"James Silkstone": 1,
+		"Davy Jones🇳🇱🌈": 2,
+		"Saejima": 3,
+		"socially awkward roebuck": 4,
+		"Daughter of Ares⚔": 5
+	}
+}, {
+	"id": 17407412,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[654502, 0, "Just heard about a case where two girls basically killed their best friend cause they suddenly stopped liking her.i mean how pathetic excuse is that ! all i see is they were jealous , they just hated her and makes me mad how they are still going to be eligible for a parole like what the fuck ? ! rip solar:(", []],
+		[1467899, 2, "was this the slenderman stabbing ? are are", []],
+		[736799, 1, "i think i seen that on ID channel , sad . senseless .", []]
+	],
+	"speakers": {
+		"❤💙💚💛💜♥": 0,
+		"thath0e": 1,
+		"Eddy": 2
+	}
+}, {
+	"id": 17407339,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Supportive",
+	"turns_number": 4,
+	"dialogues": [
+		[1514187, 0, "How do you stop yourself from overthinking ?", []],
+		[1333442, 3, "When in it benefits me i wo it", []],
+		[821045, 2, "overthinking just needs to be reported to position have thoughts . I really do not know how to shut it down completely . my solution is to only think about what I want out of the situation . try to manifest the good things.overthinking is kind of a superpower when you think like that.because overthinking about the good will most likely attract the good things", []],
+		[1378898, 1, "listen to music , being out , watch moves and to shows , take a bath , take a long shower with your music on , spend time with friends and family , find something new to do and learn", []]
+	],
+	"speakers": {
+		"Fadh": 0,
+		".": 1,
+		"Leyalee": 2,
+		"star": 3
+	}
+}, {
+	"id": 17407325,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Furious",
+	"turns_number": 6,
+	"dialogues": [
+		[1513942, 0, "is the new sexuality a banner topic ?", []],
+		[868367, 5, "apparently superstraight is banner for being a transphobic movement laugh out loud", []],
+		[1496595, 4, "It is a transphobic neo - nasi movement so due", []],
+		[1507002, 3, "people have so many trigger online , it is hard to understand how they can even sure have outside", []],
+		[1205714, 2, "Its not a new sexuality . It does not deserve a flag neither .", []],
+		[1406812, 1, "I kind of think it is stupid not going to lie . but no it is not banner .", []]
+	],
+	"speakers": {
+		"Paul H Bussy": 0,
+		"": 1,
+		"Cyprin": 2,
+		"Lu4": 3,
+		"whoop": 4,
+		"Benji": 5
+	}
+}, {
+	"id": 17407317,
+	"category": {
+		"id": 72,
+		"name": "Anxiety"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[915331, 0, "does whiskey actually help with the whole day to day ?", []],
+		[736553, 2, "Only if your an alcoholic .", []],
+		[1514222, 1, "Jack Daniel is do sometimes", ["🙄", "🤣"]]
+	],
+	"speakers": {
+		"Rose-Colored_J": 0,
+		"Terry 🏴󠁧󠁢󠁳󠁣󠁴󠁿": 1,
+		"Sam": 2
+	}
+}, {
+	"id": 17407313,
+	"category": {
+		"id": 5,
+		"name": "Bullying"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1512927, 0, "there lots of sick guys asking sex am not into this . I made this for friends only and they need to read the guideline they aren of allowed on this site .", []],
+		[883397, 2, "I apologize for this experience . Kindly flag such comments / posts / private messages so our safety team can take appropriate action against such users . Such behaviour is a violation of our guideline .", []],
+		[736553, 1, "When do app listen to guideline on social media ? There is creep everyone welcomehere , one gets banner another thousand take their place .", ["🤷"]]
+	],
+	"speakers": {
+		"Tonya Bamonte": 0,
+		"MaryH": 1,
+		"Terry 🏴󠁧󠁢󠁳󠁣󠁴󠁿": 2
+	}
+}, {
+	"id": 17407304,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Annoyed",
+	"turns_number": 3,
+	"dialogues": [
+		[1003681, 0, "where is my vaccine ! ? I want one ! Who do I have to lie to ? ! Damn timeline is ridisee you laterous . i am a retail employee & still have not gotten vaccinated . i am being a brat because I want the vaccine .", []],
+		[956089, 2, "Can not wait to get it too !", ["🥺"]],
+		[1514213, 1, "You should be getting one soon . Hopefully you get paid to get the vaccine .", []]
+	],
+	"speakers": {
+		"Lola Bunny": 0,
+		"🐾 Ɱąմ 🐾": 1,
+		"Kandy": 2
+	}
+}, {
+	"id": 17407295,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Inspired",
+	"turns_number": 3,
+	"dialogues": [
+		[1392016, 0, "so I did not eat anything today . I just feel thirsty . should I have soup or just drink some water .", ["🤔"]],
+		[1091418, 2, "have soup and then drink water", ["😊"]],
+		[416436, 1, "I think soup is good ( nice warm ) , or maybe something like a smooth if you ca not handle solid foods", []]
+	],
+	"speakers": {
+		"Mixed Masala 😌": 0,
+		"vishwas": 1,
+		"Almost_Dead_but_not_yet": 2
+	}
+}, {
+	"id": 17407283,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Insecure",
+	"turns_number": 3,
+	"dialogues": [
+		[1290124, 0, "lets talk about how hard its to open up to someone about being sad for no reason . how hard it is to explain to your parents or friends that you have a heavy feeling in your chest for no reason", []],
+		[683746, 2, "the definition of depression :", []],
+		[653200, 1, "it could be stress who knows", []]
+	],
+	"speakers": {
+		"dianne": 0,
+		"just pretend I'm not here": 1,
+		"🐹Hamy🐹": 2
+	}
+}, {
+	"id": 17995074,
+	"category": {
+		"id": 5,
+		"name": "Bullying"
+	},
+	"emotion": "Annoyed",
+	"turns_number": 4,
+	"dialogues": [
+		[1017857, 0, "people need to watch what they say . why would you make nasty remarks to a big girl who is working out in her yard .  nobody needs to see that  ok and ? nobody asked you to look or watch .", []],
+		[725140, 3, "I would be passed .", []],
+		[730101, 2, "b - but a woman is beauty exists to be appreciated and adored  they exist for the eyes of the people", ["😔"]],
+		[1544021, 1, "should he said  spoke your eyes then ", []]
+	],
+	"speakers": {
+		"tired bookworm🐌": 0,
+		"Cruel World": 1,
+		"Kin 🇲🇾🏳️‍🌈": 2,
+		"Boulevard of broken dreams": 3
+	}
+}, {
+	"id": 17995059,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "Most of the guys I meet end up trying to hit on me and want to go further . I thought I had found a friend , but then he did the same .", []],
+		[1233998, 2, "sad I m not like those text me", []],
+		[704739, 1, "I know how you feel ):", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"User Banned": 1,
+		"✟ 𝔊𝔦𝔞 ✟": 2
+	}
+}, {
+	"id": 17995054,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nothing",
+	"turns_number": 8,
+	"dialogues": [
+		[0, 0, "what would you do with your account if you got a hero sub ?", []],
+		[1233998, 7, "I ll beauty my gallery first", []],
+		[1305616, 6, "add a cover photo of my see see", []],
+		[1152544, 5, "first of all , I m not expecting to get one soothe rest does not matter", []],
+		[387787, 4, "Change cover for profile and posts . nothing pretty much out of this is is", []],
+		[704739, 3, "thank you for this post cut I have an extra one so I can gift it to someone here !", ["🖤"]],
+		[791649, 2, "I do not know but i want it so i can be cool", []],
+		[1258841, 1, "I do not know what the difference even is ?", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"User Banned": 1,
+		"🍬𝕂𝕚𝕞𝕞𝕚𝕔𝕠🍬": 2,
+		"𝖘𝖕𝖎𝖗𝖎𝖙 🖤": 3,
+		"EvangeRei": 4,
+		"✟ 𝔊𝔦𝔞 ✟": 5,
+		"💚🏹 Marcy Wu 💚🏹": 6,
+		"Alicia": 7
+	}
+}]

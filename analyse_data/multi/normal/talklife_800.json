@@ -1,0 +1,758 @@
+[{
+	"id": 17943537,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Bored",
+	"turns_number": 4,
+	"dialogues": [
+		[1075385, 0, "eating potato chips , you want some ?", []],
+		[1540910, 3, "Yes but wait you are Arab ?", []],
+		[1197842, 2, "yes , please i have me some", []],
+		[1537662, 1, "only few and please you also do not eat much they are unhealthy if more than limit", []]
+	],
+	"speakers": {
+		"Mariyam": 0,
+		"Yazin": 1,
+		"I am groot": 2,
+		"positiveDarkness": 3
+	}
+}, {
+	"id": 17407192,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Nothing",
+	"turns_number": 5,
+	"dialogues": [
+		[1448797, 0, "What does dating the nice guy feel like", []],
+		[1223282, 4, "do not know nice guy but depressed soul are pure soul for friendship in .", []],
+		[347596, 3, "Why would anyone do that laugh out loud", []],
+		[683746, 2, "I do not knowhow about you ask all of my imaginary girlfriend", []],
+		[1465956, 1, "Harmonious and peaceful they probably influence you to be a nice person too or kind like them", []]
+	],
+	"speakers": {
+		"Sara": 0,
+		"Loverclove": 1,
+		"HottestSnail(𓂺)": 2,
+		"just pretend I'm not here": 3,
+		"⠀": 4
+	}
+}, {
+	"id": 17407164,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[1498797, 0, "This everyday pain in life , I just want to end it .", []],
+		[1478986, 2, "It is good to talk about how you feel", []],
+		[1367879, 1, "the pain will end , just keep fighting , maybe seek professional help ,", []]
+	],
+	"speakers": {
+		"コーヒーくん": 0,
+		"nameless": 1,
+		"drenii": 2
+	}
+}, {
+	"id": 17407130,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Sad",
+	"turns_number": 5,
+	"dialogues": [
+		[1202326, 0, "my friend's boyfriend is being exist to her and treating her like shit :/ what am I suppose to do ? plus this guy is a complete dick and keeps building me bu", []],
+		[1391608, 4, "Do not do anything . With time this relationship wo not last .", []],
+		[539551, 3, "Hopefully , she notices it soon ! Its better if you do not say anything . sometimes when you i have any advice , people get mad at you and think you are jealous of them laughing my arms off", ["😭"]],
+		[498971, 2, "Probably talk to her about it if she does not realize it and you are concerned about her", []],
+		[1425917, 1, "what is this guy doing to your friend ?", []]
+	],
+	"speakers": {
+		"savannah": 0,
+		"Adam": 1,
+		"Tay": 2,
+		"reik": 3,
+		"*Amira❤️Adore*": 4
+	}
+}, {
+	"id": 17406989,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Calm",
+	"turns_number": 3,
+	"dialogues": [
+		[1485721, 0, "To all my women : If you hit a man firstand he decided a to hit you backdont scream abuse . That is having a victim mentality Because if it was a girl vs another girl it would be self defense Instead learn how to keep your hands to yourself", []],
+		[1221620, 2, "word nobody should be hitting each other anyone welcomed", []],
+		[976284, 1, "Well , people should not hit each other in the first place .", []]
+	],
+	"speakers": {
+		"✨✨Baby Thiccums✨✨": 0,
+		"deloaded": 1,
+		"ㅤ": 2
+	}
+}, {
+	"id": 17406985,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[746230, 0, "I feel like I m going to burst", []],
+		[1382500, 2, "Let it . It is better than imploring , trust me .", []],
+		[1510647, 1, "if you want to talk you can do me", ["😃"]]
+	],
+	"speakers": {
+		"Elena": 0,
+		"Sagis.": 1,
+		"SadgeAndKekw": 2
+	}
+}, {
+	"id": 17406908,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Inspired",
+	"turns_number": 7,
+	"dialogues": [
+		[313431, 0, "Any fitness and weight loss tips ? I really want to start working out , but I feel so lazy . Also , I eat way too many sweets and I know it makes it worse , but I can not help it", []],
+		[1489911, 6, "just go for home juices remedies", []],
+		[1391608, 5, "Just eat healthy and lookout by you are weight or dumbbells . For me i am training in home by dumbbells and bar . And i am using full body lookout routine . And stop eat sweets immediately .", []],
+		[1479228, 4, "The app iron is wonderful ( and free ) to help me keep on track , they have lookout video you follow along with and the instructor are really motivation ! You fill out a questionnaire at the start and the pp build a lookout program for you for what your needs are , as well as the option to upgrade and receive have meal planning as well . I do not have the upgrade version but I still love it ! You got this ^-^", []],
+		[1466912, 3, "YOU . TRUST . It changed my life !", []],
+		[1394483, 2, "the hardest thing to working out is getting started but once you start it will get easier and all feel better", []],
+		[1513530, 1, "yes , no cards . its a waste of your time . it burns calorie not fat . plus you seem like your pretty thin already . I do not know for sure but sometimes learning to love our bodies is the first step . if you dislike yourself now then it can conflict for you down the road . do not compare yourself to others , only your past self . your amazing just the way you are , no fixing needed .", []]
+	],
+	"speakers": {
+		"Cristina": 0,
+		"Mo Begum Akshaya": 1,
+		"Adam": 2,
+		"Kimmyd": 3,
+		"Anne": 4,
+		"cruzer": 5,
+		"Stefãn": 6
+	}
+}, {
+	"id": 17406800,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Thankful",
+	"turns_number": 7,
+	"dialogues": [
+		[1194921, 0, "We should be thankful that women want equality not revenge", []],
+		[647961, 6, "they are smart enough to seek what they are capable of .", []],
+		[491415, 5, "not very Satan of you to is", []],
+		[1324507, 4, "it is more like we want revenge now", ["😂"]],
+		[270807, 3, "Renders will never be equal .", []],
+		[719375, 2, "Brush this is sex this is a sex post", []],
+		[1432652, 1, "And they are lucky men are accepting , and not reacting .", []]
+	],
+	"speakers": {
+		"Satan": 0,
+		"♈isex": 1,
+		"blue": 2,
+		"Youssef": 3,
+		"🇰🇪 me": 4,
+		"Yeetyeet selfdelete": 5,
+		"Oblivion": 6
+	}
+}, {
+	"id": 17406756,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Chilled",
+	"turns_number": 7,
+	"dialogues": [
+		[0, 0, "Just out of curiosity : If you came out as a trans guy to a friend / acquaintance via text message and after telling you he is i will with it , he responds with a joke asking if he now has to stop having wet dreams about you , what would you do / think ?", []],
+		[541914, 6, "tell him he can be gay if he wants", []],
+		[1125135, 5, "I would think that  friend  is a f / boy . not worth humming", []],
+		[1496595, 4, "I would be really uncomfortable and never speak to him again .", []],
+		[1199762, 3, "just tell him that it is offense have . he probably does not realize that .", []],
+		[868367, 2, "that is kind of weird to tell someone you had wet dreams about them", []],
+		[1360587, 1, "he is probably just awkward and has a crush on you . talk to him about it", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Layla X GunSenpai": 1,
+		"🐰💕": 2,
+		"Cyprin": 3,
+		"peach tongue peach": 4,
+		"": 5,
+		"Rj": 6
+	}
+}, {
+	"id": 17406747,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[1514187, 0, "Hoping to get rid of depression completely", []],
+		[1514206, 2, "Hope that you will truly achieve this . But , I guess , you can not really get rid of it completely . It will stay somewhere deep deep down inside of you . Try to stay strong and do what you think it is better for you", []],
+		[1513824, 1, "depression is anger mix with sadness . you have to find with what are you angry at and why are you sad . once you find about these questions you will realize that Depression as for your eagerness and sadness they come from a lie you believed or about a truth you do not know yet", []]
+	],
+	"speakers": {
+		"Fadh": 0,
+		"gloomy": 1,
+		"m_keke_m": 2
+	}
+}, {
+	"id": 17406732,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Afraid",
+	"turns_number": 4,
+	"dialogues": [
+		[1414036, 0, "If you boyfriend sends you a sex picture saying he took it this morning , what would you think ? Because I have been created on , My mind automatically goes to that he sent it to someone else this morning and is just sending it to me now otherwise he would have sent it to me as soon as he took it in the morning . Am I wrong to think this ?", []],
+		[1228800, 3, "Provide him the benefit of the doubt .", []],
+		[1009381, 2, "sometimes people would forget , but I can see as to why you had think that , especially after being created on by someone else .", []],
+		[1502074, 1, "Whether is it right or wrong is pretty subject have , since we are notyouryour But of certainly sounds like you have not gotten past the cheating that your previous partner has done to you .", []]
+	],
+	"speakers": {
+		"Jayyyy8": 0,
+		"Abominate.": 1,
+		".": 2,
+		"Saejima": 3
+	}
+}, {
+	"id": 17406719,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Tired",
+	"turns_number": 6,
+	"dialogues": [
+		[1031520, 0, "what cheers you up when you are feeling down ?", []],
+		[1224550, 5, "Video games myself but that only lasts for so long .", []],
+		[1446634, 4, "Nothing makes me happy .", []],
+		[1391608, 3, "Lookout , music , working , talking to my friends and anything that makes me busy to not think about my sadness .", []],
+		[1394483, 2, "a good morning kiss picture and saying good morning baby have a good day", []],
+		[1200600, 1, "nothing anymore th . just sometimes true kindness from strangers does but even that does not hit right anymore .", []]
+	],
+	"speakers": {
+		"Theonly": 0,
+		"James Silkstone": 1,
+		"User Suspended": 2,
+		"Adam": 3,
+		"cruzer": 4,
+		"Aman": 5
+	}
+}, {
+	"id": 17406662,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Numb",
+	"turns_number": 4,
+	"dialogues": [
+		[1226909, 0, "I actually just want to die . That would the best thing to ever happen in my life . Not really ms anymore . I m past that ( hopefully wo not get back again ) . But I really would appreciate it if I die in my sleep tonight . Or actually I wo not because I wo not be anything afterwards . The best feeling EVER ! THE NOTHING FEELING .", []],
+		[982710, 3, "It will happen one day laugh out loud", ["❤"]],
+		[1480990, 2, "Are you actually ready for death ?", []],
+		[1145311, 1, "one day or another this will happen till then I wish you a very happy and stable life", ["🥺"]]
+	],
+	"speakers": {
+		"𝑀𝑒ℎ": 0,
+		"🅝🅐🅣🅐🅛🅘🅔": 1,
+		".": 2,
+		"Pumpkin": 3
+	}
+}, {
+	"id": 17406581,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Loving",
+	"turns_number": 4,
+	"dialogues": [
+		[1502527, 0, "what do you need the most in your life right now ?", []],
+		[1333442, 3, "I do not know .", []],
+		[1458663, 2, "a trip to a theme park without all the mass and social disbanding shenanigans", []],
+		[1425917, 1, "actually , I have everything I need !", []]
+	],
+	"speakers": {
+		"Fernandez": 0,
+		".": 1,
+		"snuggluffagus™": 2,
+		"*Amira❤️Adore*": 3
+	}
+}, {
+	"id": 17406575,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Relieved",
+	"turns_number": 6,
+	"dialogues": [
+		[415280, 0, "I never believed in the law of attraction until recently , as I made myself more available and social , groomed myself to look triple - a. I have been approached by people up to my new standard , good looking and amazing . Which inspires me to be even greater . We only get things that we are capable of having , we may not or can not afford the lifestyle that we want , therefore we need to upgrade ourselves to get into that major league . Goodluck", []],
+		[1496377, 5, "Have you got colour in your cheeks ?", []],
+		[997880, 4, "I mean , if all you need is better grooving to look attract have , I say your only problem was yourself .", []],
+		[1036732, 3, "Yes its called pretty privilege", []],
+		[612199, 2, "Sounds pretty . superficial :)", []],
+		[1244817, 1, "wait what if i am ugly ?", []]
+	],
+	"speakers": {
+		"Imperial": 0,
+		"I have radical opinions": 1,
+		"Mystery": 2,
+		"Little miss nobody": 3,
+		"Fluctus et Figura 🇩🇪👨‍💻🎶🏞": 4,
+		"lee": 5
+	}
+}, {
+	"id": 17406561,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Meh",
+	"turns_number": 3,
+	"dialogues": [
+		[990150, 0, "Just spent 1 hour deciding something .", ["🤷"]],
+		[1333442, 2, "and what is that something", []],
+		[1458663, 1, "hopefully it was the right decision 0_o", []]
+	],
+	"speakers": {
+		"Athelie": 0,
+		".": 1,
+		"snuggluffagus™": 2
+	}
+}, {
+	"id": 17406524,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[1106150, 0, "Older you are , harder you are life is", []],
+		[945245, 2, "Very true I remember when I was little I always wished to become an adult I thought life would be so much easier if I were to be an adult", []],
+		[1361231, 1, "Extremely true . Just was thinking about it !", []]
+	],
+	"speakers": {
+		"User Banned": 0,
+		"Ann": 1,
+		"Radobis": 2
+	}
+}, {
+	"id": 17406491,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Inspired",
+	"turns_number": 3,
+	"dialogues": [
+		[793001, 0, "I m so lazy in the morning but products have in the evenings . No idea why", []],
+		[1470503, 2, "Same . I think its that sudden motivation at night where you say yea I can do it tomorrow with is easy to say while laying in bed but when morning comes laying in bed is the best option", ["😂"]],
+		[270807, 1, "Might be one of two things . You are not a morning person or you are a witch waiting for the witching hours . You choose .", []]
+	],
+	"speakers": {
+		"User Suspended": 0,
+		"User Banned": 1,
+		"🇰🇪 me": 2
+	}
+}, {
+	"id": 17406480,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Supportive",
+	"turns_number": 4,
+	"dialogues": [
+		[1470503, 0, "Dear People with jobs : When you are doing your job and you feel like you did something wrong what do you do ?", []],
+		[1481494, 2, "I just face I m ok and I keep doing my job", ["🤣"]],
+		[1481494, 2, "depends what type of mistake is , if it is a serious one I take responsibility but a silly one I just keep working", []],
+		[1445778, 1, "when you work with abuse have bosses i like to go cry in the bathroom :)", []]
+	],
+	"speakers": {
+		"User Banned": 0,
+		"Maria Sol솔 👩‍💻🌎🚺": 1,
+		"maye": 2
+	}
+}, {
+	"id": 17406442,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Afraid",
+	"turns_number": 3,
+	"dialogues": [
+		[1478389, 0, "how will i li have my life withoutyouryour", []],
+		[1108525, 2, "You will find a new life to li have in time ", ["❤"]],
+		[1514145, 1, "I know it is so hard . I have no desire to li have but still I li have with so many desires .", []]
+	],
+	"speakers": {
+		"Nau": 0,
+		"𝒦𝒾𝒶𝓇𝒶": 1,
+		"Rajveer Arora": 2
+	}
+}, {
+	"id": 17406394,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[1505285, 0, "someppl have boyfriendsomeppl have girlfriend . have depression . that is cool", ["😞"]],
+		[1441273, 2, "I have a girlfriend and depression2 for to", ["😀"]],
+		[1270377, 1, "es also ^it is something ^", []]
+	],
+	"speakers": {
+		"Lu Cía": 0,
+		"Hoss": 1,
+		"El 24": 2
+	}
+}, {
+	"id": 17406385,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Bored",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "you know yourself the best , why would you need a psychologist is not like the psychologist is depressed or have mental health issues right ? how can he / she relate then if they have never been in your place ?", []],
+		[982710, 2, "I agree . The best psychologist for yourself is YOU . But . Sometimes people need motivation . And that is what are psychologist good for . They wo not actually help you . They will lead you . But at the end you r the one , who got over is", []],
+		[480238, 1, "My friend who is a psychologist actually suffers from depression and anxiety . They are human too and most go into the field because they have struggled and want to help others .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"🅝🅐🅣🅐🅛🅘🅔": 1,
+		"Creature_of_tea": 2
+	}
+}, {
+	"id": 17406368,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[1514166, 0, "I feel like I m in a hole but I can not go out . I m locked in the Dark place I hope Someone can help me there out", ["😭"]],
+		[344634, 2, "i am here for you my friend , just do not i have up ok ?", []],
+		[1312627, 1, "find life purpose , find your true inner self , improve mind and body , coming better with depressionthen you be at peace you like to know more ?", []]
+	],
+	"speakers": {
+		"Jupiter _starlove": 0,
+		"hASH": 1,
+		"Righteous Force": 2
+	}
+}, {
+	"id": 17406363,
+	"category": {
+		"id": 53,
+		"name": "Education"
+	},
+	"emotion": "Nostalgic",
+	"turns_number": 3,
+	"dialogues": [
+		[1441273, 0, "I have never had a diary when I was a kid . Maybe that is why I m so bad at essays . Millions of words floating in my head yet I can not arrange them and write them down .", []],
+		[1428785, 2, "I have had a diary for years when I was a kid . My thoughts are still pure chaos", []],
+		[865414, 1, "Surprisingly , I was thinking just the same .", []]
+	],
+	"speakers": {
+		"Hoss": 0,
+		"Rox": 1,
+		"Cursed Owl": 2
+	}
+}, {
+	"id": 17406336,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Meh",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "I found out that my best friend is homophobic of , and i m gay", []],
+		[428154, 3, "your same my befriend i have off very homophobic vices and makes lame jokes about left+s", []],
+		[233586, 2, "likes . time to ditch that friend", []],
+		[1360587, 1, "just talk to him if he cares then he will keep i thought away from your friend ship along as you do not go over his boundaries.if not screw him . grab a gay muddy and i will", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"len": 1,
+		"elain": 2,
+		"Rj": 3
+	}
+}, {
+	"id": 17406301,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Inspired",
+	"turns_number": 4,
+	"dialogues": [
+		[1442760, 0, "Most of the time we do not choose to misunderstand others . and sometimes , we do it on purpose so that we do not lose someone we love . To understand , means change , and change is sometimes a dangerous constant .", []],
+		[1457506, 3, "I choose to misunderstand people for revenge . I mean , they never understand when I tell them there is a dam ice in my mouth .", []],
+		[1506684, 2, "If you have to reach all the way there in order to not lose the person ; i would see it as more of attachment than love .", []],
+		[1466345, 1, "Hello can you do me I have a very important question !", []]
+	],
+	"speakers": {
+		"Nour": 0,
+		"Newbie": 1,
+		"Ares": 2,
+		"Anon": 3
+	}
+}, {
+	"id": 17406261,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Amused",
+	"turns_number": 3,
+	"dialogues": [
+		[1186966, 1, "well as long being single is the problem , I m sure we could change that", ["😂", "😏"]],
+		[1441273, 3, "You ll find someone do not rush it", []],
+		[1224550, 2, "Well it is always good to dream laugh out loud", []]
+	],
+	"speakers": {
+		"an_overthinker": 0,
+		"Hoss": 1,
+		"James Silkstone": 2
+	}
+}, {
+	"id": 17406226,
+	"category": {
+		"id": 71,
+		"name": "Grief"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[1502129, 0, "She is finally gone . I said I ll get over it but men I miss her like no tomorrow", []],
+		[1464428, 2, "Exact same problem over here , it is hard but somehow we ll make it .", []],
+		[1391608, 1, "You have to move on with any cost .", []]
+	],
+	"speakers": {
+		"Doll": 0,
+		"broken PainZ": 1,
+		"Adam": 2
+	}
+}, {
+	"id": 17406223,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[1441033, 0, "what if I have a personality disorder since everyone either judges me like a monster or runs away ? I m seeing a therapist and psychiatric but I m worried about what they ll do if I tell them my thoughts . I also have a very dark sense of humor so that is against me too .", []],
+		[1153916, 1, "you are supposed to tell your therapist everything", []],
+		[1153916, 1, "you pay them to help you", []]
+	],
+	"speakers": {
+		"river song": 0,
+		"tea time": 1
+	}
+}, {
+	"id": 17406170,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Confused",
+	"turns_number": 3,
+	"dialogues": [
+		[900818, 0, "I never played with He - man figures and thought I needed to bulk up and hit the grm as a kid", ["😂"]],
+		[988686, 2, "Bare is body is faireally realistic in my opinion . People really overreact about it .", []],
+		[654502, 1, "sometimes i look at Bare and be like its just a doll . like kiss can be obsessed with bare but they never have securities or any sort of problems because of it !", []]
+	],
+	"speakers": {
+		"FilmAddict": 0,
+		"Villain and Proud": 1,
+		"❤💙💚💛💜♥": 2
+	}
+}, {
+	"id": 17406163,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Annoyed",
+	"turns_number": 3,
+	"dialogues": [
+		[1266394, 0, "hope the person who decided on removing the  hug  option is having a bad day , too . < 3", []],
+		[707787, 2, "you can still gift a bear hug", []],
+		[952488, 1, "I would have removed like instead of hug and support , it is true that when we like a post other person see it as  someone is here for you  but still it is a like button so most of times I feel like i am liking someone is tragedy so I prefer not to use it", []]
+	],
+	"speakers": {
+		"aria 🥀": 0,
+		"🎻📏": 1,
+		"Kia.S": 2
+	}
+}, {
+	"id": 17406146,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "I hate when dealerships try to sell me a car I do not want . I have one car in mind and they like oh based on your credit let is put you in this . Him ok but I do not like that car .", ["🤫"]],
+		[1219486, 1, "his you are not going to be able to afford the payments that is what it means .", []],
+		[1219486, 1, "and if you are actually looking for the lowest price it will be on their webster listed . Never go in without seeing what they have they just going to run prices up onyouryour", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Cakylynn 💀": 1
+	}
+}, {
+	"id": 17406125,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Meh",
+	"turns_number": 3,
+	"dialogues": [
+		[1392016, 0, "FF restricted me for 3 days beck I said ff china .", []],
+		[707787, 2, "so your in Facebook jail laugh out loud", []],
+		[1194921, 1, "is not that racism ?", []]
+	],
+	"speakers": {
+		"Mixed Masala 😌": 0,
+		"🎻📏": 1,
+		"Satan": 2
+	}
+}, {
+	"id": 17406124,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "I need to go back to church or something . I know Jesus is real but I need more believes around me", ["😔"]],
+		[1043976, 2, "well you might think about the beginning of everything", []],
+		[1484972, 1, "we love jesus a.s i am a muslin , and I love him so much", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Rooh": 1,
+		"hanan": 2
+	}
+}, {
+	"id": 17406114,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Meh",
+	"turns_number": 4,
+	"dialogues": [
+		[615781, 0, "th i do not see myself living past 30 .", []],
+		[270807, 3, "Widely you ll find your self an sixty something year old wondering how time went so fast .", []],
+		[725140, 2, "I do not see myself living past 25", []],
+		[1394483, 1, "that is what I used to say all the time when I was young and look at me now I m 48 going on 49", []]
+	],
+	"speakers": {
+		"ris": 0,
+		"🇰🇪 me": 1,
+		"Cruel World": 2,
+		"cruzer": 3
+	}
+}, {
+	"id": 17773079,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Happy",
+	"turns_number": 3,
+	"dialogues": [
+		[963726, 1, "Avoid death assuming that I know how I m going to die . I have unfinished business right now so I can not leave .", []],
+		[531422, 3, "It depends on the way I die . If I die slowly , I will probably be unconscious the day before my funeral", []],
+		[1534986, 2, "Create myself and save on funeral costs", []]
+	],
+	"speakers": {
+		"Nyla": 0,
+		"Koda": 1,
+		"Matt S": 2
+	}
+}, {
+	"id": 17773056,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "My friend basically told me to make new friends because he is busy . What to do ?", []],
+		[1528358, 2, "That is not a friend", []],
+		[1262426, 1, "That for a friend , they are a dick . But yeah you probably tired that person out .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Ragnar29 🦅 🗡": 1,
+		"Blue Eyes White Devil": 2
+	}
+}, {
+	"id": 17773044,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Nostalgic",
+	"turns_number": 3,
+	"dialogues": [
+		[1484972, 0, "i miss the time where using my phone was a happy moment , now i am losing sleep because of it", []],
+		[1530319, 1, "turn it off to hours before bed .", []],
+		[1530319, 1, "just tell yourself no phone . Trust me i do it sometimes and its a good respite .", []]
+	],
+	"speakers": {
+		"hanan": 0,
+		"Spikey Seeds": 1
+	}
+}, {
+	"id": 17772998,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Proud",
+	"turns_number": 3,
+	"dialogues": [
+		[1533394, 0, "To everyone who has not felt ok lately , but still gets up everyday and refuses to quit ", ["❤"]],
+		[1427979, 1, "she did this every day", []],
+		[1427979, 1, "she was and will remain strong", []]
+	],
+	"speakers": {
+		"psychopomp🥀": 0,
+		"JD": 1
+	}
+}]

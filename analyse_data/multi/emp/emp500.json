@@ -1,0 +1,776 @@
+[{
+	"id": 17106407,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Tired",
+	"turns_number": 6,
+	"dialogues": [
+		[1436414, 0, "how do i move on from cheating ? I need someone to talk to", ["🥺", "😢"]],
+		[565712, 5, "you are cheating or someone else ?", []],
+		[1458740, 4, "do me if you want to have a normal chat", ["🙌", "🏿"]],
+		[1493569, 3, "I am trying to figure out the same thing right now . If you want to chat feel free to hit me up .", []],
+		[1496321, 2, "there is only one answer to that walk away or say to the face that you did the same and see the reaction", []],
+		[1323955, 1, "I found out my boyfriend was cheating in October , still with him for reasons that I cab to explain but I m always here to help", []]
+	],
+	"speakers": {
+		"Nobody": 0,
+		"Kiara Staceヾღ彡": 1,
+		"Tommen": 2,
+		"MatthewGreen": 3,
+		"Newbie": 4,
+		"Jinx": 5
+	}
+}, {
+	"id": 17106394,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1280219, 0, "my fingers hurt . I feel like I want more people to talk to.but I do not want to trust anyone.trust is required in a friendship . I guess . I do not want to get close to anyone anymore.they try to force me to stay or make me feel guilty about leaving . I felt so heavily and dependent on someone I thought I loved.but they turned out to be really bad for me . I have someone that actually cares for me and makes me feel loved . I miss them in . I just.feel tired .", []],
+		[1496699, 2, "great way to get friends without the need for trust is games .", []],
+		[993133, 1, "The need to be around people and the need to trust are very , very different . A lack of both can cause a lot of pain . I suggest finding one or the other first . Focus on a person you want to trust and trusts you , and build that relationship . Or focus on being around people . Trust no one , but find joy in the activities you do together . Either path you take , you are going to find an answer for both .", []]
+	],
+	"speakers": {
+		"Kitsuqwq": 0,
+		"Newbie": 1,
+		"Nice to Meet You 💙": 2
+	}
+}, {
+	"id": 17106299,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Proud",
+	"turns_number": 5,
+	"dialogues": [
+		[0, 0, "I do not let my girlfriend have guy friends ; she could cheat just like that . I made her delete all her guy friends off FF and IN .", []],
+		[1060696, 4, "are you that insecure ?", []],
+		[605637, 3, "* I m highly toxic and insecure . and instead of working on my own insecurity problems I rather act controlling and force my partner to cut off anyone and anything I tell her to . I m actually deserving of a relationship because of this and my girlfriend should not be with me until I learn to be less toxic and work on my own insecurity problems", []],
+		[1488379, 2, "And that would stop a theater ? If a person wants to cheat they will , she can have another accounts , she can meet pp or talk over the phone , unless you are the FOI and you putting tabes on her .My point is relationships is about mutual trust , if you do not trust her why are you even with her , you will always worry about it", []],
+		[1368389, 1, "Makes sense to me honestly . After all , why would she need a guy friend when she has you ? I think it is an excuse to get more male attention and variation and may lead to cheating , but I would not force it in a toxic way if I were you , I would try to reach a mutual understanding about it , meaning I ll be meeting my female friends too .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"☁Phantom☁": 1,
+		"Shadow Master ÒwÓ": 2,
+		"IceLoner": 3,
+		"HeshamEbada": 4
+	}
+}, {
+	"id": 17106234,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Lonely",
+	"turns_number": 4,
+	"dialogues": [
+		[1442430, 0, "What do you do when you miss someone but you know you are better off without them", []],
+		[1450384, 3, "You think of all the s!t things they have done", []],
+		[1496615, 2, "you keep going , time will heal", ["🥰"]],
+		[1404316, 1, "you just accept it and move on with your life . there will be times that you feel like you miss them or you wish things could go different but you already know that you had be better off without them .", []]
+	],
+	"speakers": {
+		"ThatPhotographerFriend": 0,
+		"Bittersweet": 1,
+		"Tasha": 2,
+		"Mazikeen .D": 3
+	}
+}, {
+	"id": 17106219,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Worried",
+	"turns_number": 3,
+	"dialogues": [
+		[1496696, 0, "i just made myself throw up what is wrong with me i had no reason to do what i did", []],
+		[622527, 2, ".Maybe you were pre - empty have planning to save yourself the stomach pain from having eaten something funny ?", []],
+		[1495537, 1, "it is ok , do not overthink run  better to get it out than leave it in .", ["❤"]]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"durka the Dreamer": 1,
+		"Ciara💖": 2
+	}
+}, {
+	"id": 17106174,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[1431913, 0, "high expectations . big disappointments Again !", []],
+		[536240, 2, "hate it when that happens", []],
+		[1496700, 1, "it is better not to expect anything from anyone . It helps", []]
+	],
+	"speakers": {
+		".": 0,
+		"youva": 1,
+		"spicy roll 🧚": 2
+	}
+}, {
+	"id": 17106140,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Supportive",
+	"turns_number": 4,
+	"dialogues": [
+		[971423, 0, "instead of sitting there worrying if they are going to text you back , delete the message . forget about it . the balls in their court and staring at the ball or throwing more balls is just going to gain an outcome you wo not like .", []],
+		[1378898, 3, "but why delete it and forget about it for ? I thought it is ok to reread the text message who the person you missed ?", []],
+		[1496025, 2, "If someone is leaving you on read constantly just delete the entire chat . Follow them from all social and lose their numbers . Block if you need to . Put your own well being first . You need some you time and you need to be more comfortable being alone/ by yourself .", []],
+		[684673, 1, "oh , damn , I did not respond yesterday  . or was it two days ago already ? I hate my life . ( What I do with it )", ["🤦", "♀"]]
+	],
+	"speakers": {
+		"prey": 0,
+		"star": 1,
+		"Heavy Soul": 2,
+		"Kama2": 3
+	}
+}, {
+	"id": 17106104,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 3,
+	"dialogues": [
+		[1495537, 0, "I totally feel you  I know this could made me like going crazy and things I would never get gathered about get me irritated . it is not easy hope this could just goes away soon", ["❤"]],
+		[1495765, 2, "I really understand your side but sometimes you need to put yourself in first place . I know it is diffuse you later but If you continue to li have for his family you going to explode in some time . do what its right for you you", []],
+		[1496074, 1, "i been home before could and i am losing my mind so i understand how you feel i have not gone by to work because i had a baby and do not want risk sending him to daycare . howe have if you want to go by to work then just do so it will be hard at first if your boyfriend is always wanting to see his parents just try and get tested as often as you can and take all the safety precautions", []]
+	],
+	"speakers": {
+		"Ciara💖": 0,
+		"Kathe": 1,
+		"Anna": 2
+	}
+}, {
+	"id": 17106102,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 3,
+	"dialogues": [
+		[1495484, 0, "sat in bed all day to realize how lonely I actually am", []],
+		[1188682, 2, "i really felt you at ; - ;", []],
+		[1481611, 1, "have you talked about it to the app close to you", []]
+	],
+	"speakers": {
+		"Kat": 0,
+		"Casanova٦٩": 1,
+		"Willow": 2
+	}
+}, {
+	"id": 17106099,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Inspired",
+	"turns_number": 6,
+	"dialogues": [
+		[355208, 0, "Do not you ever cry on the weekend or holidays . Cry in your work is bathroom . Make them pay you for your depression . Beat the system .", []],
+		[1451117, 5, "i try to cry but tears do not fall of my eyes . so i sit for a while and go back to work", []],
+		[1004838, 4, "Good idea thanks . We have a lockdown so I m working from home unfortunately . But I m thinking to cry on room calls whenever it is possible .", []],
+		[1477208, 3, "i never thought like this", []],
+		[1441806, 2, "What if I work from home", []],
+		[1396692, 1, "whether you are employed or self employed , we ll suffer ? what is the solution ?", []]
+	],
+	"speakers": {
+		"Mxrtx☁️": 0,
+		"BATMAN WHO LOVED": 1,
+		"Sewn Eyes": 2,
+		"how many people?": 3,
+		"🦇𝐕𝐚𝐦𝐩𝐲🦇": 4,
+		"Mysterious Homie": 5
+	}
+}, {
+	"id": 17106095,
+	"category": {
+		"id": 65,
+		"name": "Eating Disorders"
+	},
+	"emotion": "Insecure",
+	"turns_number": 3,
+	"dialogues": [
+		[1323955, 0, "I m struggling at the moment and I just want to be thin . I always think people would like me more if i am thin , I just have got to be thin . I need to be thin", []],
+		[1249167, 2, "I thought the same until I found my woman . she is big like me and we are in love . eat whatever we want and all . may you find your soulmate soon my friend .", []],
+		[993133, 1, "Thin can be ugly if it is unhealthy . People want to see healthy . How do you make yourself look healthy ?", []]
+	],
+	"speakers": {
+		"Jinx": 0,
+		"Andrew Ellis": 1,
+		"Nice to Meet You 💙": 2
+	}
+}, {
+	"id": 17106069,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 4,
+	"dialogues": [
+		[1495484, 0, "i am uttereally disappointed in who i have become . i wanted to be someone better , someone important , someone beautiful . but instead i waste space , i waste time and i burden the people i love . this is not the future i had in mind for myself and i know its too late . i ll never get that future i dreamed of as a child .", []],
+		[880196, 2, "You can always change the future , you are not a waste of space nor time nor a burden . You are a human who is not perfect and that is ok . You can be someone better then the person you dreamt you where going to be in a different aspect . Your amazing and beautiful , keep your head up .", []],
+		[710403, 1, "You have so much goodness in your heart muddy . You are a good person .", []],
+		[710403, 1, "Do you need someone to talk to ?", []]
+	],
+	"speakers": {
+		"Kat": 0,
+		"Revere": 1,
+		"Matthew Williams": 2
+	}
+}, {
+	"id": 17106047,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[932897, 0, "I grave death and am scared of it at the same time .", []],
+		[933921, 2, "Are you sad ? do not you want to be ali have ?", []],
+		[1404316, 1, "your time will come do not be scared it is peaceful :)", []]
+	],
+	"speakers": {
+		".": 0,
+		"Deuces🖤🖤🖤": 1,
+		"Mazikeen .D": 2
+	}
+}, {
+	"id": 17106008,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loved",
+	"turns_number": 3,
+	"dialogues": [
+		[1469422, 0, "So I have not talked to him all day because we do not have service cause of the weather and snow but i am missing him so much but I have been trying to distract myself from not thinking about him because I know I need to leave him for good", []],
+		[1451117, 2, "You can not fight the butterflies in you are stomach .try asking him if he is alright", []],
+		[629462, 1, "I guess if you already know that you need to leave him for good , then stay strong and get a new routine that does not include him . You already know you need to .", []]
+	],
+	"speakers": {
+		"Lauren": 0,
+		"BATMAN WHO LOVED": 1,
+		"Jerry": 2
+	}
+}, {
+	"id": 17105972,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loved",
+	"turns_number": 3,
+	"dialogues": [
+		[1483036, 0, "hey have been talking to this guy and I really like him but i am not ready to commit to anything yet . But e he is so cut I love it", []],
+		[1469422, 2, "Hey it is ok if you aunt ready to commit to him yet cause everyone goes at their own speed and if he really likes you to he will wait for you until you commit and be with you forever hope", []],
+		[690033, 1, "take it slow , step by step . when it is the right time you will know", []]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"Lauren": 1,
+		"Aster": 2
+	}
+}, {
+	"id": 17105928,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Sad",
+	"turns_number": 4,
+	"dialogues": [
+		[1495484, 0, "i still wonder what its like to be loved . no second guessing , no assurances , no pain . just pure , healthy , unquestionable love .", []],
+		[836063, 3, "i can not even imagine laugh out loud I m starting to think love like that does not exist", []],
+		[1451117, 2, "that is fiction . real life is a dark comedy", []],
+		[1375732, 1, "let us find out together . or not", []]
+	],
+	"speakers": {
+		"Kat": 0,
+		"「summer」": 1,
+		"BATMAN WHO LOVED": 2,
+		"Newbie": 3
+	}
+}, {
+	"id": 17105893,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 4,
+	"dialogues": [
+		[1496667, 0, "I have never felt so alone like I do now . my family does not get me , colleagues do not get me . I do not have friends . I m married but my husband does not get me either . I just want to go far away where I wo not feel so overwhelmed with things . just want someone to whom I can share things with", []],
+		[1471270, 3, "Hey would love to listen and try help", []],
+		[1449484, 2, "its stuff like that i fear and keep all my sadness buried deep inside I just know people wo not understand if they found out how I felt :(", []],
+		[1496321, 1, "you ll feel overwhelmed no matter where you go till you stop running and start facing", []]
+	],
+	"speakers": {
+		"Ms Cherryl": 0,
+		"TerenceFletcher": 1,
+		"Papw0rth": 2,
+		"Newbie": 3
+	}
+}, {
+	"id": 17407877,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1249873, 0, "Have you ever started crying just random because you have been holding in all of these emotions and pretending to be happy for way too long ?", []],
+		[507080, 2, "Oh my god , yes . At some pots not it just becomes too much , right ?", []],
+		[1514064, 1, "oh my god yes & then when I finally do let the tears out I cry even more", []]
+	],
+	"speakers": {
+		"Ari": 0,
+		"Lexian": 1,
+		"Jazz": 2
+	}
+}, {
+	"id": 17407856,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[1483091, 0, "I know i am young but I hope that i am on na find the one for me . I feel like nobody can fall in love with my for real , I am such a mess", []],
+		[568849, 2, "Eh you like animals and seem sweet . Can not be all bad . I m sure you ll find someone eventually . It is more of a numbers game anyone welcomed .", []],
+		[963020, 1, "That is what everyone thinks till they find the one .", []]
+	],
+	"speakers": {
+		"Charlyn": 0,
+		"T.K": 1,
+		"Excuse⚠": 2
+	}
+}, {
+	"id": 17407805,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[1392016, 0, "will I be happy one day .", []],
+		[1394483, 2, "yes you will we all will", []],
+		[1421206, 1, "What makes you feel happy ?", []]
+	],
+	"speakers": {
+		"Mixed Masala 😌": 0,
+		"cruzer": 1,
+		"𝐌 𝐑   𝐀 𝐋 𝐏 𝐇 𝐀   𝐓 𝐋   𝐂 𝐀 𝐏 𝐓 𝐀 𝐈 𝐍": 2
+	}
+}, {
+	"id": 17407804,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Irritated",
+	"turns_number": 3,
+	"dialogues": [
+		[1456130, 0, "How can a man be ok with only seeing his child once a week , month , then every few months or so ? I can not imagine going a day without my baby . do men really just go on not daring ? it is just crazy how many of them just abandon their kiss", []],
+		[1219486, 2, "out of sight and out of mind apparently", []],
+		[1477196, 1, "I fought like hell for my 50 % . them is not men . they children . dad is fight for days rights .", []]
+	],
+	"speakers": {
+		"Tris": 0,
+		"Cakylynn 💀": 1,
+		"🇺🇲Reloveution": 2
+	}
+}, {
+	"id": 17407793,
+	"category": {
+		"id": 65,
+		"name": "Eating Disorders"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[1191523, 0, "why do I have got to be bulimic ? ! oh I know because I look fucking disgusting and no one wants me", ["😭", "🥺", "💯"]],
+		[579447, 2, "You should not say that about yourself ! You look great , i am sure loads of people adore you but are afraid to admit it", []],
+		[1487805, 1, "I just wanted to drop in and say that , you have a really nice ass .", []]
+	],
+	"speakers": {
+		"JadaT": 0,
+		"Lars 🐻": 1,
+		"No": 2
+	}
+}, {
+	"id": 17407690,
+	"category": {
+		"id": 59,
+		"name": "Pregnancy"
+	},
+	"emotion": "Positive",
+	"turns_number": 3,
+	"dialogues": [
+		[568387, 0, "I am a be the best mom with or without anyone !", []],
+		[1226909, 2, "I m sure you will be", ["😊"]],
+		[347596, 1, "Good for you , I hope you can do that", []]
+	],
+	"speakers": {
+		"Loveless": 0,
+		"Mehhhh": 1,
+		"HottestSnail(𓂺)": 2
+	}
+}, {
+	"id": 17407616,
+	"category": {
+		"id": 67,
+		"name": "Self-Care"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 3,
+	"dialogues": [
+		[1251291, 0, "i have to take a break from social media for me to gain more strength it makes me drained . Maybe next month i will be back or until i fully recovered .", []],
+		[1514187, 2, "Come back when you are ready ", ["❤"]],
+		[1450384, 1, "you definitely should . Take care", ["💕"]]
+	],
+	"speakers": {
+		"Black": 0,
+		"Fadh": 1,
+		"Bittersweet": 2
+	}
+}, {
+	"id": 17407602,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nothing",
+	"turns_number": 7,
+	"dialogues": [
+		[347596, 0, "Laugh out loud I love when people react toxic to my gender , like fuck off with your issues", []],
+		[647135, 6, "You were the soft snail ?", ["😁"]],
+		[419728, 5, "they be like what you truly really really really are", []],
+		[1174295, 4, "do not let toxins mix", []],
+		[1003078, 3, "what ever you are you are valid", ["❤"]],
+		[579447, 2, "Single is the best single", []],
+		[1008914, 1, "I am ensure what your gender is , but nobody should be an ashore to someone because of their gender .", []]
+	],
+	"speakers": {
+		"HottestSnail(𓂺)": 0,
+		"The fruit dude 🍉": 1,
+		"Cletus Kasady Is Kira HaHaHaHa": 2,
+		"Pink": 3,
+		"revengeistastey": 4,
+		"Miraboreas": 5,
+		"🗑️☠️sicklilguy🤢🗑️": 6
+	}
+}, {
+	"id": 17407594,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Inspired",
+	"turns_number": 4,
+	"dialogues": [
+		[1392016, 0, "who is the point of renting ? crying again ?", []],
+		[1348655, 3, "to make things better .", []],
+		[932897, 2, "getting reassured that you are not alone", []],
+		[576884, 1, "Getting things off your chest of", []]
+	],
+	"speakers": {
+		"Mixed Masala 😌": 0,
+		"🐰🐇Mr Bunny🐇🐰": 1,
+		".": 2,
+		"Seb": 3
+	}
+}, {
+	"id": 17407551,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Anxious",
+	"turns_number": 3,
+	"dialogues": [
+		[1399113, 0, "Ugh . I keep having random anxiety every time I get on my phone , like I have done something wrong even though all I have done today was play Syria . like I keep thinking someone will yell at me or argue with me ? I think ever since my brother was random mean to me / took his anger out on me a few weeks ago I have been this way .", []],
+		[523914, 2, "I feel that too .", []],
+		[1514203, 1, "Maybe your sixth sense is telling you something ? Do not know why else your gut is making you feel that way .", []]
+	],
+	"speakers": {
+		"AnxiousNugget": 0,
+		"CatLady": 1,
+		"Brandon": 2
+	}
+}, {
+	"id": 17407522,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1514213, 0, "It is sad when my ex - best friend told me that she was not going to beg me to stay in the friendship when I broke it off . She said she did it once and that she was not going to do it again . Howe have , in reality . She never begged . I just choose to stay that one time .", []],
+		[1513597, 2, "when we i have them a chance and yet they do not appreciate it", []],
+		[1474077, 1, "no . she does not deserve you . I would want us to work it out . this is exactly why I no longer haven more female bestfriends.most would not ride for you like you do them .", []]
+	],
+	"speakers": {
+		"Kandy": 0,
+		"Lych": 1,
+		"Asana 💙🌻": 2
+	}
+}, {
+	"id": 17407504,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Lonely",
+	"turns_number": 5,
+	"dialogues": [
+		[0, 0, "I think I m into guys too", []],
+		[1463480, 4, "Ever want a friend hum .", []],
+		[1459529, 3, "good for you get more option . laugh out loud", []],
+		[683746, 2, "friendly fire repeat friendly fire", []],
+		[1098821, 1, "Welcome to the club .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Newbie": 1,
+		"Alone Wolf": 2,
+		"just pretend I'm not here": 3,
+		"Puma (🎖️Jaat, edict of 👑 Sher)": 4
+	}
+}, {
+	"id": 17407501,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Supported",
+	"turns_number": 4,
+	"dialogues": [
+		[1514182, 0, "why do I feel so breaking worthless all the time", []],
+		[1486652, 3, "you are not the only one", []],
+		[1459529, 2, "because you think everyone else is so much worth then you so stop over thinking things and believe in yourself a little and start doing what you like", []],
+		[1164203, 1, "maybe because you tend to see your worth through others and you need to stop doing that and appreciate yourself more and work on yourself for your own good", []]
+	],
+	"speakers": {
+		"Tayla": 0,
+		"SNAKE DOCTOR": 1,
+		"Alone Wolf": 2,
+		"A little star 🌟": 3
+	}
+}, {
+	"id": 17407463,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Annoyed",
+	"turns_number": 3,
+	"dialogues": [
+		[1495731, 0, "i hate that everyone is kind of taking advantage of me and i ca not do shit cut they ll just i have me shit if i said no to something ;)", []],
+		[625805, 2, "I m sorry to hear that . Next time be cautious", []],
+		[1514213, 1, "My family does the same type of is * . I just became a selfish brat up in this hood . But i am happier now", ["🤣"]]
+	],
+	"speakers": {
+		"salel19": 0,
+		"Umar | عمر": 1,
+		"Kandy": 2
+	}
+}, {
+	"id": 17407428,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Inadequate",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "Someone makes a post about being depressed or sad and needing help and their post gets ignored yet someone makes an NOW post and within seconds people comment and interact with the now post it is sickening the world we li have in", []],
+		[1367879, 2, "its sad but its completely true", []],
+		[1478986, 1, "It really is sad I just say like i have of those", ["😒"]]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"drenii": 1,
+		"nameless": 2
+	}
+}, {
+	"id": 17407372,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Down",
+	"turns_number": 8,
+	"dialogues": [
+		[1510184, 0, "People who are sad , hurt , depressed , etc , need someone to talk and flow out their emotions to ease for a bit . Everyone deserves a little care and support . But in real world its much diffuse you later to find such person . This pp is helping so much to flush out emotions . Personally I understood by using this pp for a week .", []],
+		[654502, 7, "i am so happy for you :) i just hope your life will be filled with lots of happiness and positively", ["🤍"]],
+		[680791, 6, "Take a break if you must ", ["❤"]],
+		[1245735, 5, "it is what it is you always know how to find that silver lining", []],
+		[1436296, 4, "* At the End all That matters is * You * . May Allah sat Ease Everyone is Pain and Sufferings .", ["🍁"]],
+		[1483652, 3, "yeah you are right and thank your sharing this with us ", ["❤"]],
+		[1429482, 2, "This is so beautifully written , thank you for sharing ! It would be so great if everyone could have their safe happy place , it helps dealing with problems , take a break from them . You are right , we should all be doing that . if you ever need help reaching that happy place you can always message me , i would do my best to help you get back there :) * huge back for you as well *", []],
+		[788444, 1, "lovely words really uplifting xx", []]
+	],
+	"speakers": {
+		"Lost Star": 0,
+		"❤💙💚💛💜♥": 1,
+		"ᴇ ʟ ʟ ᴇ": 2,
+		"Parth  with the D": 3,
+		"𝑆𝑖𝑟é𝑛𝑒●࿐": 4,
+		"stef33": 5,
+		"11wildy": 6,
+		"daisy may": 7
+	}
+}, {
+	"id": 17407364,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "imagine you connect with someone they work really hard to get you to open up and build relationship with them and they get scared if their feelings and ghost you ", ["👐", "❤", "😃"]],
+		[1388204, 2, "happens all the time  ", ["🤦", "♂"]],
+		[13177, 1, "up , sounds just like me", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Anthony Piacentini": 1,
+		"Anon": 2
+	}
+}, {
+	"id": 17407344,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Positive",
+	"turns_number": 3,
+	"dialogues": [
+		[843568, 0, "Hey there ! Would anybody like to join an online book club ? I do not have the details fully pledged out yet , but I would enjoy reading different genius ( unless it is Romance or Young adult , with a few possible exceptions ) . If this sounds interesting to you , just let me know !", []],
+		[695598, 2, "That sounds fun , I m definitely interested ! Just let me know when all of the details are worked out and what ll be happening", []],
+		[539551, 1, "I guess that would be nice !", []]
+	],
+	"speakers": {
+		"Noah": 0,
+		"UwU": 1,
+		"Tay": 2
+	}
+}, {
+	"id": 17407340,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Depressed",
+	"turns_number": 4,
+	"dialogues": [
+		[1302942, 0, "I am such a horrible fucking person", []],
+		[1371154, 3, "I think you are a worthy and nice person", []],
+		[1514206, 2, "You are actually not . It is only your thoughts which makes you think like that . The thoughts do control a person when he does not know how to control it instead .", []],
+		[1282690, 1, "Eh , you are one of the most sweetest , kindest and wonderful people I have met .", []]
+	],
+	"speakers": {
+		"Matt": 0,
+		"purple patootie": 1,
+		"gloomy": 2,
+		"Mary": 3
+	}
+}, {
+	"id": 17407324,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Anxious",
+	"turns_number": 4,
+	"dialogues": [
+		[1392016, 0, "I feel afraid of all app . I ant know why . I think they may harm me or hurt my feelings .", []],
+		[606000, 3, "never be afraid just aware", []],
+		[653200, 2, "those who harms are the one that feels predictable most of the time , but the one with hurting feelings are just bunch of manipulate have a - hole . but it is just actually nice to just listen to them spelling bullshit sometimes because I know its face laughing my arms off", []],
+		[1514213, 1, "Your feelings are bound to be hurt even in a healthy relationship . What matters is if you learn from these situations and know what is best foryouryour", []]
+	],
+	"speakers": {
+		"Mixed Masala 😌": 0,
+		"Hurrikane": 1,
+		"🐹Hamy🐹": 2,
+		"Kandy": 3
+	}
+}, {
+	"id": 17407259,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "I think I will just end it .", []],
+		[1478986, 2, "I also like to be anonymous so I understand but do not", []],
+		[1514213, 1, "I thought this app was to help others , not to judge and label . And do not end it . it is not worth it .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"nameless": 1,
+		"Kandy": 2
+	}
+}, {
+	"id": 17407253,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[1490283, 0, "I need someone to vent to but I feel like a bother .", []],
+		[1367879, 2, "You are not a bother , i am here", []],
+		[344634, 1, "i am here for you friend .", []]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"drenii": 1,
+		"hASH": 2
+	}
+}, {
+	"id": 17995065,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Anxious",
+	"turns_number": 3,
+	"dialogues": [
+		[1546980, 0, "why do i feel like everybody rates me ?", []],
+		[1542631, 2, "I know that feeling all to well . And I can reassure you that I do not hate you :)", []],
+		[1546948, 1, "sometimes i feel the same .but i hope that you find someone who will love you more .", []]
+	],
+	"speakers": {
+		"rainbow": 0,
+		"all bi myself": 1,
+		"Bidura Sarkar": 2
+	}
+}]

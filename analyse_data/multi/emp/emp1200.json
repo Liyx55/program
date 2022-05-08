@@ -1,0 +1,618 @@
+[{
+	"id": 17105369,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Jealous",
+	"turns_number": 6,
+	"dialogues": [
+		[1495359, 0, "my ex just blocked me after she told me she had just gone on a date why am I so weak that I need her", []],
+		[356552, 5, "we more attracted to things that do not want us or is bad for us .", []],
+		[1261923, 4, "she is your ex for a reason let go", []],
+		[1484589, 3, "Pus let her go and focus on yourself . You deserve better . You do not actually need her because you are not going to stop your life for a person ! it is not even worth it", []],
+		[893979, 2, "You are feeling weak now but remember that this feeling wo not last forever . You have plenty of time and reasons to li have a prosperous life , and someday you ll find a partner who matches with your values and energy and you ll be thankful for the experiences that did not work out .", []],
+		[1493455, 1, "Touched up.your a men . Move on and look to the future .", []]
+	],
+	"speakers": {
+		"Jack": 0,
+		"Nopoint": 1,
+		"David J": 2,
+		"Rene🇵🇸": 3,
+		"Jayli": 4,
+		"VolkRebel": 5
+	}
+}, {
+	"id": 17105352,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Nothing",
+	"turns_number": 12,
+	"dialogues": [
+		[1083190, 0, "So apparently sleeping a lot does not make my problems go away?Shocked & upset", []],
+		[1480819, 11, "Right this is the first step to growth though . Good rest is great though", []],
+		[1296483, 10, "an apple a day keeps the doctor away , so worth a try", []],
+		[1495905, 9, "I wish I could even sleep to try and get things off my mind . Here for you", []],
+		[1378898, 8, "I know that feeling way too well try to distract yourself before going to sleep , hope you find something that will help you soon", ["😔", "💐", "💚"]],
+		[1483734, 7, "eat amen . it helps", []],
+		[347145, 6, "Ah yes those problems stay regardless of the amount of sleep , just know that your amazing :) and not every problem goes away overnight , they are there to shadow your colors , and how great you are .", []],
+		[1496787, 5, "I use to smoke and drink to make my problems go away but I realized it only made it worse . I had to let go and let God !", []],
+		[1425917, 4, "ah . just exacerbates most problems or slow people down from facing them and making necessary changes or doing work on them .", []],
+		[1496825, 3, "sleeping do not make anything better I m pretty sure most people on this pp tried it you have let it out whatever you holding in and try to harness that rage , it is like fuel to the jet but it wo not last long I think that is the best part about it", []],
+		[1379161, 2, "Eating ice cream does for me", []],
+		[963020, 1, "I used to sleep a lot but then I almost died that made me realise sleeping is the thing that I should be shipping .", []]
+	],
+	"speakers": {
+		"Ina🛸": 0,
+		"Jessica": 1,
+		"Mo™": 2,
+		"Cheche": 3,
+		"star": 4,
+		"Gibbon the wise": 5,
+		"Donald A Bunce": 6,
+		"Precious Uniqueka Warren": 7,
+		"*Amira❤️Adore*": 8,
+		"Rohit Goud": 9,
+		"DaddyZach": 10,
+		"Excuse⚠": 11
+	}
+}, {
+	"id": 17105288,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Nervous",
+	"turns_number": 3,
+	"dialogues": [
+		[1431913, 0, "i can not tell if I still matter or not", []],
+		[1447316, 2, "you do matter everyone including me but i do not know you but i do care the people on here care do we can talk if you want", []],
+		[1496625, 1, "you do matter . to everyone who is reading this , you matter more than you know .", []]
+	],
+	"speakers": {
+		".": 0,
+		"Mindy Cheif": 1,
+		"Rosa": 2
+	}
+}, {
+	"id": 17105267,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[1150427, 0, "Have really been struggling with my mental health the past few days . I really need a real ass friend in life . Do not get me wrong . I appreciate the many strangers who reach out to help . it would just be nice to have an actual friend who cares . I just want to feel loved and appreciated .", []],
+		[1493911, 2, "I really want to be your friend", []],
+		[1478253, 1, "I would love to be your testing muddy . we can use whatsapp or Instagram or ? we can sort each other when the other one needs it . I have done this in the past and it works amazing . I am home all day every day and I need a friend . i look forward to being friends with you . please reply . thank you , Hesse ak : . onebulkyguy", []]
+	],
+	"speakers": {
+		"MorticiaTheMacabre": 0,
+		"Jennie": 1,
+		"OneBulkyGuy": 2
+	}
+}, {
+	"id": 17105264,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Sad",
+	"turns_number": 4,
+	"dialogues": [
+		[1305363, 0, "I just need someone to talk to . Sometimes it feels like i am drowning in my own thoughts .", []],
+		[1221505, 3, "If you need someone to talk to feel free to message me", []],
+		[1494607, 2, "i can listen and support you if you need to , do not hesitate to send a message .", []],
+		[1478253, 1, "I prefer one on one friendships . like using an pp called whatsapp or Instagram . I have a few friends but a lot of times I still find myself without someone to talk with . I m home all day long and I m able to talk and listen . would you like to join me as testing babysitters?I have anxiety , depression , ITS , and panic attacks . I look forward to having you as a friend . thank you , Hesse", []]
+	],
+	"speakers": {
+		"Annie": 0,
+		"Michael Fella-James": 1,
+		"nope": 2,
+		"OneBulkyGuy": 3
+	}
+}, {
+	"id": 17105205,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1127903, 0, "i think my sister had another miscarriage but has not directly told me yet . she lost two twins last year too . i just want to be an uncle .", []],
+		[1442760, 2, "I hope your sister is recovering well ! being an uncle is one of the coolest things ever.and your sisters health is so important", ["🤗"]],
+		[1403569, 1, "I am so sorry your sister had a miscarriage . my mon had at least to as well . Miscarriages destroys someone is soul especially when the only thing they want is to be mothers . :) I hope everything works out for her and that you will be a uncle soon .", []]
+	],
+	"speakers": {
+		"Ecky": 0,
+		"Nour": 1,
+		"Cinnamon :)": 2
+	}
+}, {
+	"id": 17105176,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Lonely",
+	"turns_number": 4,
+	"dialogues": [
+		[25320, 0, "so I took a break from this app as things were looking good for me and my fiance , but now I found out he recorded us having is*x and was showing all his friends . I should have known bc he was doing things he would not usually do . and was being a lot more violent . I just ca not , anymore man", []],
+		[1403569, 3, "I ca not believe people like him actually exist . Absolutely disgusting i am so sorry you had to go through that .", []],
+		[1492101, 2, "Sorry bout that , I pray you find a better one ", ["♥"]],
+		[1495756, 1, "I m sorry , you need to get out of there", []]
+	],
+	"speakers": {
+		"Izzyyy🦋🤍": 0,
+		"Cinnamon :)": 1,
+		"Victory perry": 2,
+		"Cindy Sheritte": 3
+	}
+}, {
+	"id": 17105169,
+	"category": {
+		"id": 65,
+		"name": "Eating Disorders"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[652529, 0, "For those of you with ends how did you tell people ? I really want to tell someone because I feel all alone but I also do not want to be judged", []],
+		[1447316, 2, "when you feel ready let the people you really do trust and do not let you mind think that people are judging you because i use to have the same problem and i am happy and very loved and you are just taking baby steps i took me 5 years to open up to people but what i am seeing is your not ready yet but when you do let someone know one", []],
+		[1496605, 1, "Well I told a few friends of mine but they all had similar problems so it was easier . But actually I just started talking about how much weight I lost and how my relationship with food ist .", []]
+	],
+	"speakers": {
+		"EmTheGem": 0,
+		"Mindy Cheif": 1,
+		"Anonym": 2
+	}
+}, {
+	"id": 17105144,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Lonely",
+	"turns_number": 5,
+	"dialogues": [
+		[0, 0, "I will really never find anyone . I fall too fast for guys yet at the same time push them away because I know I do not deserve them , leaving myself heartbroken", []],
+		[1442760, 4, "if you go about it believing that you wo not ever find anyone , then that is the exact energy that you ll attract . it is about the way you think , too ! the same thing applies for saying you do not deserve them . they deserve you , but the only the right man for you deserves you . and then when that happens , then you have also found someone", []],
+		[1322796, 3, "put some value on herself ! no1 is to good for another . if you like some1 and they feel the same with you , their just as scared losing you then you r of them . I mean , look at Means Nerves , he could do so much better than that old lady he has as a wife . but he loves her and does not matter to him how old looking she is .", []],
+		[1496605, 2, "You deserve to be loved !", []],
+		[1493455, 1, "You need love.therefore you deserve it .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Nour": 1,
+		"missing_soul _7": 2,
+		"Anonym": 3,
+		"VolkRebel": 4
+	}
+}, {
+	"id": 17403203,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Amused",
+	"turns_number": 8,
+	"dialogues": [
+		[1402308, 0, "I got fat shame by a guy", []],
+		[1025482, 7, "When he called you fat , you should have said thank you , least I have some beauty .", []],
+		[1485377, 6, "why did he call .he is bully", []],
+		[1233998, 5, "his opinion does not matter", []],
+		[1403569, 4, "He probably has a micro penis laughing my arms off do you look gorgeous either way .", []],
+		[479026, 3, "fuck that shit . You are beautiful", ["💚"]],
+		[1513719, 2, "beat them the fuck up . they do not need their bones they need to be put in their place", ["💞"]],
+		[579770, 1, "you should not i have a shit about men opinion laugh out loud you are beautiful", []]
+	],
+	"speakers": {
+		"Suf": 0,
+		"Potato Angel💝": 1,
+		"Newbie": 2,
+		"User Banned": 3,
+		"Cinnamon :)": 4,
+		"Happiness :)": 5,
+		"Get fucked": 6,
+		"🌻": 7
+	}
+}, {
+	"id": 17402993,
+	"category": {
+		"id": 71,
+		"name": "Grief"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[1261177, 0, "why people come and suddenly go without saying any reason", ["😔"]],
+		[1444612, 2, "Let them go . They were not meant to stay with you in first place . Why worry over someone whose gone and you are in control over someone is leaving . Just be content with present . If they want to come in your life , welcome them , if they want to go let them go . Your sadness comes from your attachment to them that you think they have something to do with you but no they are not part of you . They are external to you so be indifferent to them .", []],
+		[1489911, 1, "be with me I wo not go", []]
+	],
+	"speakers": {
+		"moon": 0,
+		"Cosmic Monk": 1,
+		"Mo Begum Akshaya": 2
+	}
+}, {
+	"id": 17402955,
+	"category": {
+		"id": 71,
+		"name": "Grief"
+	},
+	"emotion": "Numb",
+	"turns_number": 3,
+	"dialogues": [
+		[1513933, 0, "I always see gentle girls online full of sunshine and flowers and I wish I was too but I m angry and full of metes and resolved trauma .", []],
+		[1444612, 2, "Do not compare yourself to others . Accept yourself and love yourself for who you truly are . Find your faults and weaknesses then start to improve them and entering yourself from it . Do not compare yourself or try to be someone else . Just be the best person you can be that is honourable in your eyes .", []],
+		[1094946, 1, "Everybody is different . I like people full of metes they are fun to chat with .", []]
+	],
+	"speakers": {
+		"Artemis": 0,
+		"Cosmic Monk": 1,
+		"Waffles😋": 2
+	}
+}, {
+	"id": 17402860,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[1512915, 0, "sometimes we let our hearts rule us , instead of taking time and thinking things through and making the right decisions", []],
+		[1485377, 1, "decision taken by heart is good but not in anger", []],
+		[1485377, 1, "I liked a girl and I revealed my feelings really and now she is gone . no doubt I have a pain but no regrets because my intention was good for her . she is not with me . she never contracted me , not seen her past 3 months but still pray for her . still think about her , still feeling pain but still happy because my intention was right and it was from my heart", []]
+	],
+	"speakers": {
+		"pinky": 0,
+		"Newbie": 1
+	}
+}, {
+	"id": 17402769,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Worried",
+	"turns_number": 5,
+	"dialogues": [
+		[0, 0, "I have never liked anyone romantically before , but now I suddenly like two people at the same time and both like me back fucking chaos , so typical", ["🤦"]],
+		[1178396, 4, "brush I just imagined this scenario today but all the best", ["💔", "🌺"]],
+		[1451845, 3, "Now its like a movie", []],
+		[658263, 2, "wishing you all the best !", []],
+		[1425917, 1, "choose one and let the other down gently . last thing you want is a sordid love triangle because it never works out in the favor of the person who is being deceitful with two different people who think that it is just you and them . it always ends disastrously", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Sleepy Shawty💤": 1,
+		"Musa": 2,
+		"ɐpuᴉ⅂": 3,
+		"*Amira❤️Adore*": 4
+	}
+}, {
+	"id": 17402708,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Meh",
+	"turns_number": 3,
+	"dialogues": [
+		[393451, 0, "The reason why I feel ashamed when I make mistakes is because my mon used to yell at me whenever I did something wrong , as a kid . If I dropped something she yelled , as if i had done it on purpose when in reality I was just a clumsy little kid .", []],
+		[1510184, 2, "Most moss are same . When we drop its a crime . When she drops its a small mistake . Hut ! Ignore and move on muddy", []],
+		[1511682, 1, "do not be ashamed it is alright to make mistake ( is ) no one is perfect . smile !", ["😁"]]
+	],
+	"speakers": {
+		"CallMeCaleb": 0,
+		"Lost Star": 1,
+		"Charmaine Cervantes": 2
+	}
+}, {
+	"id": 17402644,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[560215, 0, "Once convinced I had such never really had , then realized me was self - deluded", []],
+		[1509414, 2, "its ok accept is do not deny", []],
+		[1513408, 1, "Coming here is already a good choice , maybe it wo not help much but any amount of help can be good . I do not know your parents , but if it ever comes to it please remember that your mental health is important and you deserve to be happy :] ( also I do not think there is really any problem if you want to self diagnose , go ahead you are not hurting anybody )", []]
+	],
+	"speakers": {
+		"‎": 0,
+		"smile": 1,
+		"Olivia": 2
+	}
+}, {
+	"id": 17402622,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "what is the point of Living ? you go to school with zero motivation and you do not like to talk with others so you do not have friends and then you go to work and work ( you ll be lucky if you going to be in a job you like ) till you die", []],
+		[1511682, 2, "hi , need someone to talk to ?", []],
+		[1312627, 1, "return to the stars to escape reincarnation back to the worldfollow the standard n Youthfulness Compassion and Forbearance", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Charmaine Cervantes": 1,
+		"Righteous Force": 2
+	}
+}, {
+	"id": 17402516,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Supported",
+	"turns_number": 4,
+	"dialogues": [
+		[1513996, 0, "I do not know what I am feeling right now , I suddenly felt sad and cried without any reason .", []],
+		[1513894, 3, "anything related to past ?", []],
+		[1511682, 2, "need someone to talk to ?", []],
+		[1513530, 1, "ah crying spells . well generally there are a few reasons for this . ( 1 ) since thought are always flying around you mind at a fast speed sub consciously one of those thoughts may have for a second became conscious and generate emotions . ( to ) you saw , heard , thought of something that trigger a thought that was connected to another thought and it made you react . see with having constant awareness of what is going on around us , and what might trigger us hard to say what it could be .", []]
+	],
+	"speakers": {
+		"Erza S.": 0,
+		"Amrit K": 1,
+		"Charmaine Cervantes": 2,
+		"Stefãn": 3
+	}
+}, {
+	"id": 17402466,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Nervous",
+	"turns_number": 3,
+	"dialogues": [
+		[935879, 0, "Job interview in an hour . super nervous in .", []],
+		[1216562, 2, "You ll be great ! ", ["❤"]],
+		[550594, 1, "all the best . you he got this !", []]
+	],
+	"speakers": {
+		"W": 0,
+		"lonelydad": 1,
+		"Why Do We FALL?": 2
+	}
+}, {
+	"id": 17402411,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[626945, 0, "Anyone else here have casual suicidal thoughts ? Or is it just me ?", []],
+		[554919, 2, "It is not just you", []],
+		[1495296, 1, "I had before . I still often think about it", []]
+	],
+	"speakers": {
+		"Prabz": 0,
+		"★⸸𝓜𝔂𝓼𝓽𝓲𝓬𝓪𝓵 𝓑𝓵𝓾𝓮𝓳𝓪𝔂⸸★": 1,
+		"noticemenot": 2
+	}
+}, {
+	"id": 17402392,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Down",
+	"turns_number": 6,
+	"dialogues": [
+		[1447634, 0, "Can you cure yourself from depression without using anti - depressants ?", ["🥺"]],
+		[1488211, 5, "Let me know if you find out ! I would like that too", []],
+		[1380755, 4, "anti - depressants are not a cure , its to control it basically , so yes i guess you can but you should do as an actual doctor says", []],
+		[1147162, 3, "yes and also , anti depressants do not cure you laugh out loud", []],
+		[1509414, 2, "my find was going through severe now he is healing process without med", []],
+		[1472757, 1, "I took at the beginning but its addicted have so i quit . At the beginning it was hard . But after few month distracting myself is working well and doing things that makes me happy . It does get well . Just time and patience .", []]
+	],
+	"speakers": {
+		"Indigo": 0,
+		"GingerNewbie": 1,
+		"-admins": 2,
+		"leokee": 3,
+		"smile": 4,
+		"🍁🍁 𝔖𝔥𝔞𝔣𝔦𝔮 🍁🍁": 5
+	}
+}, {
+	"id": 17402385,
+	"category": {
+		"id": 48,
+		"name": "Work"
+	},
+	"emotion": "Insecure",
+	"turns_number": 6,
+	"dialogues": [
+		[1514002, 0, "I am 27 year old indian girl . I am depressed since long time . my self esteem is on lowest point . I am.failing in career and relationship both . I am living with depression since long time .", []],
+		[736799, 5, "have you tried to get help ?", []],
+		[768493, 4, "another degree i am doing this", []],
+		[1245598, 3, "hey you - ok ? ! you want to talk ? !", []],
+		[265543, 2, "if you looking for a friend to talk , share and support feel free to reach out to me", ["😊"]],
+		[809990, 1, "First calm down.relax . take a deep breathe . nd drink a lot of water . and then sit nd ponder for the best solutions /possible way in which you can motivate herself nd increase you are confidence . There is always a way when looks like there is no way . believe me it will take some time but you will be healed for sure . If you r persistent and determined in your healing approach you will recover soon .", []]
+	],
+	"speakers": {
+		"Another Girl on YT": 0,
+		"Eddy": 1,
+		"Tushar Arora": 2,
+		"(SBP)": 3,
+		"love_me_like_I_do": 4,
+		"User Banned": 5
+	}
+}, {
+	"id": 17402355,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1388334, 0, "this is a small reminder , please be kind to yourself .", []],
+		[1035320, 2, "Thank you for the precious reminder :)", []],
+		[444515, 1, "always am you too be kind to yourself ", ["😊", "💜", "♥"]]
+	],
+	"speakers": {
+		"Obsessive Crafting Disorder": 0,
+		"Psychologist": 1,
+		"star": 2
+	}
+}, {
+	"id": 17402294,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Afraid",
+	"turns_number": 3,
+	"dialogues": [
+		[265543, 0, "good luck it would be tough I understand but it is necessary for you by the way you know your face matches a lot with this actress named Talk She", ["😊"]],
+		[859531, 2, "It breaks my heart what you are going through . But rest assured you are doing the right thing , for you , for your children and for your husband too . And when you do the right thing with the best and wealthiest intentions at heart things always naturally fall in a good place . You are acting maturity and lovingly and life will in turn respond to you accordingly .", []],
+		[1441273, 1, "I hope everything works out for you but he needs to learn . You are doing him a favor .", []]
+	],
+	"speakers": {
+		"love_me_like_I_do": 0,
+		"TheVenusian": 1,
+		"Hoss": 2
+	}
+}, {
+	"id": 17402281,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[1513938, 0, "Depression has been so bad as of late . Dark thoughts and actions have started happening . I really wonder how much longer I ll sure have .", []],
+		[1512432, 2, "If you need to vent or talk i am here for you", []],
+		[1514400, 1, "Right there with you . It is not fun", []]
+	],
+	"speakers": {
+		"Dwayne": 0,
+		"Frankie": 1,
+		"⛓NeedNewLife⛓": 2
+	}
+}, {
+	"id": 17402225,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1513967, 0, "a good listener barely gets a good listener and sometimes it is hard to find it .", []],
+		[1306097, 2, "If you need a listener , I m here , although I m not the best", []],
+		[1504749, 1, "I am here . I might not be able to i have advice . but I will listen to you", []]
+	],
+	"speakers": {
+		"ғʟᴀᴍᴍɪɴ' ʜᴏᴛ ᴄʜᴇᴇᴛᴏs": 0,
+		"🌻sunny gay song🌻": 1,
+		"Aela✨": 2
+	}
+}, {
+	"id": 17402211,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[1422867, 0, "I feel like I m worth nothing", []],
+		[1513974, 2, "You are worth more than you i have", []],
+		[1502890, 1, "you are worth this life", []]
+	],
+	"speakers": {
+		".": 0,
+		"Sumzhere": 1,
+		"Sabrina ☀️❣️": 2
+	}
+}, {
+	"id": 17402129,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1415227, 0, "Sometimes I just want to kill myself to end everything", []],
+		[1513597, 2, "I think the same , but it wo not change anything", []],
+		[1513437, 1, "Suicide is not a solution .", []]
+	],
+	"speakers": {
+		"Nobody": 0,
+		"Lych": 1,
+		"Jolly": 2
+	}
+}, {
+	"id": 17402095,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1448522, 0, "That moment when you think you are strong but then your head is full of negative have thoughts , you ll suddenly breakdown", ["😭"]],
+		[1043163, 2, "That is my life every day", []],
+		[504336, 1, "It is hard.but do not lose hope ! Good luck", []]
+	],
+	"speakers": {
+		"Lil": 0,
+		"SofiaGarcia": 1,
+		"Prima ": 2
+	}
+}, {
+	"id": 17402053,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loving",
+	"turns_number": 3,
+	"dialogues": [
+		[1506554, 0, "How to love the same person again ?", []],
+		[401426, 2, "if it happens it happens , there is no way to force it", []],
+		[1376181, 1, "You can not love the same person again as you used to , it is never the same feelings . the only person you can love again is YOURSELF", []]
+	],
+	"speakers": {
+		"Tayn": 0,
+		"pathetic soul": 1,
+		"truesoul": 2
+	}
+}, {
+	"id": 17402043,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[1503987, 0, "Today it is my first night of my job , after BREAK - UP it is hard to forget her but now i can forget her easily . I m happy today", []],
+		[1322222, 2, "you are recovering well .", []],
+		[401426, 1, "you just said that it is hard to forget her and then you said you can easily forget her ? what the fuck due ?", []]
+	],
+	"speakers": {
+		"Honey Ji": 0,
+		"Cute Bear": 1,
+		"pathetic soul": 2
+	}
+}]

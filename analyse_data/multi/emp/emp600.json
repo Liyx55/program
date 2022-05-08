@@ -1,0 +1,642 @@
+[{
+	"id": 17995030,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Stressed",
+	"turns_number": 7,
+	"dialogues": [
+		[881346, 0, "he broke up with me without telling me the real reason , he did not tell me what i did wrong.i do not know what am i feeling now heart is broken", []],
+		[1471683, 6, "Oh God . You too ?", ["😭"]],
+		[550594, 5, "that is what app do :)", []],
+		[1547422, 4, "you deserve the best baby girl", []],
+		[599035, 3, "You did nothing wrong , believe me . Sending you lots of strength , you deserve better ", ["❤"]],
+		[1547480, 2, "he does not need to tell you the reason , you are already a limit", []],
+		[1539900, 1, "are you really sure that he loved you", []]
+	],
+	"speakers": {
+		"Lilith": 0,
+		"❄ Cold flame ❄": 1,
+		"Why Do We FALL?": 2,
+		"Amazing Grace🥰": 3,
+		"tnelis": 4,
+		"larin ya": 5,
+		"Kyle": 6
+	}
+}, {
+	"id": 17995011,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Nostalgic",
+	"turns_number": 3,
+	"dialogues": [
+		[1547306, 0, "did you ever have a dream ? something you wanted so badly and just when you are about to grab and reach it , someone else takes it away ?", []],
+		[1544021, 2, "I have experienced that in reality , it could mess you up", []],
+		[1535211, 1, "Close . I had a dream , i was so close to it that i can grab it but i gave up at the last second cos i am exhausted and tired", []]
+	],
+	"speakers": {
+		"Cassandra Ace": 0,
+		"Boulevard of broken dreams": 1,
+		"Iris": 2
+	}
+}, {
+	"id": 17994975,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[385240, 1, "that is so cool though !", []],
+		[627294, 3, "do not regret it in future by the way", []],
+		[1465720, 2, "whatever you do , it is going to look absolutely great", []]
+	],
+	"speakers": {
+		"sebastian.dk": 0,
+		"leakee": 1,
+		"dani": 2
+	}
+}, {
+	"id": 17994957,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Tired",
+	"turns_number": 4,
+	"dialogues": [
+		[1528733, 0, "This is terrible . So sorry you have been through what you have .", ["😢"]],
+		[704739, 3, "I am so sorry , that is horrible to watch . it is like losing a family member", []],
+		[1515999, 2, "I m assuming he was rapid that he lost all his manhood and now the only way he can feel dominance is if they really have no chance . just like him when he was younger he had no chance", []],
+		[1349844, 1, "I m so sorry to hear that if you ever want to talk about it I m here for you", ["🖤"]]
+	],
+	"speakers": {
+		"BabyDreamer": 0,
+		"✟ 𝔊𝔦𝔞 ✟": 1,
+		"Artist": 2,
+		"𝓐𝓷𝓰𝓮𝓵": 3
+	}
+}, {
+	"id": 17994916,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1547459, 0, "Hey guys . wish you have a great day", []],
+		[1489911, 2, "thank you . you too brother/ sister", []],
+		[1258841, 1, "thanks , boomeranged back to you", []]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"Mo Begum Akshaya": 1,
+		"Alicia": 2
+	}
+}, {
+	"id": 17994908,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Depressed",
+	"turns_number": 5,
+	"dialogues": [
+		[826797, 0, "So bored time is wasting life is wasting nothing to do literally missed up", []],
+		[1397442, 3, "wish to talk regarding it ?", []],
+		[594640, 2, "so you are bored ? me too", []],
+		[594640, 2, "hi . how are you", []],
+		[1543640, 1, "hey how are you , is everything ok", []]
+	],
+	"speakers": {
+		"Jiya": 0,
+		"Inspiration💫": 1,
+		"Edward Stempien": 2,
+		"Sleepy Head": 3
+	}
+}, {
+	"id": 17994903,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Calm",
+	"turns_number": 3,
+	"dialogues": [
+		[1547029, 0, "What is your MET type?Mine is intpby the way , this test actually really helps to know yourself , do you agree ?", []],
+		[1378705, 2, "it changes as a person personality changes", []],
+		[809733, 1, "I agree . I m IN , and it explained so many things that I had felt for many years was just excuse have to me , it made me feel a belonging .", []]
+	],
+	"speakers": {
+		"Sunnymoon": 0,
+		"White Wing": 1,
+		"EthereaLunaMoth": 2
+	}
+}, {
+	"id": 17994873,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[1478713, 0, "I wish other people could understand that I do not want these feelings , I want them to leave , but it is not that easy . I try to explain to them that it is like someone caught me , grabbed me , surrounded me with a black cloud , and it does not matter what I do and how good I sometimes feel , they are here .", []],
+		[1375732, 2, "why do you feel that way ?", []],
+		[1547522, 1, "I can relate . Nothing about you wants to feel like this .", []]
+	],
+	"speakers": {
+		"🥑𝕸𝖎𝖗𝖏𝖆𝖓𝖆🥑": 0,
+		"Newbie": 1,
+		"Sazz": 2
+	}
+}, {
+	"id": 17994866,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[800093, 0, "I am tired of hiding who I am . Why can not I have a family who is accepting ? ! ?", ["😔"]],
+		[1531787, 2, "Well , if needed , I can adopt you instead ! But jokes aside , I m so sorry they are not accepting . It is not fair for them to not like you because the people you choose to date .", []],
+		[1535435, 1, "I Do not have one either so you are not alone", []]
+	],
+	"speakers": {
+		"Alessia🌈": 0,
+		"FaeVal": 1,
+		"Morningstar 🖤": 2
+	}
+}, {
+	"id": 17994816,
+	"category": {
+		"id": 67,
+		"name": "Self-Care"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[1546090, 0, "What does it look like at the moment .I kept crying after hugging someone At least once someone understands me . No one really knows how I feel !", []],
+		[1397442, 2, "You will get over it .", []],
+		[1323694, 1, "hey its really tough this feeling is departing I know but girl just hold on it is a h phase it all pass and soon you all had people who does value you understand you .huge for you dear", []]
+	],
+	"speakers": {
+		"Sakshi Roy": 0,
+		"Inspiration💫": 1,
+		"parth": 2
+	}
+}, {
+	"id": 17994797,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Sad",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "I just got pulled at school for being gay", []],
+		[1488532, 3, "I m so sorry , you do not deserve that . please seek help if you can . take care<3", []],
+		[627294, 2, "kiss that guy I do not know he d be passed", []],
+		[1506700, 1, ". all I can think about in is that tikhon . hope you are ok bud", ["😂"]]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		":-\\": 1,
+		"leakee": 2,
+		"InquisitiveBeing": 3
+	}
+}, {
+	"id": 17994775,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Calm",
+	"turns_number": 3,
+	"dialogues": [
+		[938727, 0, "My heart is rotten , and I like it that way", []],
+		[822412, 2, "rotten from ? past experiences ?", []],
+		[1453585, 1, "Same , loved someone with all my heart and all I got was betrayal in the end .", []]
+	],
+	"speakers": {
+		"ℛενεnαnτ": 0,
+		"Jim™": 1,
+		"SCP - 69420": 2
+	}
+}, {
+	"id": 17994771,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 3,
+	"dialogues": [
+		[822412, 0, "most often people ask me how am I so aware about the periods / menstruation process . I came through these knowledge while I was searching on gender sensitivity.and th there is no shame In knowing that . I believe that understanding these things will help us to get aware of our female connections.either it be our significant half / sister / mother . Absence of knowledge creates the sense of insensibility.so yeah I urge all of my male friends to get actually more information and actual ones about the menstruation process .", []],
+		[485992, 2, "Ok why they ask it laugh out loud", []],
+		[1534903, 1, "That is really thoughtful and mature of you ! :)", []]
+	],
+	"speakers": {
+		"Jim™": 0,
+		"I can't handle stress stay away": 1,
+		"An Ambivert 👧": 2
+	}
+}, {
+	"id": 17994743,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[426863, 0, "actually it is not anyone is but my own fault that I have no one .", ["😔"]],
+		[1547422, 2, "hey.sending you hug.you want talk", []],
+		[841162, 1, "hey are you ok ? do you want any help", []]
+	],
+	"speakers": {
+		"K r N": 0,
+		"Amazing Grace🥰": 1,
+		"Suganth Ks": 2
+	}
+}, {
+	"id": 17994695,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "Mature people are always best", []],
+		[1334208, 3, "yeah but that 19to college girl is fun of the", ["😏"]],
+		[1547409, 2, "mature app are the worst .", []],
+		[919810, 1, "yeah they are , so you do not have to deal with the whining of the immature ones", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"POWER CAT": 1,
+		"Jiyūnaro": 2,
+		"Moonlight": 3
+	}
+}, {
+	"id": 17994668,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 3,
+	"dialogues": [
+		[1535230, 0, "sucks to be me most times wish it could end", ["😥"]],
+		[584887, 2, "I know exactly how you feel ; hang in there , reach out to people !", []],
+		[1386676, 1, "sacks to be someone else too.stop crying (:", []]
+	],
+	"speakers": {
+		"lizzy": 0,
+		"Jacob Patrick Rourke": 1,
+		"User Banned": 2
+	}
+}, {
+	"id": 17994659,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Worried",
+	"turns_number": 3,
+	"dialogues": [
+		[1302044, 0, "I missed up big time she is found someone else in it is missed up it feels like I have missed up I have nothing in my life two look forward two she was horrible two men i was two her it was toxic I wish it was not I love you baby I m so sorry for missing you around", []],
+		[1469232, 2, "All the pain you feel now . will be nothing but a memory with time . as caleche as it is , it really does get better", []],
+		[1547422, 1, "it will be fine .", []]
+	],
+	"speakers": {
+		"Matthew Morris": 0,
+		"Newbie": 1,
+		"Amazing Grace🥰": 2
+	}
+}, {
+	"id": 17994645,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 5,
+	"dialogues": [
+		[1547449, 0, "Why is that we always go back to people who hurt us , just to get more hurt ?", []],
+		[1407631, 2, "I am going through this too so I understand feel free to message me", []],
+		[1407631, 2, "I ll try to message you", []],
+		[1547005, 1, "cut we think that we should i have this relationship an other chance cut we love that person so much", []]
+	],
+	"speakers": {
+		"dhruv": 0,
+		"Bri Love": 1,
+		"IMMORTAL": 2
+	}
+}, {
+	"id": 17994631,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 3,
+	"dialogues": [
+		[788067, 0, "He said he is good looking has thick is . Did not know marriage was an open option . Why the fuck I do so much for , I m over being the held of house and made to feel like dirt . guess 2021 is still the 1950 yet I got work clean take care of kiss . you can just work . up love . fuck you", []],
+		[619958, 2, "Stay strong run . People are like cancer sometimes you just need to cut them out . Be a good girl ok God loves you", []],
+		[1545657, 1, "I am sorry you are going through this , he is a very happy person ", ["❤"]]
+	],
+	"speakers": {
+		"Stella": 0,
+		"klngbullish": 1,
+		"R🦋": 2
+	}
+}, {
+	"id": 17994587,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Down",
+	"turns_number": 8,
+	"dialogues": [
+		[1547444, 0, "How you guys sure have a breakup .how you walk in your life with no memories .I am losing my mind .the relationship is over and was toxic but I feel so numb I tried everything .I can not feel a damn thing or care about anything .who sees me can feel the coldness i am having", ["💔", "🥺"]],
+		[656550, 7, "getting over a relationship is not about going without no memories , it is about accepting the break up has happened and allowing yourself the time to move on.for some , it is easy to get over it , but for others it is more diffuse you later and takes longer . start distracting yourself and write stuff down whenever you feel bad about the breakup", []],
+		[1537530, 6, "well you see . I gave them my love.gave them happiness.made them smile.gave myself to them.and I rubbed their tears.all I got in return was to get created by them .and being left alone in a whirlpool of my own tears where I keep drowning and In I m going to die.and the land under me just keeps sliding away", []],
+		[1535211, 5, "Distract herself as much as possible . If you have support have friends and family then be around them more", []],
+		[1546633, 4, "Breakup takes time to heal , but you do not living your life . Get yourself busy with life activities . But also , accept your breakup . Keep the good memories , leave the bad memories , use them as experiences to make better decisions in future .", []],
+		[1262660, 3, "I m here to help you", []],
+		[1547005, 2, "if I could have sure have a breakup I must have told you but", ["💔"]],
+		[1361331, 1, "It broken me , i am fighting each day with my inner self .", []]
+	],
+	"speakers": {
+		"Katrina": 0,
+		"GalaxySky": 1,
+		"John": 2,
+		"Iris": 3,
+		"John Wick ♋": 4,
+		"faf fuf": 5,
+		"IMMORTAL": 6,
+		"Hamza Malik": 7
+	}
+}, {
+	"id": 17994535,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Frustrated",
+	"turns_number": 3,
+	"dialogues": [
+		[556021, 0, "Who can love me back", []],
+		[536740, 2, "first Love is , loving yourself", []],
+		[1360279, 1, "I can but only platonically as I m married . I hope you find your peace !", ["😁"]]
+	],
+	"speakers": {
+		"Lady Nai Cha": 0,
+		"Kay": 1,
+		"ForgottenWisdom": 2
+	}
+}, {
+	"id": 17994511,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Calm",
+	"turns_number": 3,
+	"dialogues": [
+		[1519736, 0, "Yeah , I broke my own heart trying to be enough for someone . Those were the days .", []],
+		[556021, 2, "Same here now I am tired", []],
+		[1545756, 1, "Mistakes are really powerful lessons .", []]
+	],
+	"speakers": {
+		"Buttercup 💕✨": 0,
+		"Lady Nai Cha": 1,
+		"Black&White": 2
+	}
+}, {
+	"id": 17994470,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Exhausted",
+	"turns_number": 9,
+	"dialogues": [
+		[1437833, 0, "I need a friend right now much going on at once in my life and I need someone to talk to", []],
+		[752650, 8, "if you want to chat i am here .", []],
+		[253494, 7, "hey I m always open to be a friend when someone is in need  feel free to send me a message", ["☺"]],
+		[1417032, 6, "I m ready to listen to you if you are ok to share it", []],
+		[1547409, 5, "i am here", []],
+		[1539989, 4, "You can send me a private message if you want . I can talk right now .", []],
+		[1538863, 3, "hello how are you i am a 35 man from My home about yourself", []],
+		[991522, 2, "i need someone to listen", ["😭", "😔"]],
+		[1333781, 1, "If you want someone to listen to you , sure mug me daytime . :)", []]
+	],
+	"speakers": {
+		"Asking to be loved 💔": 0,
+		"keba": 1,
+		"bigman12182": 2,
+		"Fazeel Ejz": 3,
+		"Jiyūnaro": 4,
+		"L": 5,
+		"Ken Knight": 6,
+		"Vedant Dwivedi": 7,
+		"OrpheusPooh": 8
+	}
+}, {
+	"id": 17994425,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Confused",
+	"turns_number": 4,
+	"dialogues": [
+		[1546249, 0, "He told me he has blood cancer and he is busy in chemotherapy and I found out that it was a lie and he is just busy with another girl", ["🙂"]],
+		[997560, 3, "he is an ass . i am not saying you did bad trusting him but next time be more careful and i am sorry for this happening that due was a jerk . I know it must be tough for you but bad experience i have us lessons.just think of it as another lesson learned the hard way", []],
+		[679879, 2, "This is so disrespectful on many levels . Disrespectful to you and disrespectful to the face he faces having cancer yet there are actually people who do have cancer . My great uncle past away on Monday from blood cancer", []],
+		[1395277, 1, "he is bastard and you are damn fool that you fall for such ashore", []]
+	],
+	"speakers": {
+		"Yasmine": 0,
+		"User Banned": 1,
+		"Liberty💫": 2,
+		"ꫝꪖᦔꫀ𝘴": 3
+	}
+}, {
+	"id": 17994401,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[1546980, 0, "I am always worried I m a burden to others", []],
+		[1258841, 2, "not to people who love you and want to help you", []],
+		[1546948, 1, "sometimes i feel the same .but at the same time i know that we always have a friend up there in sky looking for us .", []]
+	],
+	"speakers": {
+		"rainbow": 0,
+		"Alicia": 1,
+		"Bidura Sarkar": 2
+	}
+}, {
+	"id": 17994378,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Depressed",
+	"turns_number": 4,
+	"dialogues": [
+		[1513261, 0, "I m an hour away from a surgery that I ll be having in my chest . I m scared and I got nobody next to me . And parts of me wish I could not wake up back from the surgery", []],
+		[1529222, 3, "All will be well , have faith !", ["💖"]],
+		[1378083, 2, "Just relax . Everything is going to be ok my best wishes are for you", ["❤"]],
+		[1547409, 1, "you are strong you reached this point already it means you r strong and you can go on", ["💙"]]
+	],
+	"speakers": {
+		"Hylos": 0,
+		"letsvibengrow": 1,
+		"Moonchild": 2,
+		"Jiyūnaro": 3
+	}
+}, {
+	"id": 17994374,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Confused",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "I just use this app to post random thoughts that pop up in my head . is that bad ?", []],
+		[1305616, 3, "Ah , it is fine", []],
+		[788863, 2, "yes you are basically a criminal", []],
+		[1547426, 1, "same even the some people question it but as long as we is not hurting  there is no reason for em to be sulking ", ["✋"]]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"🍬𝕂𝕚𝕞𝕞𝕚𝕔𝕠🍬": 1,
+		"sеlfhаrmаgеddоn": 2,
+		"luna": 3
+	}
+}, {
+	"id": 17994340,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[591899, 0, "You still here I hope you ll be ok", []],
+		[1350958, 2, "huge know this is painful for you . I hope you have the energy to overcome this pain am here if you want to talk", []],
+		[1489911, 1, "a sister good be strong", []]
+	],
+	"speakers": {
+		"insomniac": 0,
+		"ph€0nix ;": 1,
+		"Mo Begum Akshaya": 2
+	}
+}, {
+	"id": 17994307,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nervous",
+	"turns_number": 7,
+	"dialogues": [
+		[0, 0, "kind of want to have my pick rate just to see what girls think but at the same time I m not ready for bad feedback laugh out loud so I wo it", ["😅"]],
+		[1147162, 6, "just rate herself , do not depend on others ", ["🖐"]],
+		[1547426, 5, "just put it out there , people for sure will have opinions but that is them , they do not define you so do not worry .", []],
+		[1400127, 4, "Do not seek female variation . Its a mental health pp also , no one cares what we men look like", []],
+		[1547409, 3, "it depends if the girl chose you based on you are look that means the relationship will be random and completely for fun i usually try to talk with app and know them before seeing them so my feelings choose then seeing their faces wo not effect", []],
+		[1499020, 2, "Him but you know , our standards are not the same . Imagine if someone loves black people only , if you are white then you lost some points already . Beauty is so subject have .", []],
+		[919810, 1, "looks are superficial . we do not care about looks when choosing a partner .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"leokee": 1,
+		"luna": 2,
+		"Goliath": 3,
+		"Jiyūnaro": 4,
+		"Trash raccoon 🚮🦝": 5,
+		"Moonlight": 6
+	}
+}, {
+	"id": 17994293,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[1522034, 0, "my mind is full of suicidal thoughts his i can not do this anymore .", []],
+		[1547406, 2, "It gets better . I promise !", []],
+		[1547423, 1, "Hey . you can get past this . life is hard and damn right depressing at times . but trust me , you hang in there long enough , it does get better . speaking from experience as a person who actually tried to commit suicide about 10 years ago .", []]
+	],
+	"speakers": {
+		"Athena": 0,
+		"bella": 1,
+		"Jude": 2
+	}
+}, {
+	"id": 17994277,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Sad",
+	"turns_number": 7,
+	"dialogues": [
+		[1547432, 0, "my mon is corona position have , I m very much sad , i miss her a lot", []],
+		[568664, 1, "hey do you want to talk about it", []],
+		[1147973, 5, "You need to visit her safely", []],
+		[265543, 4, "* big huge for you * I will pray for her I can understand you even my anna , nasi , mamma and ami are position have too man it is been hell of a toll on us . please take care stay safe yourself and let me know about your mon is health my best wishes for you guys .", ["😊", "👐"]],
+		[1429349, 3, "I ll prayer and I hope she will be definitely get well soon", []],
+		[550594, 2, "admitted or isolated ? Prayers fr you are mon what is her oxygen level ?", ["🙏", "🏼"]],
+		[568664, 1, "hey how is she now ?", []]
+	],
+	"speakers": {
+		"Ana AJ": 0,
+		"animalpuppy83": 1,
+		"CoDeMikO_Forever😎": 2,
+		"love_me_like_I_do": 3,
+		"C": 4,
+		"Why Do We FALL?": 5
+	}
+}, {
+	"id": 17994272,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Happy",
+	"turns_number": 5,
+	"dialogues": [
+		[1092559, 0, "Love my six year old . He knew I needed sleep and I was exhausted from this week . So he quietly got his switch and played without waking me and let me sleep longer then normal . He normally wakes me and his sister if he was first up . Very thankful !", []],
+		[1528981, 4, "such small things are blessings", []],
+		[997560, 3, "he is a great kid", []],
+		[1539861, 2, "Kiss are more perception have than we i have them credit for . He sounds like a sweet kid .", []],
+		[855828, 1, "you have an awesome kid right there .", ["😊"]]
+	],
+	"speakers": {
+		"Lilith Shaw": 0,
+		"wannabe musician": 1,
+		"User Banned": 2,
+		"^.^": 3,
+		"AyaBrea": 4
+	}
+}]

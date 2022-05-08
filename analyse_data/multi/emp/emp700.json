@@ -1,0 +1,674 @@
+[{
+	"id": 17994248,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Insecure",
+	"turns_number": 5,
+	"dialogues": [
+		[1508074, 0, "I feel like I am lost , I am nobody.nothing can impress me to have .", []],
+		[763074, 4, "I m here if you want to talk", ["🖤"]],
+		[1323694, 3, "you just have to bell have have faith anyone welcomes if you want to vent am all ears you can do me daytime huge for you", []],
+		[1547478, 2, "that very wrong , I felt de same way too , the filling is away there when you have success coming stay position have sweet", []],
+		[1155414, 1, "I agree with you strongly and I say fuck it ! you do not always need a reason to go on in life :( phase out completely and lose the sense of self , it is liberating", ["🧡", "✨"]]
+	],
+	"speakers": {
+		"Nowshin Nishita": 0,
+		"Ray🔹️": 1,
+		"parth": 2,
+		"junior Robert": 3,
+		"A Shakesquare": 4
+	}
+}, {
+	"id": 17994155,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[1400127, 0, "A ex from me who studied psychology told me once that you can only really hate someone if you have loved them before . Do you agree ?", []],
+		[1547427, 2, "No if you have loved someone genuinely you can not hate that person though you will be neutral but you can not hate that person cut somewhere in your heart you have a soft corner for that person :)", []],
+		[1547423, 1, "no . I genuinely hate our president and I have never loved the guy", ["😂"]]
+	],
+	"speakers": {
+		"Goliath": 0,
+		"Newbie": 1,
+		"Jude": 2
+	}
+}, {
+	"id": 17994153,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Insecure",
+	"turns_number": 3,
+	"dialogues": [
+		[1289528, 0, "Once I told my therapist that our sessions do not correspond some because we are always in contradiction . She said it was my fault because I can not accept others opinions . Yesterday , I spoke to her and that I could understood her point . Then in the middle of the session , she said I bring everybody down with me , in depression", ["😔"]],
+		[1530801, 2, "Must be diffuse you later to hear those things", []],
+		[619435, 1, "so what ? ! of course they are going to be down with you and sad , because they CARE about you . they want you to feel better . would you blame someone for getting in a car accident and their family members being completely devastated ? No ! That therapist is a PUS if you ask me . Also from what I understand , they are not supposed to make any claims or force a statement on you - they only guide your train of thought , help you explain and vent emotions , and suggest things .", []]
+	],
+	"speakers": {
+		"Elisa 🇨🇭": 0,
+		"MyShadow": 1,
+		"Drew": 2
+	}
+}, {
+	"id": 17944425,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[1502061, 1, "it is too bad when those choice hurt someone", []],
+		[1359773, 3, "thanks friend for this I needed the most right now my parents will be always insulting me because I got less Mark is in 2020 final exam . they will be telling me that why god saved such a waste piece of creatures like me and I should have die instead according to them", ["😔"]],
+		[1542195, 2, "What a understanding word and really appreciate your word .", []]
+	],
+	"speakers": {
+		"Monica Kailing-Sitts": 0,
+		"JJ. JOKER": 1,
+		"Newbie": 2
+	}
+}, {
+	"id": 17944384,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "its really upset and depressing to not have a responsible & support have father , a father who always complains and so on . My father does not know how to lead a family , how to to of his wife and children.i sometimes really wish i did not have such a parent least i would have had mental peace . God forge have me for saying this :(", []],
+		[786158, 2, "I actually commend you for being brave to say these . I have an irresponsible father and I was never able to talk to him back and make him realize how irresponsible and useless he is as a father to me and my shillings and as a husband to my mon .", []],
+		[1529482, 1, "Just a note . He could be struggling inside and need some words of encouragement to push him to do better . As a dad myself I try very hard to be act have and support have but we do not get an instruction manual in the beginning and sometimes we do not know if we do not know . Wish you well and peace", ["✌", "🏼"]]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"vermilion": 1,
+		"Jason": 2
+	}
+}, {
+	"id": 17944376,
+	"category": {
+		"id": 48,
+		"name": "Work"
+	},
+	"emotion": "Nostalgic",
+	"turns_number": 7,
+	"dialogues": [
+		[1544547, 0, "Why my mood can not be depress have?looking for job have been li have rejection one after other .", []],
+		[1170913, 6, "I hope you find a job soon !", []],
+		[1333781, 5, "By the way if you wish to talk sometime , feel free to mug :)", []],
+		[1544333, 4, "Which Country are you in ?", []],
+		[328815, 3, "you will find a job really soon believe me", []],
+		[938163, 2, "Your mood can be depress have . learn to bounce back from it . you will soon get job", ["💪"]],
+		[344634, 1, "you are situation in may be bad.but trust me . times do change.just do not i have you on herself.always have good faith in life.and you r not alone . i am here for you friend fact we all are here for u.", []]
+	],
+	"speakers": {
+		"Mariangel M": 0,
+		"Harley quin gone bad.🏳️‍🌈": 1,
+		"OrpheusPooh": 2,
+		"PRiNCE FaiSaL": 3,
+		"scorpion 🦂♏❤️": 4,
+		"Happytohelp": 5,
+		"hASH": 6
+	}
+}, {
+	"id": 17944360,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Sad",
+	"turns_number": 9,
+	"dialogues": [
+		[924776, 0, "Why is it so hard to make friends ? Either they leave or they stop talking to me . What am I doing wrong ?", []],
+		[1544333, 8, "Leave them before they leave you", []],
+		[1544541, 7, "People nowadays :( very short interest over something . * huge *", []],
+		[1510844, 6, "laughing my arms off I am so bored I try to hold a convoy as long as I see", []],
+		[1537662, 5, "if they are not care then why you just love yourself", []],
+		[1483282, 4, "Oh dear , you can always talk to me , I usually answer sap", ["🙂"]],
+		[1543721, 3, "nothing is wrong with you . if they left , they are not real friends . you do not need them .", []],
+		[1440466, 2, "do not think about what wrong are you going , rather think about when they come to you and when they like to be with you?it is totally when they need something from you.so , they are not real friends .", []],
+		[1206661, 1, "I have the same problem", []]
+	],
+	"speakers": {
+		"shay": 0,
+		"PRiNCE FaiSaL": 1,
+		"Enny": 2,
+		"leo👾": 3,
+		"positiveDarkness": 4,
+		"AzA": 5,
+		"𝕭𝖆𝖒𝖇𝖎 🇨🇵": 6,
+		"I don't exist": 7,
+		"Big teddy bear": 8
+	}
+}, {
+	"id": 17944343,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Numb",
+	"turns_number": 3,
+	"dialogues": [
+		[1169716, 0, "Hate being alone . I get scared and paranoid and I like having someone there . it is not helpful anymore when the people make you feel lonely .", []],
+		[265543, 2, "if you need a friend to talk , share and support feel free to reach out to me", ["😊", "👐"]],
+		[1049791, 1, "due . I totally get you . I feel the same.need someone to talk.to take care.have their lap to sleep on.shoulders to cry.least be with me in my good and bad times", ["🙃"]]
+	],
+	"speakers": {
+		"🌔DiamondRock☪️": 0,
+		"love_me_like_I_do": 1,
+		"silence!🤫": 2
+	}
+}, {
+	"id": 17944329,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Afraid",
+	"turns_number": 7,
+	"dialogues": [
+		[1544538, 0, "I do not know if I want to have a boyfriend anymore I m afraid of boys . I do not have that feelings anymore my heart is numb , I hate to feel like this .", []],
+		[949798, 6, "it is a get thing , I do not chase after anyone , just focus on yourself", []],
+		[1533826, 5, "getting into a relationship after being hurt so much is never easy , do not be ashamed of how you are feeling right now friend .", []],
+		[1541656, 4, "You are probably a teenager . You are inexperienced , nail have , and still growing . Ask any woman who loves a man now if she ever felt like you do when they were tens . They will all say yes .", []],
+		[1542195, 3, "Yes men are not meant for us cause they are so wicked and they do not really care about what we woman are going through .", []],
+		[1310448, 2, "There are good people too", []],
+		[1544531, 1, "that is cut you are attracting the wrong guys", []]
+	],
+	"speakers": {
+		"Tasya Hamid": 0,
+		"Levi": 1,
+		"That Broken Toy": 2,
+		"ErikDenning": 3,
+		"Newbie": 4,
+		"Tej": 5,
+		"CP": 6
+	}
+}, {
+	"id": 17944312,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "straight men remember its ok to be feminine .", []],
+		[622527, 2, "You be you . Dress how you feel that you should dress , be how you feel that you should be , do what you feel that you should do . That is the right way for you ", []],
+		[700523, 1, "me there is a lot of stroma on displaying activities that are seen as typically feminine by society such as expressing your emotions and crying while historically this was something manly and in certain periods even depicted as something to embrace but now it is just considered  gay  or you are told to man up whatever that is supposed to mean . It is also interesting how it is asserted that a guy is feminine when he is sexual", ["🤔"]]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"durka": 1,
+		"Calidum Capulus ☕🇮🇹": 2
+	}
+}, {
+	"id": 17944311,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Lonely",
+	"turns_number": 4,
+	"dialogues": [
+		[1544541, 0, "Why is it so hard to find someone who speaks the same frequency like us ?", []],
+		[1136232, 3, "You need to be popular for that", []],
+		[1540763, 2, "cause we are wired differently , unique . but most likely you ll find someone who is the same wavelength as you", []],
+		[1483084, 1, "I need someone to talk to everyday", []]
+	],
+	"speakers": {
+		"Enny": 0,
+		"Arun ĢŃ": 1,
+		"Eljaded": 2,
+		"Gideon": 3
+	}
+}, {
+	"id": 17944299,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Anxious",
+	"turns_number": 5,
+	"dialogues": [
+		[1404270, 0, "I m falling in love and I m terrified .", []],
+		[1371154, 4, "Do not let fear get the best of you", []],
+		[1426977, 3, "I can feel you. I also feel the same .", []],
+		[1543601, 2, "get the best of you ! ", ["💪", "❤"]],
+		[644884, 1, "It is a beautiful feeling", []]
+	],
+	"speakers": {
+		"justine": 0,
+		"purple patootie": 1,
+		"Harjinder Kaur": 2,
+		"Swoordie": 3,
+		"Danny": 4
+	}
+}, {
+	"id": 17944284,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Sad",
+	"turns_number": 4,
+	"dialogues": [
+		[1542634, 0, "My best friend is ignoring me . She spend so much time with her new friends , when I have a message from her it is just a video with her smoking and having fun . i am happy for her , but she is supposed to be my best friend , and I feel like i am the only one who think that we are :(", []],
+		[1531264, 3, "never mind have fun you too and send her the same then she realise that your life does not stop without her !", []],
+		[1543842, 2, "I have been throw this do me if you want to talk about it", []],
+		[656550, 1, "I m so sorry she is doing this but you R MY BEST TEXT ME DAYTIME", []]
+	],
+	"speakers": {
+		"Red Sun": 0,
+		"Misha 🌸❄": 1,
+		"hustler": 2,
+		"GalaxySky": 3
+	}
+}, {
+	"id": 17944212,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Determined",
+	"turns_number": 3,
+	"dialogues": [
+		[1233267, 0, "I am trying to get a hold of my psychiatric this morning the clinic lines are really busy today and I m having a hard time right now just really having a hard time right now .", []],
+		[1287320, 2, "I hope you can get a hold of them . sorry you are struggling a lot right now", []],
+		[118247, 1, "I am so sorry you are having a hard time . Not being able to contact your psychiatric sounds really frustration , disheartening even . (  . _  .)", []]
+	],
+	"speakers": {
+		"𝓕𝓘𝓡𝓔𝓦𝓐𝓣𝓔𝓡🔥🧊": 0,
+		"Devin (they/them)": 1,
+		"Christine": 2
+	}
+}, {
+	"id": 17944199,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[836488, 0, "Hey there , You are beautiful . And Nobody has the right to make you feel you are not . Remember that .", ["❤"]],
+		[1541295, 2, "a , thank up You too . x", ["☺"]],
+		[844466, 1, "That is right . !", []]
+	],
+	"speakers": {
+		"Shruti ❤": 0,
+		"Luna": 1,
+		"Harsh": 2
+	}
+}, {
+	"id": 17944148,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Lonely",
+	"turns_number": 4,
+	"dialogues": [
+		[1544587, 0, "i am lonely also , i feel sad , i need someone to talk and share it", []],
+		[1241409, 3, "yes.the feeling will come once in a while.and it will be over.but it will come back.just come to this pp .and talk to stranger.and you feel ok back", []],
+		[1519999, 2, "I think most people go through this phase in their life . And this experience reaches everyone how to be comfortable with your solitude , how to soothe yourself when you have no one . You ll be alright !", []],
+		[1538351, 1, "yeah I m alone . but it is not so bad I promise just think about things you needs to get done", []]
+	],
+	"speakers": {
+		"Wie Liana": 0,
+		"Me": 1,
+		"Violet": 2,
+		"Newbie": 3
+	}
+}, {
+	"id": 17944137,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[1487925, 0, "Was talking to one of my close friend , heard her saying that her dad , mon and her brother passed away due to could . and my another friend called me crying saying her uncle is on ventilator . these type of cases are all over the internet . it is hard to even sleep when these things are happening around you . life is so predictable .", []],
+		[1371154, 2, "I m so sorry about this", []],
+		[1359773, 1, "I am really sorry look the situation is quite depressing everyone welcomehere in this situation we need to stand out for each other", []]
+	],
+	"speakers": {
+		"Iktara": 0,
+		"purple patootie": 1,
+		"JJ. JOKER": 2
+	}
+}, {
+	"id": 17944093,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Tired",
+	"turns_number": 9,
+	"dialogues": [
+		[1506368, 0, "Hey guys , My dad got admitted to hospital on Sunday been busy doing whatever I could for him had worst experience of my life these days and even today but I have to come and vent today co Am tired of everything pray for my dad all he is not a could patient but critical at his stage Renting on my next post", ["🤮"]],
+		[1321021, 8, "praying for uncle to get well soon", ["🥺", "🤗"]],
+		[1537143, 7, "Get well soon uncle . lot of prayers for him", []],
+		[366501, 6, "all our prayers are with him i wish and hope he gets well soon", []],
+		[1357683, 5, "hope , he will sure get well soon", []],
+		[647782, 4, "Your dad will recover and will be back soon . All will be fine and back to normal . Just block all the nativity from others as much as you can and let it not bother you . Take care and God bless", []],
+		[1179778, 3, "hey be strong god is there he will do something good for sure so have faith on god", ["😌"]],
+		[568664, 2, "hey how is uncle now is he well now ?", []],
+		[1070985, 1, "is he fine now ?", []]
+	],
+	"speakers": {
+		"pewdiepie": 0,
+		"❤️🦁 Lion KING 🦁❤️": 1,
+		"Hiffi": 2,
+		"Alone Wolf": 3,
+		"The_Useless_World": 4,
+		"ῳɛƖƖῳıʂɧɛཞ": 5,
+		"careless human": 6,
+		"animalpuppy83": 7,
+		"Indian Hawk": 8
+	}
+}, {
+	"id": 17944089,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Sad",
+	"turns_number": 4,
+	"dialogues": [
+		[1061511, 0, "Miss you Mamma . I know I you can not come to hug me but I can can I . your sank needs you", []],
+		[1372294, 3, "this just breaks my heart is she ok what happened to her ?", []],
+		[1245598, 2, "she is seeing you. you want to vent on ?", []],
+		[1409212, 1, "sorry about that want to talk ?", ["😔"]]
+	],
+	"speakers": {
+		"Simmi": 0,
+		"Elsa🦋": 1,
+		"(SBP)": 2,
+		"cute lil panda": 3
+	}
+}, {
+	"id": 17944005,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Numb",
+	"turns_number": 3,
+	"dialogues": [
+		[563664, 0, "I understand why the relationship faded the way that it did . but it does not mean that it does not hurt any less", []],
+		[1526334, 2, "Endings do hurt and it is ok to accept that just remember endings are also beginnings so keep the memories and keep on going !", []],
+		[1399469, 1, "what Is not your will always find a way to leave !", []]
+	],
+	"speakers": {
+		"Crown of Thorns": 0,
+		"Daydreamer": 1,
+		"ELVIS": 2
+	}
+}, {
+	"id": 17943950,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 4,
+	"dialogues": [
+		[1541782, 0, "I have got some very bad news here . Hm , this morning I had an appointment with my doctor . It is a cancer . .", ["😞", "😑"]],
+		[649750, 3, "So sorry to hear that", ["😭"]],
+		[1440209, 2, "I m sorry to hear that . All I know is that doctors are smart , amazing , helpless individuals who ll always be there for you in every step of the treatment . No wonder why they have the most prestigious and respected jobs in the world .", []],
+		[1542233, 1, "Do not worry I m with you you will be find promise do will treat u", []]
+	],
+	"speakers": {
+		"Alec": 0,
+		"kiffakadams": 1,
+		"User Banned": 2,
+		"cotton candy": 3
+	}
+}, {
+	"id": 17943930,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Disgust",
+	"turns_number": 3,
+	"dialogues": [
+		[1173226, 0, "Sometimes we are toxic to ourselves . Have you ever thought about the way you treat yourself , or even the intentions you may have for your own life?We surround ourselves with people that are not so good for us so that we can have a excuse of why we are miserable , sometimes miserable people are around us because it is not a choice but it is our choice to let them affect us .", []],
+		[655426, 2, "True . I do not need other people to feel this way though", []],
+		[1543188, 1, "Yep it is all about what you are willing to accept .", []]
+	],
+	"speakers": {
+		"Jackfruitchips": 0,
+		"Question Everything": 1,
+		"DastardlyDan": 2
+	}
+}, {
+	"id": 17943927,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Confused",
+	"turns_number": 5,
+	"dialogues": [
+		[976571, 0, "Do I really worthy to be here ?", []],
+		[1371154, 4, "Yes you are a worthy human being , who deserves to be here", []],
+		[1530097, 3, "I know i am not . And there are people who would not what to say when someone really broke down here", []],
+		[1189641, 2, "You are here either way . Make it worthy before you are gone", []],
+		[1055837, 1, "Yes you are ! do not let other people tell you otherwise", ["✨"]]
+	],
+	"speakers": {
+		"F . H . O": 0,
+		"purple patootie": 1,
+		"Lost soul": 2,
+		"N3": 3,
+		"Merakii": 4
+	}
+}, {
+	"id": 17943924,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Numb",
+	"turns_number": 4,
+	"dialogues": [
+		[1500066, 0, "I just want to get touched like by a car . Really Hard . Just hit me with a car .", []],
+		[1170913, 3, "Oh my god . Do not say that .", []],
+		[1544333, 2, "Cross the road covering your eyes with a Veil when its Green for the Vehicles . , Your Wish will be Granted .", []],
+		[1357683, 1, "no never , do not think like that", []]
+	],
+	"speakers": {
+		"lia": 0,
+		"Harley quin gone bad.🏳️‍🌈": 1,
+		"PRiNCE FaiSaL": 2,
+		"The_Useless_World": 3
+	}
+}, {
+	"id": 17943921,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Sad",
+	"turns_number": 4,
+	"dialogues": [
+		[1544526, 0, "i fell that no one care about me", []],
+		[1393926, 3, "but you have yourself and that is the biggest thing you can realise . even though how basic it sounds .", []],
+		[1541450, 2, "why you not careself.its better foryouryour", []],
+		[1544531, 1, "then become more selfish in a position have way.love herself more .start by treating your self .it starts there", []]
+	],
+	"speakers": {
+		"Joelie": 0,
+		"✨Osuhan✨": 1,
+		"SΔMΔR 웃+유=❤": 2,
+		"CP": 3
+	}
+}, {
+	"id": 17943785,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Meh",
+	"turns_number": 3,
+	"dialogues": [
+		[601024, 0, "I have come to the conclusion that I m actually cap at everything and no use for anything at all . My Grand was right it turns out .", []],
+		[1220872, 2, "Www.why do you feel that way . ?", []],
+		[855828, 1, "i am sure there is . you just need to appreciate yourself a bit more . ^_^ every little thing counts . you good at cooking ? count that . you good at cleaning ? that one too . appreciate yourself and when feel good about yourself everything will flow into place ^_^", []]
+	],
+	"speakers": {
+		"KtmChristian": 0,
+		"Ethereal_existence": 1,
+		"AyaBrea": 2
+	}
+}, {
+	"id": 17943775,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 3,
+	"dialogues": [
+		[1517458, 0, "Now , I am begging to God to take this kind of pain again .", []],
+		[1530206, 2, "If you feel comfortable we can talk about it", []],
+		[1214342, 1, "do not beg due , just pray once with all your heart .", []]
+	],
+	"speakers": {
+		"Danae": 0,
+		"Daud": 1,
+		"Sarthak": 2
+	}
+}, {
+	"id": 17943717,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Afraid",
+	"turns_number": 3,
+	"dialogues": [
+		[1517458, 0, "It is hard to keep things by myself . To carry heavy loads . And , to show them I m always fine . It is firing to be me . I feel so alone .", []],
+		[1544230, 2, "You are not alone , you are here and I m here , if you need to talk", []],
+		[1544405, 1, "I feel same . I feel tired and alone . I am afraid to talk anymore cause no o e understands", ["😔"]]
+	],
+	"speakers": {
+		"Danae": 0,
+		"Phuc Hoang": 1,
+		"Argie Scarlet": 2
+	}
+}, {
+	"id": 17943682,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Frustrated",
+	"turns_number": 3,
+	"dialogues": [
+		[1265311, 0, "Does anyone else have COS and really struggle with pain in their varies and back ? do not know how much more I can take", ["😔"]],
+		[476136, 2, "that sounds awful , i m so sorry i hope it all gets better for you soon !", ["💛", "🥺"]],
+		[1421513, 1, "its , many girls suffer this , its kind of common nowadays , be strong as you r , you ll feel good soon", []]
+	],
+	"speakers": {
+		"Anonymous female 23": 0,
+		"✌FIND ME✌": 1,
+		"R": 2
+	}
+}, {
+	"id": 17943679,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Exhausted",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "God please tell me if I ll never win , so I stop trying and failing and falling apart too many times", []],
+		[1045331, 2, "You were born and you are still alive have , you have already won ! ", ["💯", "❤", "🥰"]],
+		[1503448, 1, "i already gave up praying and life pal nothing fucking change even you do something that is too risky", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"🏴‍☠️✨🖤JaY🖤✨🏴‍☠️": 1,
+		"𝐇𝐞𝐥𝐥 𝐩𝐥𝐚𝐧𝐞𝐭": 2
+	}
+}, {
+	"id": 17943674,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Supportive",
+	"turns_number": 10,
+	"dialogues": [
+		[861066, 0, "The most beautiful people we have known are those who have known defeat , known suffering , known struggle , known loss , and have found their way out of the depths . These persons have an appreciation , a sensitivity , and an understanding of life that fills them with compassion , gentleness , and a deep loving concern . Beautiful people do not just happen , they are forged in the fires of life . Sending all my blessings .", []],
+		[347145, 8, "Justice my mate , I really thank you for this , also very well stated", ["☺", "💙"]],
+		[1400480, 7, "Finest steel , from other forges . Cheers .", ["☕"]],
+		[1338353, 6, "agreed but if they choose to be beautiful . Most of us struggle in the dark , bad holes . May God bring together all of us good souls .", ["🤗", "💙"]],
+		[1378646, 5, "very well said my dear friend they have been through hell and still going no matter what", []],
+		[1384566, 1, "I am going to keep this post with me .", []],
+		[1077095, 4, "with every pain , there is always a lesson to gain", []],
+		[697464, 3, "hey due sorry to bother but may I do you , I think you may help someone", []],
+		[1443099, 2, "your posts are always amazing and always manage to article you literate some really profound stuff really concisely and simply.thank you for posting pp , you are definitely one of those beautiful people that you just described , and one of the kindest souls I have ever encountered ", []],
+		[1477404, 1, "so lucky to have people like you on this app , the again", []]
+	],
+	"speakers": {
+		"®PoeticJustice™": 0,
+		"Donald A Bunce": 1,
+		"Proteus": 2,
+		"Hopesla": 3,
+		"💀🗡TwistedPsycho 🗡💀": 4,
+		".": 5,
+		"LovePoison🌟": 6,
+		"ResilientMind🔎": 7,
+		"Anton 🦝": 8
+	}
+}, {
+	"id": 17943626,
+	"category": {
+		"id": 68,
+		"name": "I Need Help"
+	},
+	"emotion": "Frustrated",
+	"turns_number": 3,
+	"dialogues": [
+		[344634, 0, "do not i have you.things will turn you are way.or business will be good.u will have good friends in life and you will be married to a person who truly loves u", []],
+		[1293079, 2, "a comparison hurts my ex is doing great with her life and I am struggling too a it feels really bad th but you might have realised by now that you are your own savior and nobody is going to do that for you so you have got to stick to that , you have started your own business you are making moves you are doing right things just try to think more about your work right now", []],
+		[1146558, 1, "You can talk to me", []]
+	],
+	"speakers": {
+		"hASH": 0,
+		"yo": 1,
+		"Newbie": 2
+	}
+}, {
+	"id": 17943613,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[1544501, 0, "I want to get top surgery , but I m scared of the care of it , can anyone help me out with that fear", []],
+		[541914, 2, "by care do you mean the danger of the surgery ?", []],
+		[1504015, 1, "i am kind of in the same situation . unfortunately i ca not help but i hope everything works out foryouryour", []]
+	],
+	"speakers": {
+		"Addison White": 0,
+		"Layla X Akechi ship": 1,
+		"acideyes": 2
+	}
+}]

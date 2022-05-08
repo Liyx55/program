@@ -1,0 +1,125 @@
+{"id": 16997349, "category": {"id": 7, "name": "Relationships"}, "emotion": "Sad", "turns_number": 2, 
+"dialogues": [[1112607, 0, "I wish I can muddle someone", []], 
+[1211428, 1, "just knock on someone is door . that is what i did . did not work but maybe it will for you", []], 
+"speakers": {"Nam ma kya rakha hai": 0, "AIR-IM POLLUTED": 1}}, 
+
+{"id": 16997272, "category": {"id": 50, "name": "Music"}, "emotion": "Nothing", "turns_number": 2, 
+"dialogues": [[0, 0, "what type of music do you guns listen to ?", []], 
+[882541, 1, "Rock / metal / ran / hip - hop", []], 
+"speakers": {"Anonymous": 0, "Righteous Force": 1}}, 
+
+{
+	"id": 17153006,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loving",
+	"turns_number": 2,
+	"dialogues": [
+		[1283064, 0, "A person who love you the most will fight with you without any reason", ["❤"]],
+		[444515, 1, "Ah I do not believe that he loves you most he should not have any reason to fight with you which will i have him more time to love you more more more more more and most ", ["♥", "😘", "😍", "😋", "😛", "😻", "🌹"]]
+	],
+	"speakers": {
+		"LIONESS__GIRL": 0,
+		"❤️ OhhButAlsoAwwYetMostlyHmm": 1
+	}
+}, {
+	"id": 17152748,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Caring",
+	"turns_number": 2,
+	"dialogues": [
+		[1077095, 0, "why follow when you can lead?do not be a shadow . walk your own path .", []],
+		[1497896, 1, "not everybody is cut to be a leader", []]
+	],
+	"speakers": {
+		"LovePoison🌟": 0,
+		"⚡Phoenix⚡": 1,
+	}
+},  {
+	"id": 17152420,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": null,
+	"turns_number": 2,
+	"dialogues": [
+		[0, 0, "How did you are friendship end ?", []],
+		[1354181, 1, "simple told her to never meet me again after knowing she verbally abused my family for not liking her", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"BABY YODA": 1,
+	}
+}, {
+	"id": 17219288,
+	"category": {
+		"id": 53,
+		"name": "Education"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 2,
+	"dialogues": [
+		[1402877, 0, "It is easy to get a percentage for a number , but how do you get a number from a percentage using a cases you liberator ? For example , say 54 % of the 1300 participants said they preferred blue . How do I cases you literate how many people 54 % is ?", []],
+		[1498431, 1, "first understand this any number in itself is 100 % you multiple the percentage from the i haven value(which is 100%)so 130 ( which is 100 % ) but you want 54 % of130.so your answer will be 13054/100=7020", []]
+	],
+	"speakers": {
+		"Ayanna": 0,
+		"A.E.I.O.U": 1
+	}
+}, {
+	"id": 17407479,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Inspired",
+	"turns_number": 2,
+	"dialogues": [
+		[1360581, 0, "What year was everyone born?Ill go first 1998", []],
+		[976284, 1, "nice . i see for comments and no teenager babies may", []]
+	],
+	"speakers": {
+		"Kam": 0,
+		"just pretend I'm not here": 1
+	}
+}, {
+	"id": 17994563,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Disgust",
+	"turns_number": 2,
+	"dialogues": [
+		[1522851, 0, "I know you will be reading this & you should know that you have brought this all on yourself . people deserve to know the type of person you are so they can avoid you too . you do not belong here", []],
+		[1360279, 1, "I m sorry ! Yes they should ! I hope you recover quickly and feel better fast . Whomever this is for needs to come clean I think . I hope you find your peace !", []]
+	],
+	"speakers": {
+		"Laura 💕": 0,
+		"Iris": 1
+	}
+}, {
+	"id": 17943932,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Frustrated",
+	"turns_number": 2,
+	"dialogues": [
+		[0, 0, "Its like 35c in here i want to strip down cause of the heat but i have to wear a long sleeves shirt and long parts cause of my marks T - T", []],
+		[1503260, 1, "try to cover it with powder and foundation . if it is already healed wounds . you can wear bracelets or some jewel on hands . good luck !", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"chillin_16": 1
+	}
+}, 
+
+]

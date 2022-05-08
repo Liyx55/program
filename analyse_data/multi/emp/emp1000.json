@@ -1,0 +1,699 @@
+[{
+	"id": 17405631,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loved",
+	"turns_number": 4,
+	"dialogues": [
+		[1399621, 0, "I went out on my first date with the guy I had crush on for over a year and it feels so good", ["🥰"]],
+		[1441051, 3, "Hope it works out for you", []],
+		[812307, 2, "Hope it ll work out", ["😊"]],
+		[431203, 1, "That is great . Lucky You :)", []]
+	],
+	"speakers": {
+		"Maria": 0,
+		"Danielle ♡": 1,
+		"Shiru": 2,
+		"pewtato": 3
+	}
+}, {
+	"id": 17405621,
+	"category": {
+		"id": 68,
+		"name": "I Need Help"
+	},
+	"emotion": "Afraid",
+	"turns_number": 3,
+	"dialogues": [
+		[843370, 0, "i have been crying for like 5 days straight", []],
+		[1283882, 2, "Are you ok ? message me I am here to help", []],
+		[1488709, 1, "oh my god what is wrong girl ? I m here to listen", []]
+	],
+	"speakers": {
+		"sharasova": 0,
+		"Starlight Affirmations": 1,
+		"lydiaa47": 2
+	}
+}, {
+	"id": 17405604,
+	"category": {
+		"id": 72,
+		"name": "Anxiety"
+	},
+	"emotion": "Anxious",
+	"turns_number": 4,
+	"dialogues": [
+		[486223, 0, "I have really bad anxiety . I m always overthinking and having symptoms . Today I have had CLOT of heart palpitating . Clot . I have had many many tests on my heart and everything was fine . Am I going to be ok ? Is this normal ? Like multiple times a day", []],
+		[1418163, 2, "I have bad anxiety myself . Overthinking keeps me up at night . But I try to take deep breath & distract myself & listen to calming music .", []],
+		[1418163, 2, "You are going to be ok . You are strong . If you need anything feel free to message me .", []],
+		[1513289, 1, "You are going to be ok ! It does not work for everyone but I sit in the corner in the dark and take deep breath in and out for 8 seconds each . Then I pop my headphones in and listen to a meditation or a song I know will help calm me down . Also I have a few puzzle games on my phone that help as well as my Rurik is cure I take with me everyone welcomehere . If you need to vent or let anything out , feel free !", []]
+	],
+	"speakers": {
+		"alissa 💛": 0,
+		"_tscatlover1989": 1,
+		"Gillian": 2
+	}
+}, {
+	"id": 17405370,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[1479622, 0, "why can not I find love :(", []],
+		[1513363, 1, "maybe you are too good for it .", []],
+		[1513363, 1, "Do not worry you find her soon !", []]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"Madmay": 1
+	}
+}, {
+	"id": 17405352,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Meh",
+	"turns_number": 6,
+	"dialogues": [
+		[0, 0, "Would you leave your best friend if he / she came out as gay ?", []],
+		[1401897, 5, "no because completely harmless for me", []],
+		[1283980, 4, "no my best friend is a demigirl anyone welcomes", ["😂"]],
+		[700548, 3, "no . we could be gay together", ["🤣"]],
+		[799642, 2, "I do not care what sexuality my friends have", []],
+		[749362, 1, "I am the gay best friend-", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"deep": 1,
+		"Toxic Mess ✨": 2,
+		"🅼🅰🅷🅸🆁🆉࿐꧂☠☠☠": 3,
+		"Return_Dusk": 4,
+		"sarah_": 5
+	}
+}, {
+	"id": 17405246,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Calm",
+	"turns_number": 4,
+	"dialogues": [
+		[815710, 0, "Some of us isolate to charge . Not everyone will understand that .", []],
+		[952165, 3, "Be sure many of them wo it", []],
+		[1495362, 2, "yes ! just do what works for you . this is your life and you are the one dealing with your thoughts and feelings , not them . besides , they have chosen to think what they think and there is no way we can change that", []],
+		[1457332, 1, "its so true wish more people understood that", []]
+	],
+	"speakers": {
+		"Sss ☪️": 0,
+		"Melkor": 1,
+		"Tuk": 2,
+		"Grief Is The Price We Pay For Love": 3
+	}
+}, {
+	"id": 17405203,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Sad",
+	"turns_number": 4,
+	"dialogues": [
+		[1510379, 0, "Sometimes I feel like i am the disappointment of my family because of mistakes I made in the past", ["💔", "🥺"]],
+		[1498685, 3, "I feel you co i go through the same shit but it is not that way unless they actually speak it out , have they ?", []],
+		[1514088, 2, "just remind yourself a thing . Everyone in the world will love you for their own reason , but its only your family which love you without any condition . even if you dump them they will condyle himself that its their fault . So yeah do not think like that", []],
+		[1511098, 1, "Show me one person walkingthis planet that has not made mistakes ? Disappointment is yoursalone to hold or discard .", ["☝"]]
+	],
+	"speakers": {
+		"Ciara": 0,
+		"NOSTRADAMUS💫": 1,
+		"Shafin Ahmed": 2,
+		"Death of JiPolar🇯🇲Bamaican": 3
+	}
+}, {
+	"id": 17405198,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Overwhelmed",
+	"turns_number": 4,
+	"dialogues": [
+		[488314, 0, "tears are running over my face . and it kind of hurts . it feels like when I cut myself . I feel terrible . I need to cut myself .", []],
+		[636058, 3, "No you do not need to do that to your self", []],
+		[1498685, 2, "All feel good in the spur of the moment but will regret it later , prevention , is better than cure !", []],
+		[1431616, 1, "i know it feels so overwhelming but it is on na be ok , everything is going to be ok , the cutting only offers a temporary escape , do not listen to that urge . you are body loves you and wants to keep your soul safe as you journey thou this world , love you are body , it is meant to be you are home in this darkness", []]
+	],
+	"speakers": {
+		"Emma Lauren": 0,
+		"momentofsilence": 1,
+		"NOSTRADAMUS💫": 2,
+		"Tayliana": 3
+	}
+}, {
+	"id": 17405172,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1514107, 0, "I quite my job to go to college full time . You had think i would enjoy no work . But , all I think about is how useless I feel , a burden , why I even thought I could do school . i am  relying on my boyfriend for support financially and emotional . He says follow what you want to do , we are stable . I just ca not help feeling like i am lazy . I ca not get out of bed and doing anything is firing .", []],
+		[244315, 2, "I m in a similar situation , but sometimes it helps to remember that you are doing it for future you AND him . By going to school you are working hard for a mutual future that you will both share . Be kind to yourself stranger", ["❤"]],
+		[1512230, 1, "a strong support have system is all you need . I want to go back to school but my boyfriend , baby daddy would not help . or at least I think he wo not help , base on 13 years of being with him . i feel like the only way for me to get better is to leave him . i hate my life right now .", []]
+	],
+	"speakers": {
+		"Shay": 0,
+		"sadpeach": 1,
+		"Milan Luu": 2
+	}
+}, {
+	"id": 17405158,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Proud",
+	"turns_number": 5,
+	"dialogues": [
+		[1514102, 0, "Hi , I m new in this and I need help , I think I m sexual but I m not sure , I m only 16 and my parents do not accept any topic related to LGTBQ+ , they are so strict and forbid me to spend time with girls . I do not have many friends and I need suggestions pus , what should I do ?", []],
+		[355208, 4, "welcome to talk life , you are still young and have time to figure out , there is no need to be sure yet . About your parents , they have got to understand Is not really their choice , it is just yours , they can understand it talking with them or maybe not , and maybe you ll have to think about leaving them to actually be happy", []],
+		[386219, 3, "Welcome to talklife mate . i would suggest speaking to a trusted adult , teacher and/or your school is counsellor about this issue , because your partner preference is your business , not your parents . Look around for some extra currisee you lateral activities if they are available in your school is district and/or do work experience / find a job to i have you some opportunities for localisation .", ["💜"]],
+		[1468160, 2, "what I m not sexual I m gay if you ever need to talk I m here", []],
+		[1514124, 1, "I m i and came out to years ago . You have plenty of time to figure it out . The most important thing is that you acknowledge it . I hope you get the space to explore this possibility one day .", []]
+	],
+	"speakers": {
+		"Km~": 0,
+		"Mxrtx☁️": 1,
+		"EmmiKC": 2,
+		"Trina": 3,
+		"DarcysGal": 4
+	}
+}, {
+	"id": 17405057,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Worried",
+	"turns_number": 6,
+	"dialogues": [
+		[1373085, 0, "honestly ! thank you for your service know you are only human and you are bound to miss sometimes but i haven how much cap you already remove from the app . we should be seeing that and applauding you instead of what you missed ! keep shining", ["❤", "✨"]],
+		[262559, 5, "Just know that the masses appreciate what the team does . Regardless of the exceptions , you are all doing an incredible job . Do not let destruction have criticism outweigh that !", []],
+		[861066, 4, "Huge my dear Emma . I totally agree with what you have posted here . We do the best we can , with what we have , to be here for others . Not because we have to , but because it is our passion to help others .", []],
+		[1251730, 3, "So by that logicthe hawk actually is a based censorship monster and not just a happy not with an awful filter", []],
+		[431259, 2, "Exactly ! You are all doing an amazing job , no matter what people say or think ", []],
+		[1233267, 1, "thank you for all you do lady !", ["💙", "💚", "💛", "🧡", "❤"]]
+	],
+	"speakers": {
+		"Hedwig🌺": 0,
+		"𝐶𝑒𝑙𝑒𝑠𝑡𝑖𝑎𝑙": 1,
+		"®PoeticJustice™": 2,
+		"Muggins": 3,
+		"✨ Emma ✨": 4,
+		"𝓕𝓘𝓡𝓔𝓦𝓐𝓣𝓔𝓡🔥🧊": 5
+	}
+}, {
+	"id": 17405003,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Inadequate",
+	"turns_number": 3,
+	"dialogues": [
+		[1509873, 0, "Is everyone is mental health like this ? Does everyone sure have this everyday ? Am I just weak or is it actually bad ?", []],
+		[1429088, 2, "Not everyone mental health is questionable but , there are lots like you and I out there !", []],
+		[1513289, 1, "For me it is an going daily battle . Some days are easier than others but it is a struggle almost always . I used to believe I was weak but i am still here and i am still choosing life so i would like to think that makes me stronger than anybody else who does not have to li have with crippling anxiety and depression .", []]
+	],
+	"speakers": {
+		"1056a-101016🖤✨": 0,
+		"Lynn": 1,
+		"Gillian": 2
+	}
+}, {
+	"id": 17404990,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1514104, 0, "Does anyone else ever get sad and depressed but after awhile or after a nap you are fine ? Like you do not recall much and the reason you cry ? That happens clot to me :) and I want to fix it because I m stuck in this face reality thinking that my forgetfulness is a blessing and a curse . Any tips or word of advice ? Please .", []],
+		[1509282, 2, "Absolutely , Like I m also literally stuck in it . Like for a while you feel the best and the very next moment the worst .", []],
+		[1514097, 1, "Can I ask a question ? In the past how have you been with expressing your emotions ?", []]
+	],
+	"speakers": {
+		"Over thinking child..": 0,
+		"A Khan": 1,
+		"sailortothemoon": 2
+	}
+}, {
+	"id": 17404914,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Chilled",
+	"turns_number": 4,
+	"dialogues": [
+		[1437927, 0, "wish i was not constantly worrying about people is opinions about me . its exhausting and always eating at my self esteem", []],
+		[660344, 3, "Same here even though I know it is not worth it . It just really sucks .", []],
+		[1270301, 2, "here my opinion on you -ERA IS coolnow keep thinking about it", []],
+		[1357943, 1, "but like , you are cool of the", []]
+	],
+	"speakers": {
+		"🏴Ezra": 0,
+		"Dipankar": 1,
+		"Here Lies Odi": 2,
+		"Ibuprofen bitch": 3
+	}
+}, {
+	"id": 17404895,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1490555, 0, "those of you who have been loved tell me what it feels like i have never experienced such in my entire life", []],
+		[1512330, 2, "one of the most genuine and beautiful feeling in the world", []],
+		[1514088, 1, "I do not understand a thing how if i choose a girl to love will also love me back ? like there are tons of guns you know . but why it will be me and our relationship will go on", ["🤔"]]
+	],
+	"speakers": {
+		"happytohelp": 0,
+		"amy": 1,
+		"Shafin Ahmed": 2
+	}
+}, {
+	"id": 17404776,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Positive",
+	"turns_number": 3,
+	"dialogues": [
+		[448300, 0, "feeling really good about my make and outfit today", []],
+		[1514097, 2, "Putting your hair in a ponytail would really suit you , you have a nice face shape and it will embrace all your face characteristics .", []],
+		[852514, 1, "you look so cool !", []]
+	],
+	"speakers": {
+		"briboo16": 0,
+		"sailortothemoon": 1,
+		"Nico": 2
+	}
+}, {
+	"id": 17404761,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Nostalgic",
+	"turns_number": 4,
+	"dialogues": [
+		[1514097, 0, "I have always loved singing and dancing and music but whenever I talked to my parents about it they laughed and told me I had no talent when they had not even seen me try . One day I told one of my cousins that I would love to be an actress , she told my grand that and later my grand told me that I had no talent ( my grand had never seen me reform ) . I honestly have completely i haven up on this idea , I m just waiting until i would", []],
+		[1333781, 3, "* Huge * sorry to hear that . Do not i have up on your dreams , no matter what . I used to get pulled for my express have singing when I was young , even by my own relate have , I never gave up and fast forward now , I have sung on multiple events and stages :)", []],
+		[1449798, 2, "you can be anything you want ! if they do not listen prove it to them !", []],
+		[1483084, 1, "come do not i have up you can do this", ["😂"]]
+	],
+	"speakers": {
+		"sailortothemoon": 0,
+		"OrpheusPooh": 1,
+		"Kirti Natala": 2,
+		"Gideon": 3
+	}
+}, {
+	"id": 17404753,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Depressed",
+	"turns_number": 5,
+	"dialogues": [
+		[1463718, 0, "why do men think they can control us ? why do they silence us with threats", []],
+		[1365340, 4, "They do not know their moss are women too They must think they came out of a man ashore", ["😀"]],
+		[1197540, 3, "those are not having a heart to care like a lady , sister , mon and so many other women do in our li have", []],
+		[1513363, 2, "not every does that.and not every time", []],
+		[463498, 1, "no everyone does that.you should say what you want no one can stop you.do what you want . never change yourself for anyone . enjoy your life.no one can control women is if someone control women then women is should be strong .", []]
+	],
+	"speakers": {
+		"sigh i guess": 0,
+		"KARO???": 1,
+		"Karan": 2,
+		"Madmay": 3,
+		"꧁༺💕 KaRaN💕༻꧂": 4
+	}
+}, {
+	"id": 17404723,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 5,
+	"dialogues": [
+		[1514096, 0, "Whoever I love goes away from me . and now I m afraid to even love someone :)", []],
+		[1333781, 4, "* warm huge * it is process , hang in there . Do not lose hope , hope is what dry have life . Let it be , things will fall in place eventually", []],
+		[1144537, 3, "I have been through it . Trust me you ll come out stronger than before ", ["❤", "✨"]],
+		[1288103, 2, "never i have up friend !", []],
+		[1483084, 1, "I need someone to talk to everyday", []]
+	],
+	"speakers": {
+		"MissM": 0,
+		"OrpheusPooh": 1,
+		"❤️ OhhButAlsoAwwYetMostlyHmm": 2,
+		"SPARTAN-117": 3,
+		"Gideon": 4
+	}
+}, {
+	"id": 17404693,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Positive",
+	"turns_number": 3,
+	"dialogues": [
+		[1514067, 0, "I want to go to switzerland . I wish i could go there .", []],
+		[463498, 2, "you will soon.may all you are dreams come true .god bless you", ["😊"]],
+		[1365340, 1, "FOR it is one of my dreams", []]
+	],
+	"speakers": {
+		"IEL": 0,
+		"꧁༺💕 KaRaN💕༻꧂": 1,
+		"KARO???": 2
+	}
+}, {
+	"id": 17404537,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Afraid",
+	"turns_number": 3,
+	"dialogues": [
+		[1076907, 0, "guess who is about to relapse", ["👍"]],
+		[769921, 2, "Hey do you want to talk about it ?", []],
+		[1386904, 1, "I love you Dizzy and I m always here for you no matter what", ["❤", "🖤"]]
+	],
+	"speakers": {
+		"izzy": 0,
+		"Ivan . . .": 1,
+		"Cletus Kasady Is Kira HaHaHaHa": 2
+	}
+}, {
+	"id": 17404522,
+	"category": {
+		"id": 72,
+		"name": "Anxiety"
+	},
+	"emotion": "Nervous",
+	"turns_number": 3,
+	"dialogues": [
+		[486223, 0, "I have really bad anxiety . I m always overthinking and having symptoms . Today I have had CLOT of heart palpitating . Clot . I have had many many tests on my heart and everything was fine . Am I going to be ok ? Is this normal ? Like multiple times a day", []],
+		[1279533, 2, "all good . get the beds if the do i have . you should be fine", []],
+		[1004024, 1, "i have the same problem .", []]
+	],
+	"speakers": {
+		"alissa 💛": 0,
+		"Evanescence": 1,
+		"SuperTeen": 2
+	}
+}, {
+	"id": 17404466,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[1031520, 0, "why do i have to care so much about people is feelings ! even if they are the ones who did me wrong , I ll have remorse about how i ( over ) reacted to them ! and it is really exhausting me .", []],
+		[463498, 2, "sorry for that happened with you", ["🙏", "🏻"]],
+		[807565, 1, "Too reliable . You will get used to it had", []]
+	],
+	"speakers": {
+		"Theonly": 0,
+		"꧁༺💕 KaRaN💕༻꧂": 1,
+		"Kitten philosopher": 2
+	}
+}, {
+	"id": 17404442,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Meh",
+	"turns_number": 4,
+	"dialogues": [
+		[916815, 0, "I m a burden . Everyone should stay away from me .", []],
+		[1382500, 3, "You do not want that and you know it . You do not want humans to stay away , you want someone to be able to stay . Do not be me , be yourself . Do not expect anyone to stay and the right ones will .", []],
+		[329203, 2, "i am a rebel - i still stay . also i can not see in which way you should be an burden .", ["😉"]],
+		[1506684, 1, "How are you a burden ?", []]
+	],
+	"speakers": {
+		"Slovak": 0,
+		".": 1,
+		"Hecktor 🇩🇪": 2,
+		"Ares": 3
+	}
+}, {
+	"id": 17404437,
+	"category": {
+		"id": 48,
+		"name": "Work"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[1348637, 0, "I feel disappointed as others does not recognize my achievements . Maybe I have failed on something , I just do not know it as nobody tells me what is wrong . I am hoping to find a position have side of this . But I guess it wo not be enough to i have me peace .", []],
+		[793001, 2, "I ll recognize your achievements . You are a smart , beautiful , amazing woman who deserves to be recognized", ["😚"]],
+		[1020393, 1, "I feel you , it is nice to be appreciated but some people are rude especially when it comes to work , some think that if they i have you appreciation you might get lazy or ask for a raise or something", []]
+	],
+	"speakers": {
+		"Chocovane": 0,
+		"User Suspended": 1,
+		"Cautiously Optimistic 🇵🇸🇵🇸🇵🇸": 2
+	}
+}, {
+	"id": 17404420,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Anxious",
+	"turns_number": 3,
+	"dialogues": [
+		[832479, 0, "as someone also seriously struggling w their its i m sending your all the good vices i can musteryou got this to", []],
+		[1493252, 2, "You are extremely strong and it must have been so so tough for you . I m here if you want to talk , his . I hope things get better for you soon", ["💜"]],
+		[1429482, 1, "* i have you a mental non - touching hug*I think you did the right thing by telling a supervisor and leaving . If you are not ok then you are not ok and you should do so . Is there anything I can do to help you feel a little better at least ?", []]
+	],
+	"speakers": {
+		"mountainman": 0,
+		"It's okay": 1,
+		"11wildy": 2
+	}
+}, {
+	"id": 17404412,
+	"category": {
+		"id": 68,
+		"name": "I Need Help"
+	},
+	"emotion": "Supported",
+	"turns_number": 3,
+	"dialogues": [
+		[1514066, 0, "I got brain damage and shit is really tough it is been a year and still is not got much better from when I left hospital just really need someone to talk to anyone want to talk ?", []],
+		[1457332, 2, "I m here you can always do me", []],
+		[1514499, 1, "Am here Brow , You can call me and we can talk . Am depressed too", []]
+	],
+	"speakers": {
+		"John": 0,
+		"Grief Is The Price We Pay For Love": 1,
+		"Midh": 2
+	}
+}, {
+	"id": 17404331,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Meh",
+	"turns_number": 4,
+	"dialogues": [
+		[1513933, 0, "It really sucks having absolutely no talent . I can not do art , I can not do sports , I do not play an instrument , I can not write poetry or stories . I do not bake , literally nothing and I feel so weird inside because I m constantly surrounded by such amazing and talented people .", []],
+		[1473911, 3, "talented people works hard for it .", []],
+		[666878, 2, "Everyone has a talent , you just have not found yours . I think the best way is to think about what you love doing , what makes you happy . There is so many more things you may be talented at ; photography , editing video , helping people , teaching , home improvement , etc", []],
+		[1187291, 1, "yeah i think hard work itself is a talent . you just need to find something you want to work hard for .", []]
+	],
+	"speakers": {
+		"Artemis": 0,
+		"elechka": 1,
+		"Emili22": 2,
+		"Newbie": 3
+	}
+}, {
+	"id": 17404308,
+	"category": {
+		"id": 68,
+		"name": "I Need Help"
+	},
+	"emotion": "Exhausted",
+	"turns_number": 4,
+	"dialogues": [
+		[1136528, 0, "Why changing ourselves is so tough ?", []],
+		[1514088, 3, "I find it impossible for me . So now I am being more what I m", []],
+		[728874, 2, "why change in the first place?unless you are not happy with yourself.whoever judges you is already below you", []],
+		[1564251, 1, "that is because change is constant , and every chapter reveals something different about you", []]
+	],
+	"speakers": {
+		"Nostalgic": 0,
+		"Shafin Ahmed": 1,
+		"🇺🇸RobbyRockRobster🎸": 2,
+		"famouscity": 3
+	}
+}, {
+	"id": 17404204,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[709001, 0, "I m not good enough", []],
+		[1485631, 2, "I m sorry but i have to strongly disagree on that", ["😤"]],
+		[1505463, 1, "why do you think like this everyone have a one unique quality", ["😃"]]
+	],
+	"speakers": {
+		"waymuss": 0,
+		"Fixyou🌹": 1,
+		"janvi": 2
+	}
+}, {
+	"id": 17404120,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Moody",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "your religion tells you what to do : colour religion tells me what to do : fuck off", []],
+		[1307438, 3, "i really appreciate that , can we talk through into", []],
+		[1370953, 2, "wish I could like this 10 times", ["👏"]],
+		[1375732, 1, "laughing my arms off because you people only answer to yourselves and think your selfish lifestyle are empowering when they poison the environment around .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Still Alive": 1,
+		"✿Mia": 2,
+		"Newbie": 3
+	}
+}, {
+	"id": 17404026,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Worried",
+	"turns_number": 4,
+	"dialogues": [
+		[1506527, 0, "i have already seen some profile here and almost half of the females say something about prevents in it , even without real pictures . is it that bad the harassment in here ? it is shocking", []],
+		[1469222, 3, "it is bad for a mental health pp . many people ( not pointing fingers ) use this a replacement for tinder . I m here to help and get help not have so meaningless set fantasy .", []],
+		[1513508, 2, "Yeah agree with the people below me . it is only my second day on here and it is kind of weird in my des .", []],
+		[1504844, 1, "I personally never had such experience even with non creep pictures", ["🤷"]]
+	],
+	"speakers": {
+		"Eric Silva": 0,
+		"Luna Love": 1,
+		"Coco Wren": 2,
+		"UglyInside 😏": 3
+	}
+}, {
+	"id": 17404021,
+	"category": {
+		"id": 72,
+		"name": "Anxiety"
+	},
+	"emotion": "Nervous",
+	"turns_number": 3,
+	"dialogues": [
+		[486223, 0, "I have been diagnosed with panic disorder , anxiety , social anxiety . Is it normal for my chest to always feel tight and heavy ? like a feeling that I have to hold it or it is going to explode . then i feel dizzy . i had many eggs blood work chest x - rays , a echocardiogram last month , another EGG last week and a stress test soon . everything is normal . would not something have popped up ? like if I was going to have heart attack or cardiac arrest soon ?", []],
+		[684673, 2, "I feel like you describing symptoms of what you were . diagnosed with : panic disorder , anxieties . Many describe the . same . feeling", []],
+		[1495716, 1, "Hey babe , message me . I know these feelings too .", []]
+	],
+	"speakers": {
+		"alissa 💛": 0,
+		"Kama2": 1,
+		"Newbie": 2
+	}
+}, {
+	"id": 17403860,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1513761, 0, "feel like nobody likes me or wants me in this app", []],
+		[1271289, 2, "i feel the same way", []],
+		[1280761, 1, "Because this app is for sad people . They do not want you here cos they want you to be happy", []]
+	],
+	"speakers": {
+		"Rachel Marie leak from the UK 🇬🇧": 0,
+		"Raccoon": 1,
+		"User Banned": 2
+	}
+}, {
+	"id": 17403857,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Loving",
+	"turns_number": 13,
+	"dialogues": [
+		[1080978, 1, "oh my god i am so sorry for you are loss run that is awful bless you are heart x", []],
+		[1446118, 17, "I m so sorry to hear that May his soul rest in peace ", ["🥺", "☮"]],
+		[605604, 16, "I m so sorry for your loss . words can not express it . may he rest in peace", []],
+		[1087927, 15, "sorry for your loss ! are are", ["🥺", "💔"]],
+		[859993, 14, "I m so sorry :(", []],
+		[666878, 12, "Oh my god i am so sorry . I ca not imagine how you feel . he is at peace now .", []],
+		[313431, 10, "I am so sorry for your loss .", []],
+		[1338353, 9, "I am so so sorry dear . My condolence . He is in peace now .", []],
+		[1201958, 8, "I am sorry for your loss .", []],
+		[971401, 7, "I m sorry for your loss", []],
+		[593745, 6, "because of could 19 ? did not know it really affected animals now .", ["😲"]],
+		[792915, 4, "www no I am so sorry for your loss ! are are", ["🥺"]],
+		[1422835, 2, "I m so sorry for your loss . It is not easy to lose someone close to you :( I hope you are ok .", ["❤"]]
+	],
+	"speakers": {
+		"♑angel eyes♑": 0,
+		"Hulk": 1,
+		"Leen K.": 2,
+		"teacupps": 3,
+		"Zak": 4,
+		"Emili22": 5,
+		"Cristina": 6,
+		"Hopesla": 7,
+		"Mary-jo": 8,
+		"Migi": 9,
+		"Granny👵🏿": 10,
+		"𝑺𝒖𝒈𝒂𝒓𝒃𝒂𝒃𝒆𝒔": 11,
+		"R": 12
+	}
+}, 
+
+]

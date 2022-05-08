@@ -1,0 +1,245 @@
+[{
+	"id": 17402035,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Proud",
+	"turns_number": 4,
+	"dialogues": [
+		[1513967, 0, "sorry mon , i love girls more than men . I just can not resist or hide it .", []],
+		[1169076, 3, "There is no need to apologize . Be proud . The fact that you admitted it proves that you are strong and determined .", []],
+		[253280, 2, "Congress ! But girls = women boys = men Girls > men sounds weird . You know what I mean ?", []],
+		[1411258, 1, "there is no need to apologize for who you are ", ["✊", "🏻", "🏳", "🌈"]]
+	],
+	"speakers": {
+		"ғʟᴀᴍᴍɪɴ' ʜᴏᴛ ᴄʜᴇᴇᴛᴏs": 0,
+		"DarkLight": 1,
+		"Thursday’s angel": 2,
+		"ᵒᵏ ⁱ'ᵐ ᵈᵒⁿᵉ": 3
+	}
+}, {
+	"id": 17402012,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Loved",
+	"turns_number": 4,
+	"dialogues": [
+		[1243841, 0, "My parents have spoiled me with their love that i do not think anyone else can love me that much .", ["😒", "😏", "😌", "🤭", "😂"]],
+		[703995, 3, "many people are going to be jealous for sure now", ["😳"]],
+		[1465956, 2, "honestly same i do not see anyone loving me as unconditionally as my sum and dad", []],
+		[783994, 1, "damn I rarely hear young people saying this , not many people appreciate their parents th so they did a great job with you laugh out loud . just like mine here", []]
+	],
+	"speakers": {
+		"Meuza 🍁": 0,
+		"Replicant": 1,
+		"⠀": 2,
+		"Ziii": 3
+	}
+}, {
+	"id": 17401916,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[1513839, 0, "I really need new friends to talk to", ["🖤"]],
+		[1512863, 3, "am here if you want", []],
+		[1509987, 2, "I am a very lonely guy", []]
+	],
+	"speakers": {
+		"Martha Stone": 0,
+		"Mi Do": 1,
+		"Gustav": 2
+	}
+}, {
+	"id": 17401885,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Nervous",
+	"turns_number": 3,
+	"dialogues": [
+		[1398740, 0, "So today I went to the school therapist ( is that the name of it ) as some of the teachers thinks i am depressed and one ( who has helped me a lot ) says that I have anxiety , and well my parents and some of the teachers wanted me to go to the school therapist was so nervous that I neareally backed out and did not go , but I did go and I have a time again next week I do not know really what to think about this", []],
+		[1476128, 2, "I am so proud of you ! You should be proud of yourself too !", []],
+		[1491639, 1, "Due its good to have a therapist .", []]
+	],
+	"speakers": {
+		"Amzy": 0,
+		"NotSoGirlyGirl": 1,
+		"Happily Alive": 2
+	}
+}, {
+	"id": 17401855,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Numb",
+	"turns_number": 3,
+	"dialogues": [
+		[1433538, 0, "So once again of course I was called a wh*re , crazy psychopath and worse by my step father for actually standing up for my mother and almost got punched , howe have yes today when he has plans and my mother an appointment somewhere else it is alright for me a crazy psychopath to look after his daughter ( my half sister 7 ) how trusting of him do not you think ?", []],
+		[1455709, 2, "hey . are you ok . ?", []],
+		[634503, 1, "Should not talk to you like that , that is awful .", []]
+	],
+	"speakers": {
+		"Petina": 0,
+		"Ron": 1,
+		"Sunshine ☀️": 2
+	}
+}, {
+	"id": 17401768,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Tired",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "my mon makes fun of my depression and says it is not that deep . ok mon", []],
+		[1020098, 3, "Oh she can get tucked if she makes fun of your depression depression is not a Fucking joke", []],
+		[1325486, 2, "yeah I feel you.just ignore her", []],
+		[1506265, 1, "l understand you text me if you want ; :(", ["💔"]]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Harley": 1,
+		"V💙💛": 2,
+		"Nil Emgen": 3
+	}
+}, {
+	"id": 17401766,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Exhausted",
+	"turns_number": 4,
+	"dialogues": [
+		[1357943, 0, "dreaming sucks . why can not I just have dreamest sleep", []],
+		[1448962, 3, "I love dreamsbut I barely get some", []],
+		[1513927, 2, "Because sweet dreams are made of this", ["🤟", "🏻"]],
+		[1460921, 1, "I love dreaming but some of them be hurting my feelings", ["✋", "💀"]]
+	],
+	"speakers": {
+		"Here Lies Odi": 0,
+		"Millennial": 1,
+		"Raskolnikov": 2,
+		"GrimmyReap🖤🔪": 3
+	}
+}, {
+	"id": 17401755,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Nervous",
+	"turns_number": 3,
+	"dialogues": [
+		[1440339, 0, "They are sending me to a mental hospital . i wonder if that ll help . The thought of being there for long makes me anxious . What if i go crazy .", []],
+		[1513055, 2, "Everything is going to be ok ! ", ["❤"]],
+		[253280, 1, "Brush it is a mental hospital do not worry if you go  crazy  it is really not like the movie is their there to help you", []]
+	],
+	"speakers": {
+		"Someone": 0,
+		"Stillalive": 1,
+		"Thursday’s angel": 2
+	}
+}, {
+	"id": 17401715,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1155606, 0, "I have my high and lows but recently people have really boasted my self esteem laugh out loud . Of course self love is the best but it is hard", []],
+		[1489222, 2, "if I m confident , then I think I m good . Otherwise if I think too much", []],
+		[1402308, 1, "Ok i have like my insureties and stuff and I would like to change stuff but ugly ok i am would say i am happy for what i am i have I guess I do not know", []]
+	],
+	"speakers": {
+		"𝐃𝐚𝐡𝐥𝐢𝐚 𝐍𝐨𝐢𝐫": 0,
+		"ǝlᴉɯs (~.⌒.)~": 1,
+		"Suf": 2
+	}
+}, {
+	"id": 17401672,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Anxious",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "Does anyone have any tips for coming with panic that is the that is the", []],
+		[1216989, 2, "calm down first then take a deep breath that is what I usually do whenever I have panic attacks", []],
+		[1513056, 1, "Sadly respiration exercises is the only option that rivalries medical intervention.well in fact.not that much .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"needle": 1,
+		"CasRo": 2
+	}
+}, {
+	"id": 17401619,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loving",
+	"turns_number": 12,
+	"dialogues": [
+		[1369826, 0, "if you are a guy , please read below :  and if you are a girl , please listen : i am tired of men getting based on this pp by their girlfriend , there really are some good guns out there . Guns , please take this advice : And girls , please comment something encouraging and sweet . I ll go first I really appreciate it when y all protect us . I may be obnoxious and ambitious , but it is good to have someone there to stand up for us . ", ["❤"]],
+		[1510759, 11, "it is in vain . Not enough people will see this and those who do wo not care much . It is just how humans are", []],
+		[927565, 10, "That is really sweetthank you", ["✨"]],
+		[859295, 9, "I am just tired of people getting based period . It seems like no matter what we do or say , we are based for it .", []],
+		[684673, 8, "I do appreciate that men do all these things that biology made a bit easier for them : all these builders , road- maintenance , ships , keeping order and safety , and hundreds of other occupations . I do appreciate their contribution to the art , to science , to sociology , to geographical and space discoveries , and that many of them continue to pursue these and that they are SO good at these ! Thank you", ["🙏"]],
+		[1345392, 7, "it does not really matter who is doing the washing if it is a boyfriend or a girlfriend it just shows that they are too immature to have a relationship", []],
+		[1427737, 6, "Thank you . Seems the women get all or most of the comments . Stupid , I mean , it is not like you get to touch through a screen . This was supposed to be a support forum . Not a FWO .", []],
+		[840105, 5, "why is it wrong be ambitious . I get obnoxious but why ambitious .", []],
+		[1337254, 4, "I needed this thank you so much", []],
+		[1469222, 3, "I love my husband . he will protect me against myself . he loves me with all my flaws . I know I complain about him . but would not change him .", []],
+		[1446265, 2, "I love you already . Marry me please .", []],
+		[1498380, 1, "guns i have the best huge so warm and protect have", []]
+	],
+	"speakers": {
+		"shrimp": 0,
+		"Orchid": 1,
+		"Rick Astley": 2,
+		"derekcooler ": 3,
+		"Kama2": 4,
+		"A G": 5,
+		"Mr Wolfe": 6,
+		"ириc": 7,
+		"𝑭𝒂𝒌𝒆💔𝒍𝒐𝒗𝒆 🇵🇸": 8,
+		"Luna Love": 9,
+		"Palestine_ is_ bleeding": 10,
+		"brattyblueeyes": 11
+	}
+}, {
+	"id": 17401614,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Nostalgic",
+	"turns_number": 3,
+	"dialogues": [
+		[1513962, 0, "I miss my old self . My happy self .", []],
+		[1487808, 2, "yeah we all have those moments", []],
+		[1512547, 1, "I do not know where it all went wrong . I feel like we were all happier before . I wish we could go back or bring those feelings in our present but I feel like people are just different . So sensitive have , angry .", []]
+	],
+	"speakers": {
+		"Elly": 0,
+		"Claire◇": 1,
+		"Alvapriya": 2
+	}
+}, 
+
+]

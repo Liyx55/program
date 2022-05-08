@@ -1,0 +1,729 @@
+[{
+	"id": 17403745,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Relaxed",
+	"turns_number": 3,
+	"dialogues": [
+		[313431, 0, "I am curious - do you believe in psychic medium ? Or are you one yourself ?", []],
+		[1152507, 2, "i can you tell you what is not going to happen.co the first things i think about never happens in reality.maybe we can call it reverse psychic", []],
+		[1504844, 1, "I believe yeah I guess you believe too", []]
+	],
+	"speakers": {
+		"Cristina": 0,
+		"The Mess-Siah": 1,
+		"UglyInside 😏": 2
+	}
+}, {
+	"id": 17403734,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Meh",
+	"turns_number": 4,
+	"dialogues": [
+		[1064175, 0, "I m learning the kalimba", ["😃"]],
+		[1275774, 3, "how is it going ?", []],
+		[1504844, 2, "How is it going?I love this instrument !", []],
+		[667526, 1, "Ooh , those things make cut sounds . You should make a video once you perfect it", ["🥺"]]
+	],
+	"speakers": {
+		"SHUA": 0,
+		"Psyche": 1,
+		"UglyInside 😏": 2,
+		"BabyToortle": 3
+	}
+}, {
+	"id": 17403719,
+	"category": {
+		"id": 48,
+		"name": "Work"
+	},
+	"emotion": "Excited",
+	"turns_number": 3,
+	"dialogues": [
+		[1495950, 0, "I found a job paying 1100 a week . can not beat it . I like it", []],
+		[1016004, 2, "what job is that ?", []],
+		[1151495, 1, "If it is the carters do not do it ! It is not worth it !", ["🥺"]]
+	],
+	"speakers": {
+		"Ricardo Samudio": 0,
+		"Man of Steel (Straight only)": 1,
+		"stephIsHappy💛💙💜": 2
+	}
+}, {
+	"id": 17403709,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loved",
+	"turns_number": 4,
+	"dialogues": [
+		[1504844, 0, "Who is the person you love the most on this earth ?", []],
+		[1016004, 3, "the ones i care for .", []],
+		[971401, 2, "I do not know , the usual", []],
+		[1494086, 1, "Two : My mon because she helped me so much . My loved future wife because I swear it is an angel fall from sky just for me . I do not deserve it", []]
+	],
+	"speakers": {
+		"UglyInside 😏": 0,
+		"Man of Steel (Straight only)": 1,
+		"Migi": 2,
+		"Thomas": 3
+	}
+}, {
+	"id": 17403651,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "Why is it that toxic people get more attention then the none toxic ! ? I feel like crying .", []],
+		[1219486, 2, "people love to watch and look at a car crash", []],
+		[650513, 1, "Very few people are mature to understand what is or who is good for them .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Cakylynn 💀": 1,
+		"Zain (Paid counselor)": 2
+	}
+}, {
+	"id": 17403639,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Meh",
+	"turns_number": 3,
+	"dialogues": [
+		[303765, 0, "when you get banner permanently for the second time on Instagram", ["🤣"]],
+		[1254403, 2, "must be good posts laugh out loud", []],
+		[1505756, 1, "* new account new me *", []]
+	],
+	"speakers": {
+		"𝒬𝓊ℯℯ𝓃 𝒯𝓇𝓎𝓈𝓉𝒶𝓃𝓈 𝒯𝒶𝒸ℴ 🥃": 0,
+		"brighteyesvividreams": 1,
+		"LightWing": 2
+	}
+}, {
+	"id": 17403577,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Calm",
+	"turns_number": 3,
+	"dialogues": [
+		[1386111, 0, "me showing my love means writing random love poets about you or sending you love letters like it is still victoria era", []],
+		[344634, 2, "now , that is something really rare.s.- want to talk ?", []],
+		[1345048, 1, "I sent one to my girlfriend this morning , she loves it .", []]
+	],
+	"speakers": {
+		"Raven's Cry": 0,
+		"hASH": 1,
+		"billie": 2
+	}
+}, {
+	"id": 17403537,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[743676, 0, "couture channel recommendations please .", []],
+		[788444, 2, "I like reaction video artoflickz his got a way of making you smile on even the dulness day", []],
+		[1484869, 1, "red letter media they have a show called best of the worst", []]
+	],
+	"speakers": {
+		"Ved": 0,
+		"daisy may": 1,
+		"Hollow": 2
+	}
+}, {
+	"id": 17403482,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[1279827, 0, "Do you ever miss someone that stopped talking to you a while ago while you still love that person ?", []],
+		[1485377, 2, "yeah still thinking about her .but she never contracted me . nor answered my messages . she knew that I like her so much", []],
+		[941722, 1, "Yes , man . Every single second . It hurts so bad .", []]
+	],
+	"speakers": {
+		"Dennis💛": 0,
+		"Newbie": 1,
+		"Un Nimeni Altu’": 2
+	}
+}, {
+	"id": 17403434,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Bored",
+	"turns_number": 4,
+	"dialogues": [
+		[1402308, 0, "Do you ever just screen shot creep messages because I do", []],
+		[768556, 3, "me too and then show them to my best and laugh at the due together", []],
+		[1513719, 2, "use them as blackmailed , they ll soft pretty quickly after that :)", []],
+		[1513508, 1, "Hell yeah . it is got ta go in the group chat", ["😂"]]
+	],
+	"speakers": {
+		"Suf": 0,
+		"❣rusted_heart❣": 1,
+		"Get fucked": 2,
+		"Coco Wren": 3
+	}
+}, {
+	"id": 17403420,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Caring",
+	"turns_number": 8,
+	"dialogues": [
+		[1279827, 0, "Is your name on here your real name ?", []],
+		[636106, 7, "is shorter from.my real name so i guess i am close  ", ["🤷", "♂"]],
+		[1503966, 6, "yes but in real life i have a face name", []],
+		[1467322, 5, "My face name is i haven by a friend . He said it suits me  ", ["☺"]],
+		[1257544, 4, "laughing my arms off what do you think", []],
+		[809733, 3, "My surname is not , but I do have my real name partially displayed here .", []],
+		[1512663, 2, "Poor me if this was my real name D", []],
+		[1501103, 1, "no man , what about you", []]
+	],
+	"speakers": {
+		"Dennis💛": 0,
+		"Val": 1,
+		"User Banned": 2,
+		"🧁🧁CupcakeHugs🧁🧁": 3,
+		"Chomusuke🥀": 4,
+		"EthereaLunaMoth": 5,
+		"𝑾𝒉𝒆𝒆𝒛𝒍𝒆": 6,
+		"Abhi": 7
+	}
+}, {
+	"id": 17403357,
+	"category": {
+		"id": 52,
+		"name": "Parenting"
+	},
+	"emotion": "Confused",
+	"turns_number": 4,
+	"dialogues": [
+		[637515, 0, "How do you say a woman to man up ?", []],
+		[684673, 3, "be strong ? use strength and relisience nature gave you", []],
+		[1059126, 2, "do not tell anyone to man up . men are men women are women . tell them instead what you want to tell them with more than two words . you might be surprised that heartfelt advice is better receive have than caleche outdated phrases", []],
+		[1214337, 1, "Grow a pair . That is bad . But it depends on the situation , why does she need to man up , where is she lacking ?", []]
+	],
+	"speakers": {
+		"SlySolus": 0,
+		"Kama2": 1,
+		"('-' )": 2,
+		"__nobody__": 3
+	}
+}, {
+	"id": 17403355,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Confused",
+	"turns_number": 5,
+	"dialogues": [
+		[0, 0, "why would he block me now after months of no contact like what is the point", ["🤔"]],
+		[680791, 4, "He knows you still care .", []],
+		[1513530, 3, "its an attempt to resolve something within himself", []],
+		[941722, 2, "Because his ego was too big to text you and he waited for you to text him . It did not happen , so he got mad , frustrated and blocked you . Does it make any sense ?", []],
+		[1513508, 1, "Maybe you kept popping up in his newsfeed / or even just in his mind . Regardless of the no contact . And this is his attempt on really healing and getting over you . it is more of a self preservation thing . You did not do anything . he is working through it himself .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"ᴇ ʟ ʟ ᴇ": 1,
+		"Stefãn": 2,
+		"Un Nimeni Altu’": 3,
+		"Coco Wren": 4
+	}
+}, {
+	"id": 17403247,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Worried",
+	"turns_number": 3,
+	"dialogues": [
+		[1233998, 0, "what should I apply daily after shower on my hairs ?", []],
+		[1488105, 2, "Old have , coronet or almond oil", []],
+		[1427701, 1, "oil your hair two times a week you ll not need anything to apply daily", ["😮"]]
+	],
+	"speakers": {
+		"User Banned": 0,
+		"Ash": 1,
+		"sakura🌸": 2
+	}
+}, {
+	"id": 17403245,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Stressed",
+	"turns_number": 3,
+	"dialogues": [
+		[1512663, 0, "My life is so breaking boring sometimes . It is like everything good and bad happens at once , then boom , void .", []],
+		[637515, 2, "you need to man up your", []],
+		[1485377, 1, "good and bad same time it twist not boring", []]
+	],
+	"speakers": {
+		"𝑾𝒉𝒆𝒆𝒛𝒍𝒆": 0,
+		"SlySolus": 1,
+		"Newbie": 2
+	}
+}, {
+	"id": 17105830,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Inspired",
+	"turns_number": 3,
+	"dialogues": [
+		[1363026, 0, "sometimes I feel like I belong to the woods , everytime I go there I feel free , I feel like there is no reason for me to be stressed out about anything . the sight of trees and the slightest sunlight calms my mind down , I wish I can get lost here and never to be found .", []],
+		[1361968, 2, "try for a few days then", []],
+		[880196, 1, "Speech this hit home . Whenever I m listening to music I always imagine being in nature , where you can just be truly at peace disconcerting from the rest off the world .", []]
+	],
+	"speakers": {
+		"Reina": 0,
+		"Yours Anonymous": 1,
+		"Revere": 2
+	}
+}, {
+	"id": 17105828,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Lonely",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "Why are dating apes so stupid . Its just a waste of time . But meeting people in real life is just so hard", ["😔"]],
+		[680791, 3, "That is why we have talklife", []],
+		[622527, 2, "Dating apes are designed to keep people paying . That wo not happen if the actually get together now will it ?", []],
+		[1455207, 1, "Go to a gig and have a dance , it works for me sometimes .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"ᴇ ʟ ʟ ᴇ": 1,
+		"durka the Dreamer": 2,
+		"sonicsoul 😇😈👽": 3
+	}
+}, {
+	"id": 17105827,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[921077, 0, "I need to clean my room but I do not have the motivation .", []],
+		[1441273, 2, "Clean it like your crush is about to visit", []],
+		[1493481, 1, "Remember that you will be proud of yourself after cleaning it", []]
+	],
+	"speakers": {
+		"Melanie": 0,
+		"Hoss": 1,
+		"🖤": 2
+	}
+}, {
+	"id": 17105815,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Inspired",
+	"turns_number": 12,
+	"dialogues": [
+		[1496543, 0, "What / if any meditation are people on ? I want to know other people is experiences with them . Might be helpful for others who are looking to take the meditation route . i am on 45 my of Mirtazipine", []],
+		[1441273, 11, "Ugh . Some acetaminophen some times", []],
+		[579723, 10, "I used to be on fluoxetine - was effect have for a year and then it stopped", []],
+		[858961, 9, "bupropion was the only thing that worked for me , but then it stopped after some months and nothing has helped since", []],
+		[1329961, 8, "for such beds i m on ability ( 15 my ) , wellbutrin ( 100 my ) and trazodone ( 50 my ) for sleep . ability works pretty good but it makes me gain weight . wellbutrin works well i think . trazodone works sometimes .", []],
+		[550371, 7, "450 my Sequel100 my Aloft8 my Canal300 my Trazodone If anyone has any specific questions I ll elaborate .", []],
+		[480238, 6, "I will not go into my many experiences with beds as it might actually deter people but I wanted to i have a tip . If you are finding that nothing is working ask your doctor about Genesight . It is a test that can help your doctor find out what might work best for you without needing years of trial and error .", []],
+		[340934, 5, "Aloft does wonders for me", []],
+		[1483176, 4, "until I had to stop taking my beds due to medical stuff the ones that have helped me most where Vyvanse 70 my , lorazapam 1my , clonzapan 1 my and I was on result and Helena but I do not member the mrs just some beds I have been on made me gain weight before and some I have had bad bad reactions to witch where Prosaic and seroquil but eh I personally do not like beds because of what they do to you after a long time :(", []],
+		[1496813, 3, "Lithium , Ability , and Cymbals", []],
+		[727500, 2, "My beds : the grm and meditation", []],
+		[1098821, 1, "lithium and trynolcypromine . Lithium works great , but trynolcypromine is not helping with depression , also has a lot of side effects and has dietary restriction .", []]
+	],
+	"speakers": {
+		"WcIaLtL": 0,
+		"Hoss": 1,
+		"Ghost": 2,
+		"elliephant": 3,
+		"serkonan 🏴🏳️‍🌈🏳️‍⚧": 4,
+		"👽Schizoaffective_Stoner👽": 5,
+		"Creature_of_tea": 6,
+		"Romina Bloomdahl": 7,
+		"Sunshinebxtch🌞": 8,
+		"Keshi": 9,
+		"S": 10,
+		"Puma (🎖️Jaat, edict of 👑 Sher)": 11
+	}
+}, {
+	"id": 17105806,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Astonished",
+	"turns_number": 10,
+	"dialogues": [
+		[1496615, 0, "Is not it crazy how complete strangers can show you more support than your close friends do ?", []],
+		[1367879, 8, "if you are friends does not support you they are not really you are friends .", []],
+		[880196, 7, "Why I do not even claim people as my friends", []],
+		[971423, 6, "one could make the argument that your friend knows you better than a stranger , and they make their judgment on whether to support you on that . or maybe they think they know you regardless .", []],
+		[795446, 5, "of if that is the case you need to evaluate your close friends", []],
+		[1496321, 4, "its more crazy how a stranger feels more friendly and a great friend becomes stranger at times", []],
+		[1493026, 1, "life is crazy at moment", ["🤣", "😂"]],
+		[1432611, 3, "that is how nature life is", []],
+		[1455207, 2, "You need to get some better mates , no offence", []],
+		[1493026, 1, "tasha feel free to into .e", []]
+	],
+	"speakers": {
+		"Tasha": 0,
+		"drenii": 1,
+		"Revere": 2,
+		"prey": 3,
+		"sleepingmylifeaway": 4,
+		"Newbie": 5,
+		"JENKISN NELSON": 6,
+		"RICHDOTCOM": 7,
+		"sonicsoul 😇😈👽": 8
+	}
+}, {
+	"id": 17105790,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Worried",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "I m talking to a 20 year old girl and I m 26 . I m just worried about the age cap I have been pulled so ! much in the past for talking and asking out girls younger than me , I m just worried about what everyone will say especially her family ! ? we are getting along very well though ! I do not know what should I do ?  ", ["🤷", "♂"]],
+		[1470676, 3, "Ulm . she is 20 . Her choice is her own at this point and that is not a big age gap  ", ["🤷", "♂"]],
+		[1441273, 2, "6 years is not that big of a gap . You are fine due .", []],
+		[1363026, 1, "it is not a huge age gap . plus if you guys are really good to eachother I do not think anyone has any business to interfere between y all", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Sprocket 🌕🐾🐾🐕": 1,
+		"Hoss": 2,
+		"Reina": 3
+	}
+}, {
+	"id": 17105782,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Chilled",
+	"turns_number": 5,
+	"dialogues": [
+		[935879, 0, "It is currently 6:40pm here in my city . We are supposed to get a snowstorm tonight . help . Anyone welcomes , how is your evening going so far ?", []],
+		[666053, 4, "a little bit hard , sad thoughts and regrets are coming back . and you ? try to listen to music to cover the sounds of wind", []],
+		[1153095, 3, "for me Nice meal red wine . chocolate cake and whisky for dessert . where are you from it supposed To snow here To i am in Montreal Quebec", []],
+		[626944, 2, "5:50pm . cold of I think we are supposed to get more snow too", ["🤢"]],
+		[544861, 1, "I have not seen any snow  a while ! Here is always warm .", ["❄"]]
+	],
+	"speakers": {
+		"W": 0,
+		"Paul": 1,
+		"will": 2,
+		"Dark night of soul": 3,
+		"Kat猫": 4
+	}
+}, {
+	"id": 17105767,
+	"category": {
+		"id": 67,
+		"name": "Self-Care"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[1496249, 0, "Breaking old habits suck . I could really use some advice on ways to break the bad habits to make my life better .", []],
+		[1439722, 2, "replace them with good habits", []],
+		[1361968, 1, "which bad habit you want to loose ?", []]
+	],
+	"speakers": {
+		"Tara": 0,
+		"Chrissy": 1,
+		"Yours Anonymous": 2
+	}
+}, {
+	"id": 17105760,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[1379161, 0, "I do not like to talk about how I feel because it makes me look like a limp . I do not want to be ali have in .", []],
+		[1152544, 2, "It is ok to talk about it and not overthink other things , it helps", []],
+		[652523, 1, "how about we play minecraft and talk about it tomorrow:)<3", []]
+	],
+	"speakers": {
+		"DaddyZach": 0,
+		"𝖘𝖕𝖎𝖗𝖎𝖙 🖤": 1,
+		"ivannillis": 2
+	}
+}, {
+	"id": 17105729,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Stressed",
+	"turns_number": 3,
+	"dialogues": [
+		[622527, 0, "Wish I could pay someone to pretend to be my girlfriend for a while . Would be pretty low of me but it is a prove fact that women dig guys who are in relationships more than they would ever like a single guy .", []],
+		[748062, 2, "But you can hire an escort", []],
+		[1479653, 1, "ill do it for free and not pretend", ["👀", "😳"]]
+	],
+	"speakers": {
+		"durka": 0,
+		"bad'n'bougie🔥": 1,
+		".": 2
+	}
+}, {
+	"id": 17105719,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1456547, 0, "sometimes I just want to disappear to another planet", []],
+		[1486863, 2, "I hear mars is lovely this time of year", ["🙃"]],
+		[1292593, 1, "Then you choke or you collapse to 1inch or you burn under your skin on neptune of the toxic pass", []]
+	],
+	"speakers": {
+		"Mr Lucifer": 0,
+		"blodeuwedd 🌼 🦉": 1,
+		"Seretonine": 2
+	}
+}, {
+	"id": 17105710,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Down",
+	"turns_number": 4,
+	"dialogues": [
+		[1496493, 0, "Would it be my fault if my ex left me because she had caught feelings for somebody else ?", []],
+		[1421836, 2, "no it is not your fault it is her fault for leaving you", []],
+		[1496321, 1, "that is how it plays they find someone first  to leave you next", []],
+		[1465689, 1, "Not at all . Let her go and move on . As hard as it may seem , trying to keep her would be a waste of your precious time !", []]
+	],
+	"speakers": {
+		"Gregori": 0,
+		"Jimena Ramirez Soto": 1,
+		"Newbie": 2
+	}
+}, {
+	"id": 17105706,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Loving",
+	"turns_number": 6,
+	"dialogues": [
+		[1495330, 0, "Is love necessary to li have ?", []],
+		[666053, 5, "ah except if you consider the love about yourself", []],
+		[680791, 4, "Of . I love food . Can not li have without food .", []],
+		[1029954, 3, "depends what you mean by love and li have", []],
+		[1448391, 2, "money is necessary , but love is it", []],
+		[1490019, 1, "No ? ! But we decide what we want in our life and if you want love it is not a matter of necessity . You choose what you want . ( I want it too ) Unfortunately missing it makes feel miserable apparently", ["😅"]]
+	],
+	"speakers": {
+		"Tangled": 0,
+		"Paul": 1,
+		"ᴇ ʟ ʟ ᴇ": 2,
+		"🕷️🕸️": 3,
+		".....": 4,
+		"ShadowLady": 5
+	}
+}, {
+	"id": 17105700,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 3,
+	"dialogues": [
+		[1496193, 0, "Love is so blinding .", []],
+		[795446, 2, "you have got to love first to be blinded", []],
+		[606000, 1, "only if you get king with a blindfold", ["😂"]]
+	],
+	"speakers": {
+		"Sara": 0,
+		"sleepingmylifeaway": 1,
+		"Hurrikane": 2
+	}
+}, {
+	"id": 17105697,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Meh",
+	"turns_number": 4,
+	"dialogues": [
+		[488604, 0, "All this fucking snow for what", ["💀"]],
+		[720427, 3, "Not meant for anyone or anything it is just natural laugh out loud", []],
+		[460904, 2, "bring it home it is free water", []],
+		[936653, 1, "It wo not even hold its shape ff can not even make snowballs", []]
+	],
+	"speakers": {
+		"Ino🥀": 0,
+		"Ckay-Boyfriend": 1,
+		"lyfsgood": 2,
+		"Senplushie": 3
+	}
+}, {
+	"id": 17105625,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1496603, 0, "is there anyone happy ? !", ["😔", "🤔"]],
+		[1476445, 2, "I am trying to be", []],
+		[1432611, 1, "yeah.always.it depend on how you are living you are life", []]
+	],
+	"speakers": {
+		"Rthferh k883": 0,
+		"Mahaaraanee👑": 1,
+		"RICHDOTCOM": 2
+	}
+}, {
+	"id": 17105579,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Inspired",
+	"turns_number": 8,
+	"dialogues": [
+		[779397, 0, "Him I felt inspired to do something and I said why not create something to pass time so I made a song hope you ll enjoy ithttps:/dry have.goose.com / file / d/1A4nrdlqxhimhsyju - gbnhpxtnd0idol / view?up = dry havesdk", []],
+		[779397, 0, "if you like the song comment me here I ll appreciate it", []],
+		[564749, 5, "it is actually good , i like it", []],
+		[1390553, 4, "Oh man . that was so nice to listen . especially from to:00 onwards I really loved the beats you really have a great talent . keep creating it . you have a beautiful future ahead . May God bless you to the fullest . You are capable of everything Never i have up on anything strong man Lastly thank you so much for lagging me here . I really enjoyed your music", ["🎶", "❤", "💪", "☺"]],
+		[1010070, 3, "how much free time do you have ?", []],
+		[692607, 2, "I was expecting you singing", []],
+		[1131853, 1, "it is only instrumental ?", []],
+		[1131853, 1, "already on my Goose Dry have", []]
+	],
+	"speakers": {
+		"smxstreet ✌️": 0,
+		"Twentyxne_": 1,
+		"𝓨𝓮𝓵𝓵𝓸𝔀⛅𝓢𝓾𝓷𝓼𝓱𝓲𝓷𝓮": 2,
+		"Spud The Makow™🦜Platinum Ver🌠": 3,
+		"🐰Bunny's Honey🐰`🇧🇩`": 4,
+		"AL MA": 5
+	}
+}, {
+	"id": 17105549,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Amazed",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "I am straight but I am % 100 attracted to James Charles .", []],
+		[1494244, 2, "Well sexuality is a spectrum and maybe you are not 100 % straight", []],
+		[1478156, 1, "I am attracted to Link from legend of Held and i am also a straight guy", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Anarchist Cat Owner 🇵🇸": 1,
+		"Amare Odiea": 2
+	}
+}, {
+	"id": 17105542,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Inspired",
+	"turns_number": 3,
+	"dialogues": [
+		[1488086, 0, "is it true married men are more other than single ?", []],
+		[622527, 2, "Married men and men with girlfriend are more attract have to women than single men unless the single man is really , really handsome .", []],
+		[748062, 1, "Married men show this attraction and attention they do not i have their i have , which makes them more attract have", []]
+	],
+	"speakers": {
+		"Michelle Jordan": 0,
+		"durka the Dreamer": 1,
+		"bad'n'bougie🔥": 2
+	}
+}, {
+	"id": 17105480,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Meh",
+	"turns_number": 4,
+	"dialogues": [
+		[1364170, 0, "I want a leftists boyfriend , liberal works too", []],
+		[1138302, 3, "how about a communist or a Artist ?", []],
+		[622527, 2, "See we libertarians are not considered liberals anymore because liberals believe in fascia and not liberty . It is a shame , I think people should be able to do what they want in their own homes rather than having it controlled by small men like we always historically do .", []],
+		[1316849, 1, "why should politics matter in a relationship", []]
+	],
+	"speakers": {
+		"ghoststories": 0,
+		"Louie": 1,
+		"durka the Dreamer": 2,
+		"Mad👑": 3
+	}
+}, {
+	"id": 17105433,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[887104, 0, "So why all diseases cause adverse effects on the individuality there is not some sickness that makes you li have longer or makes you happierlol", []],
+		[1396207, 2, "then it would not be a sickness", []],
+		[832479, 1, "savants is kind of like this is extraordinarily strenuous for some but it also i have them amazing abilities no one else has", []]
+	],
+	"speakers": {
+		"Tassili Gorb": 0,
+		"𝕻𝖎𝖊𝖓𝖆𝖙💖": 1,
+		"mountainman": 2
+	}
+}]

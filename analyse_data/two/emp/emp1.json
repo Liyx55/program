@@ -1,0 +1,268 @@
+[{"id": 16998489, "category": {"id": 68, "name": "I Need Help"}, "emotion": "Exhausted", "turns_number": 2, 
+"dialogues": [[1362935, 0, "I m so tired of trying to keep myself motivate and busy", []], 
+[1465956, 1, "what makes you tired if I could ask", []]], 
+"speakers": {"Newbie": 0, "⠀": 1}}, 
+
+{"id": 16998449, "category": {"id": 11, "name": "Hopes"}, "emotion": "Hopeful", "turns_number": 2, 
+"dialogues": [[1489304, 0, "I would like to do what I really want !", []], 
+[1081032, 1, "Do not let anyone tell you otherwise", []], 
+"speakers": {"©사나": 0, "Jude": 1}}, 
+
+{"id": 16998227, "category": {"id": 7, "name": "Relationships"}, "emotion": "Sad", "turns_number": 2, 
+"dialogues": [[1070432, 0, "It is valentine is week I am 27 and still single another valentine is of loneliness hurts to see other couple is so happy and I sometimes feel like crying I wish there was someone who loved me too", []], 
+[1321590, 1, "Relationships are fun in beginning then you see the true colors and toxic traits . Trust me , just work on you and you ll be good", []], 
+"speakers": {"De_Andrade": 0, "⠀": 1}}, 
+
+{"id": 16998069, "category": {"id": 20, "name": "Others"}, "emotion": "Caring", "turns_number": 2, 
+"dialogues": [[1488811, 0, "Who ever reading this and you suffering from any kind of pain or if you are hurt . I wish you get your peace back in life . love hello", ["👍", "😗"]], 
+[1195566, 1, "hope you get what you want too . love you too", ["❤"]], 
+"speakers": {"ifrah": 0, "عبير": 1}}, 
+
+{"id": 16997641, "category": {"id": 10, "name": "Friends"}, "emotion": "Inadequate", "turns_number": 3, 
+"dialogues": [[0, 0, "I have a very good online friend who always listens to me but I feel like she does not show me the same energy as I do . she hardly hits me up first and never seems to be concerned while I get so anxious if e long to reply thinking that something bad might have happened(that just my anxiety ) . is it that she does not care or it could be her nature?by", []], 
+[1269639, 1, "well she is not that much interested in you her focus is different currently , do not expect the way you expecting from her , that does not mean that she is ignoring you but from all the important things in her life , she has some other things on priority , that she is going unconsciously .", ["🤷", "♂"]], 
+[1269639, 1, "she is not ignoring you on purpose", []]], 
+"speakers": {"Anonymous": 0, "Abhi": 1}}, 
+
+{"id": 16997449, "category": {"id": 12, "name": "Self Harm"}, "emotion": "Heartbroken", "turns_number": 2, 
+"dialogues": [[1155677, 0, "he is happily married and I m left alone crazy and insecure . he was sinner why am I getting punished ? how is it this fair ? fix it for me .", []], 
+[1489442, 1, "maybe past parma or maybe someone else is chosen for you", []]], 
+"speakers": {"the lone wolf": 0, "ᥴꫀꪶꫀᦓꪻꫀ": 1}}, 
+
+{"id": 16997240, "category": {"id": 7, "name": "Relationships"}, "emotion": "Loving", "turns_number": 2, 
+"dialogues": [[1427938, 0, "I am in love with a transgender girl . I really like her but I am worried and confused about our future .", []], 
+[857334, 1, "gender does not matter as long as you genuinely feel for her", []]], 
+"speakers": {"Animal Lover": 0, "Louie": 1}},
+
+  {
+	"id": 17152817,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 2,
+	"dialogues": [
+		[1205463, 0, "Can we just admit that we all lost a bond with someone this year which we wanted forever .", []],
+		[541600, 1, "she was the one , we wanted to get married and she left me .", []],
+
+	],
+	"speakers": {
+		"Anaya": 0,
+		"User Banned": 1,
+	}
+}, {
+	"id": 17152644,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Nostalgic",
+	"turns_number": 2,
+	"dialogues": [
+		[1374629, 0, "I want to vent my brain out laugh out loud", []],
+		[1488703, 1, "feel free to text me if you want to vent", []],
+	],
+	"speakers": {
+		"Spinach Eater": 0,
+		"Vegeta Gold": 1
+	}
+},  {
+	"id": 17152490,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Annoyed",
+	"turns_number": 3,
+	"dialogues": [
+		[152852, 0, "Some people really need to understand that people come here looking for help , and understanding . This is not an pp to flirt or set .", ["🙄"]],
+		[780640, 3, "the truth is though , most guns like me wants to get their rocks off to feel better instantly . it is over 90 of mormons .", []],
+		[780640, 3, "but , I still understand what you are coming from though .", []],
+	],
+	"speakers": {
+		"RachelS": 0,
+		"Newbie": 3
+	}
+}, {
+	"id": 17219225,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Down",
+	"turns_number": 2,
+	"dialogues": [
+		[1394483, 0, "have you ever tried melanin it is all nature summits to help you sleep", []],
+		[1503458, 1, "i struggle with sleep too i ll be up all hours of night and then sleep all day and my family rates it and they criticize me for it but i ca not control it", []]
+	],
+	"speakers": {
+		"cruzer": 0,
+		"Walking Shadow": 1,
+	}
+}, {
+	"id": 17219010,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 2,
+	"dialogues": [
+		[1503381, 0, "if he is your priority.then whose priority are you?if he is not ready you should move on.because you damn sure deserve better", []],
+		[1454451, 1, "Move on , He is aware of where he needs to be and If he is not with you then you better take that as an answer :)", []]
+	],
+	"speakers": {
+		"Female Sheldon": 0,
+		"Angel in disguise": 1,
+	}
+}, {
+	"id": 17162487,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Ecstatic",
+	"turns_number": 2,
+	"dialogues": [
+		[382933, 0, "I LOVE MY BOYFRIEND SO FUCKING MUCH . It took 19 years but I finally found my person and he was so worth the wait .", []],
+		[1422609, 1, "A i am so happy for you , that sounds really amazing ! ", ["☀", "🌿"]]
+	],
+	"speakers": {
+		"Sav_2901": 0,
+		"🍁🍁 𝔖𝔥𝔞𝔣𝔦𝔮 🍁🍁": 1
+	}
+}, {
+	"id": 17407321,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Frustrated",
+	"turns_number": 2,
+	"dialogues": [
+		[0, 0, "I am feeling mad with myself for getting emotional involved with someone so fast and then having to deal with the rejection . Why am I this dumb ?", []],
+		[1465956, 1, "you will learn with time do not worry , experiences are the best teacher I used to be like that too now I m an attachment avoiding pro", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		".": 1
+	}
+}, {
+	"id": 17995024,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 2,
+	"dialogues": [
+		[1541296, 0, "How to talk you your boyfriend last time before breakup when you can not control your tears but everytime you start crying . it is very diffuse you later for me . any advice ?", []],
+		[659555, 1, "it will hurt . it does hurt", []]
+	],
+	"speakers": {
+		"Baby Elephant": 0,
+		"olivia": 1
+	}
+}, {
+	"id": 17994765,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Depressed",
+	"turns_number": 2,
+	"dialogues": [
+		[709001, 0, "I wish someone found me attract have", []],
+		[1528800, 1, "This may be my opinion but God made you in his image and you are bound to be beautiful , so I believe you are a beautiful being but the people who said that to you have an ugly heart and ugly outlook on life . Be a good and loving human being , firstly to yourself and know that no one has any authority to call you unattractive have .", []]
+	],
+	"speakers": {
+		"waymuss": 0,
+		"xXKenaXx": 1
+	}
+}, {
+	"id": 17944197,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Sad",
+	"turns_number": 2,
+	"dialogues": [
+		[705946, 0, "Both my parents have mental illnesses and i would know to feelabout that . Like god no fucking wonder mentally tucked myself and I been through so much hurt and abuse ally life .makes me want to cry anna", []],
+		[1544477, 1, "hey , its going to be ok", []]
+	],
+	"speakers": {
+		"Esela": 0,
+		"अजीब आत्मा": 1
+	}
+}, {
+	"id": 17943719,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Loved",
+	"turns_number": 2,
+	"dialogues": [
+		[1544517, 0, "I want to be a bird so I can be free . my feelings are very chronic . I lost myself at the bottom of the ocean . I lost myself .", []],
+		[1496389, 1, "you are a free bird . no one has the right to stop you if they do realise they are not worth you are time . and you are feelings are important and need to be heard . why do you feel lost ?", []]
+	],
+	"speakers": {
+		"Belbel27": 0,
+		"SΔMΔR 웃+유=❤": 1
+	}
+}, {
+	"id": 17944235,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 2,
+	"dialogues": [
+		[1423899, 0, "I never thought that a breakup would be this hard it hurts so much", ["😭", "🥺", "💔"]],
+		[1272482, 1, "it is hard but if you get through it you will be proud of yourself", []]
+	],
+	"speakers": {
+		"Taysha": 0,
+		"JKC": 1
+	}
+}, {
+	"id": 17405607,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Meh",
+	"turns_number": 2,
+	"dialogues": [
+		[1441051, 0, "I have a million things to do and no desire to do any of them", []],
+		[1448593, 1, "Same here , the sheer pressure is demotivating", []]
+	],
+	"speakers": {
+		"Danielle ♡": 0,
+		"David W ♻️": 1
+	}
+}, {
+	"id": 17404359,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[952488, 0, "I have the exact same feelings man , I made so many wrong decisions that now I do not even know what I should do next", []],
+		[1514066, 1, "Ah I get you so much I feel the same everyday but more angry hope you ok", ["👌"]],
+		[1514066, 1, "Well I do not handle it very well I got brain damage and that swell so it all jumble into anger and I just unless all my anger on people I love the most", []]
+	],
+	"speakers": {
+		"Kia.S": 0,
+		"John": 1
+	}
+}, 
+
+
+
+]

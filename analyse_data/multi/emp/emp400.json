@@ -1,0 +1,722 @@
+[{
+	"id": 17998540,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loving",
+	"turns_number": 4,
+	"dialogues": [
+		[1547630, 0, "I am such a sensitive have human being feel every emotion extra hard I am such a needy , cling , loving , daring person is not always a good thing because people find it easy to manipulate my emotions to suit them I do not want to change because people keep taking advantage I want to continue being pure , gentlesomeone needs it for the greater good", []],
+		[1427075, 3, "NOW ! rare women here", []],
+		[1087927, 2, "exactly ! do not change ! just be careful", []],
+		[1401176, 1, "now I like they way to think , just be like this always , I hope you find a person you deserve :)", []]
+	],
+	"speakers": {
+		"🌻Sunflower🌻": 0,
+		"JKC": 1,
+		"teacupps": 2,
+		"Wolf": 3
+	}
+}, {
+	"id": 17998479,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1021578, 0, "Seeing him cry just hurts so much", []],
+		[1299020, 2, "mine never others to see my cry . she leaves me alone crying and depressed . your partner is indeed lucky to have someone likeyouryour", []],
+		[1395939, 1, "I know nd trust me he feels the same way", ["😟"]]
+	],
+	"speakers": {
+		"kissmyaxe": 0,
+		"Uzair Ashraf": 1,
+		"MERLIN": 2
+	}
+}, {
+	"id": 17998476,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1533626, 0, "Today I feel better . like that without a reason . I hope everyone here feels better .", ["😊"]],
+		[1536348, 2, "you just mad me smile . My mood is getting better thank you", ["😊"]],
+		[1546948, 1, "my day was good too.i hope for all to be happier", []]
+	],
+	"speakers": {
+		"ABCD": 0,
+		"Kim": 1,
+		"Bidura Sarkar": 2
+	}
+}, {
+	"id": 17806845,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Annoyed",
+	"turns_number": 3,
+	"dialogues": [
+		[1505081, 0, "Why when I am trigger , it takes me days to come back around to some what normal you", ["🥱"]],
+		[1392069, 2, "I hope this gets better but what triggers you", []],
+		[1534521, 1, "If you need to talk i can supply at the very least an amusing awkward interaction ?", ["✌"]]
+	],
+	"speakers": {
+		"Psychiatricsocks 🇮🇹": 0,
+		"Pizza & Beer 🍕🍻": 1,
+		".A Ghost In The Fog.": 2
+	}
+}, {
+	"id": 17806837,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 3,
+	"dialogues": [
+		[661672, 0, "I have been wanting to sob all day . I m nothing , I m nobody but a broken man . The tears would not swell , no breakdown . I have only got this nasty , lagging feeling destroying my heart insidiously .", []],
+		[1323530, 2, "What is your story bro ?", []],
+		[946451, 1, "I wish I had soothing words of wisdom . But I succumb to that worthless drowning emotion routine . It does pass . But it never stays gone long .", []]
+	],
+	"speakers": {
+		"Dusty Dreams": 0,
+		"User Banned": 1,
+		"Lisa Liza": 2
+	}
+}, {
+	"id": 17163082,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "is it my fault that I got rapid ?", []],
+		[826433, 2, "No not at all . It is the bastard that did it to you . None of that blame will ever fall on you , ok ?", []],
+		[734891, 1, "no . but to add on . is it my fault that  m not allowed to do much ?", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"ForTheWorse (FTW)": 1,
+		"wtf am I even doing": 2
+	}
+}, {
+	"id": 17163059,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Exhausted",
+	"turns_number": 5,
+	"dialogues": [
+		[809647, 0, "That is sad how you have good conversation with someone and it only lasts a night", []],
+		[859993, 4, "you can not have it every night just so it stays good and you value it", []],
+		[1478527, 3, "it is better if it fades away soon before you i have em you are heart and they go away with it", []],
+		[357273, 2, "or have a great conversation back and forth with a person and they block you right after for no apparent reason you can see .", []],
+		[1446793, 1, "Sometimes convoy go great until I do not check my phone for a hour or two , I feel like people use the people here because they are themselves lonely", []]
+	],
+	"speakers": {
+		"Nady": 0,
+		"Zak": 1,
+		"myr": 2,
+		"Agrius": 3,
+		"Doug": 4
+	}
+}, {
+	"id": 17163054,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Calm",
+	"turns_number": 3,
+	"dialogues": [
+		[523914, 1, "I m where you at in .", []],
+		[1388431, 3, "I believe you should set for yourself some goals in many areas of your life , try to practice some sports , talk to strangers and make some friends , ifyouru are old then i will suggest you to travel to a destination in which you can experience new things , your environment is impaction you without realising that you are getting used to it , just free yourself from what others you , and take a media veto to reflect on what is going in your life , GOOD LUCK", ["❤"]],
+		[1498336, 2, "is it called anhedonia?anhedonia is one of the symptoms of depression . Yeah , I have been through this shit before.what I do is do the thing I hate most . which is socialist . Yeah , I joined to an organization and make new friends , gain more information and experiences.yet , I feel depressed anyone welcomed.but at least my focus is distracted by products have activities .", []]
+	],
+	"speakers": {
+		"CatLady": 0,
+		"Nesrine": 1,
+		"gita": 2
+	}
+}, {
+	"id": 17163026,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nothing",
+	"turns_number": 4,
+	"dialogues": [
+		[654502, 0, "Blaming the victim in a rape case is just so disgusting ! it is not their fault ! it will never be their fault .", []],
+		[559530, 4, "Hope we all understand that", ["☺"]],
+		[1466499, 2, "but but but . it is india due", []],
+		[712880, 1, "i hate it what that shit happens it made me want to punch the rapid and hug the victim .", []]
+	],
+	"speakers": {
+		"❤💙💚💛💜♥": 0,
+		"R0cky": 1,
+		"Abhii Chaudhari": 2,
+		"Faust": 3
+	}
+}, {
+	"id": 17162937,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Confused",
+	"turns_number": 3,
+	"dialogues": [
+		[916815, 0, "Some people confuse me so much .", []],
+		[770224, 2, "good , ignorance is bliss", []],
+		[976284, 1, "yeah with profound and gender identity", []]
+	],
+	"speakers": {
+		"Slovak": 0,
+		"Marco 🦆": 1,
+		"ㅤ": 2
+	}
+}, {
+	"id": 17162896,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 5,
+	"dialogues": [
+		[1500003, 0, "i hate how men make females feel less then there self", []],
+		[1372283, 4, "i never do that . i always encourage women", ["😊"]],
+		[550594, 3, "Ugh . I am sorry that you had To go through this . But we is not like that at all :)", []],
+		[1239006, 2, "Its a safest thing ! Some are like that not everyone ! And I always feel women are really great warriors !", []],
+		[1469576, 1, "yes , like who the neck are you to make me feel like that , before .", []]
+	],
+	"speakers": {
+		"Angel Jones": 0,
+		"kim seokjin": 1,
+		"Why Do We FALL?": 2,
+		"User Banned": 3,
+		"Elise": 4
+	}
+}, {
+	"id": 17162895,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1372283, 0, "I am really happy and thankful to the people who supported me last summer one of the worst summer in my life in terms of health", []],
+		[1420796, 2, "glad it is not as bad now", ["💜"]],
+		[1495296, 1, "That is great that you had support . I ll hope you ll had a beautiful summer this year ", ["🏖"]]
+	],
+	"speakers": {
+		"kim seokjin": 0,
+		"no": 1,
+		"noticemenot": 2
+	}
+}, {
+	"id": 17162876,
+	"category": {
+		"id": 48,
+		"name": "Work"
+	},
+	"emotion": "Anxious",
+	"turns_number": 6,
+	"dialogues": [
+		[1058920, 0, "can you go to police with his mails ? he use you because you have to talk with clients . but it does not let him do whatever he wants . do your boss love anything else except money ? its terrible . he must be at your side . hope you are brave enough to deal with this situation .", []],
+		[1488703, 5, "please leave sap , you deserve a better place", ["💜"]],
+		[802549, 4, "go happily maybe that client died", ["👍"]],
+		[859993, 3, "is your boss always such a disgusting piece of shit ?", []],
+		[1223624, 2, "ARE YOU BIDDING ME ? ! oh my god this makes me so frustrated , please leave this job if you see", []],
+		[1429482, 1, "I would suggest doing your work but not with this client and keep him blocked everyone welcomehere . your boss can not force you to get harassed !", []]
+	],
+	"speakers": {
+		"Tasha": 0,
+		"Angel in disguise": 1,
+		"Same'er sam🤗": 2,
+		"Zak": 3,
+		"RM": 4,
+		"11wildy": 5
+	}
+}, {
+	"id": 17162793,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[796682, 0, "I m so stressed for my final and I can not focus all I think is how am I going to lose weight hut anorexia is missed up", []],
+		[1497711, 2, "You got this due ! I know you can beat what you are going through", []],
+		[1492985, 1, "I know exactly how you feel , honestly . I have final coming and I can barely concentrate on anything", []]
+	],
+	"speakers": {
+		"suicidal": 0,
+		"Scotty Dale": 1,
+		"idk.yet": 2
+	}
+}, {
+	"id": 17162778,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Happy",
+	"turns_number": 3,
+	"dialogues": [
+		[1252288, 0, "like this post if you love me and how you know I love you is that I ll respond to your comments and i have you a follow", ["😄"]],
+		[1463764, 2, "I love you so much but as friends", ["😅", "💝"]],
+		[444515, 1, "you told me you only love me", ["😔"]]
+	],
+	"speakers": {
+		"Kixmbxrly": 0,
+		"Swappy 😲": 1,
+		"star": 2
+	}
+}, {
+	"id": 17162722,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[926925, 0, "I have none to talk to I feel alone every day and night none ever texts or calls me I hate everything life means nothing anymore", []],
+		[311564, 2, "then make friends online you will get someone to text to", []],
+		[1498997, 1, "if you think like that you will not be happy ever , do not let people decide if your life is good or not , you i have your life to someone else to decide how your life should be , do you know what does it mean ? you just stopped living ! , do things make you happy and do not wait for anyone .", ["🌱"]]
+	],
+	"speakers": {
+		"Nathan Cappelletti": 0,
+		"The Royalty": 1,
+		"Star.": 2
+	}
+}, {
+	"id": 17162673,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Overwhelmed",
+	"turns_number": 8,
+	"dialogues": [
+		[575050, 0, "These to am thoughts are killing me", ["😔"]],
+		[1498685, 7, "Try talking to someone instead of being alone , those thoughts can really dry have us crazy !", []],
+		[1486824, 6, "share then . let us dye together", ["🤗"]],
+		[1481369, 5, "Think about your dream or favourite one . Build it up , it cherished you to good sleep ! Talk with you are pp or start count numbers !", ["🍁"]],
+		[826433, 4, "fucking same . hum if you want to talk about it , I m down", []],
+		[705991, 3, "me too girl but its about to be 6 am my time", ["🤦", "🏽"]],
+		[978856, 2, "let me know if you find any solution", []],
+		[1230110, 1, "My cold is killing me", []]
+	],
+	"speakers": {
+		"polka dot": 0,
+		"NOSTRADAMUS💫": 1,
+		"Jake Peralta": 2,
+		"Sai 🖤": 3,
+		"ForTheWorse (FTW)": 4,
+		"Tay": 5,
+		"null": 6,
+		"Krox": 7
+	}
+}, {
+	"id": 17162660,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Exhausted",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "I can not do this anymore", []],
+		[1488703, 2, "want to talk about it ?", []],
+		[411924, 1, "Hey it is ok i am here for you ", ["❤"]]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Angel in disguise": 1,
+		"nonexistent": 2
+	}
+}, {
+	"id": 17162635,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Nostalgic",
+	"turns_number": 4,
+	"dialogues": [
+		[1499989, 0, "I do not want to li have anymore . I self harm . I try to stop but I can not . can anyone help I m very close to s1c1de", []],
+		[916815, 3, "You are worth your life . You are loved , cared for and cherished even when you may not be feeling this way right now . Please keep your head up . It will get better . It is just a phase of this life when you are feeling like this but one day you ll be happy again . Keep fighting .", []],
+		[474724, 2, "you are going to be ok - i pink promise", []],
+		[1499991, 1, "you can do me , let us talk", []]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"Slovak": 1,
+		"Cherry": 2,
+		"Butterfly": 3
+	}
+}, {
+	"id": 17162631,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Tired",
+	"turns_number": 3,
+	"dialogues": [
+		[534750, 0, "I can not hold anyone is attention people get bored of me after awhile they stop talking to me stop replying", []],
+		[1368310, 2, "I know that feelings Sorry for that I know How it is feel It will be alright ", ["💕", "❤"]],
+		[1498685, 1, "No!not all are the same , you just have not met the right person as yet !", []]
+	],
+	"speakers": {
+		"Marie": 0,
+		"Jeezz": 1,
+		"NOSTRADAMUS💫": 2
+	}
+}, {
+	"id": 17162564,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 3,
+	"dialogues": [
+		[1490520, 0, "So proud of you", []],
+		[725140, 2, "You are doing the right thing", []],
+		[1499351, 1, "I think you dropped this", ["👑"]]
+	],
+	"speakers": {
+		"Feisty ZN": 0,
+		"Cruel World": 1,
+		"Pika Boo": 2
+	}
+}, {
+	"id": 17162542,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 5,
+	"dialogues": [
+		[1457737, 0, "Things change . People stop loving each other . it is better that you got your heart broken now and not after getting married and having kiss . It can be hard to move on but you have to keep going . One day you will be thankful for the lessons this experience taughtyouryour", ["💕"]],
+		[761000, 2, "hey hi dear . you can do if you need someone to talk . I will not judge you for you .", ["🌻"]],
+		[820440, 3, "He sounds really toxic . Holy shit how can someone say all that . He moment appreciate you please just move on :(", []],
+		[761000, 2, "I have been though two abuse have toxic relationship .", []],
+		[1178467, 1, "Be careful while considering someone partner . World is so tricky and selfish .", []]
+	],
+	"speakers": {
+		"Bubbles2384": 0,
+		"cloudySunshine03": 1,
+		"Var☃️🐕": 2,
+		"\"Yaar\"💐": 3
+	}
+}, {
+	"id": 17162444,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Exhausted",
+	"turns_number": 6,
+	"dialogues": [
+		[1499968, 0, "i feel like i want to jump out of myself and go super far a way to li have a completely different life that has nothing to do with who i am now . i want to escape everything and everyone . even reality .", []],
+		[1368310, 5, "How you escape from realityjust accept it and Move on", []],
+		[1496112, 4, "This is exactly how I feel", []],
+		[1302592, 3, "I agree that life and reality is not always beautiful , but I do not think running away is the best thing to do . We all go through bad times but we all go through good times too , and it is for those that we must li have fully . If you have problems face them , fight until you win and have a wonderful future .", []],
+		[846589, 2, "change you are way of thinking", []],
+		[976835, 1, "that is how i think sometimes", []]
+	],
+	"speakers": {
+		"Sherouk": 0,
+		"Jeezz": 1,
+		"Mariam": 2,
+		"Nalyd": 3,
+		"indah pada waktunya": 4,
+		"balvinder singh♈": 5
+	}
+}, {
+	"id": 17106635,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 3,
+	"dialogues": [
+		[1496742, 0, "his loss funny he lost an amazing sweet beautiful pretty girl", ["❤"]],
+		[1473923, 2, "He save you the partake before you walked down the isle to married him.just be glad you di do not know married him . An am sorry you went thou that.he is an selfish ass", []],
+		[1496740, 1, "I am so sorry this happened to you . Keep your head up and remember that this is not your fault . People can be blind for some time , but you woke up and the future will be better . Trust !", []]
+	],
+	"speakers": {
+		"Aun Abbas": 0,
+		"Justice": 1,
+		"Newbie": 2
+	}
+}, {
+	"id": 17106601,
+	"category": {
+		"id": 65,
+		"name": "Eating Disorders"
+	},
+	"emotion": "Nostalgic",
+	"turns_number": 3,
+	"dialogues": [
+		[1496725, 0, "i do not want to relapse but literally everything is telling me to stop eating in", ["😀"]],
+		[477319, 2, "Eat a marshmallow or something light .", []],
+		[1404128, 1, "Hey , I know what you are going through if you like to talk . i am here", []]
+	],
+	"speakers": {
+		"elodie": 0,
+		"BlueSkillet777": 1,
+		"✨One day without you✨": 2
+	}
+}, {
+	"id": 17106600,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[608782, 0, "I an too toxic to be loved I guess . I should ms already !", ["🙂"]],
+		[1496722, 2, "Me too . :) we are best friends now thank you", []],
+		[1449172, 1, "A lot of people feel the same way but there is someone out there for everyone ! If you feel you are toxic you are likely not toxic and just feel that way because of pressure in social situations but even if you were toxic harming yourself would not help ! Talk with people who you trust and get along with and see if you can find why you feel you may be occasionally toxic and what to do to avoid such feelings .", []]
+	],
+	"speakers": {
+		"ThatFriend": 0,
+		"Wawa": 1,
+		":)": 2
+	}
+}, {
+	"id": 17106591,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Supported",
+	"turns_number": 7,
+	"dialogues": [
+		[1440705, 0, "I am so disgusted . I was talking to someone here and I added him on inst where I posted a picture of me in a bathing suit . He told me he was getting hard and that he wanted to masturbate on my picture . I fucking hate men .", []],
+		[1092434, 6, "that is so horrible ! i hope you are ok :(  how could someone think that is ok to say to someone they do not know or to anyone really ?", ["❤"]],
+		[1421206, 5, "That person is disgusting . And bc of one man , you blamed every men ? I m sorry you faced it you should not have .", ["😑"]],
+		[1245085, 4, "Such a per . Block him .", []],
+		[1378705, 3, "I would advice not adding anyone from here to your Instagram", ["😯"]],
+		[1195703, 2, "That is just disgusting I am sorry you had to go through all that but I hope you have blocked and reported him for good", ["😣"]],
+		[790678, 1, "i hope you are ok and block him and try to ignore him .", ["❣"]]
+	],
+	"speakers": {
+		"marianne": 0,
+		"CatsyBatsy": 1,
+		"𝐌 𝐑   𝐀 𝐋 𝐏 𝐇 𝐀   𝐓 𝐋   𝐂 𝐀 𝐏 𝐓 𝐀 𝐈 𝐍": 2,
+		"Arizaaa 🖤": 3,
+		"White Wing": 4,
+		"Angelo": 5,
+		"Dragonphoenixx_tess": 6
+	}
+}, {
+	"id": 17106579,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Frustrated",
+	"turns_number": 3,
+	"dialogues": [
+		[1390145, 0, "I am just disappointed in myself with everything and it is infuriating .", []],
+		[1495257, 2, "try to relax anger is not going to help you", []],
+		[1373085, 1, "people do not even realise that you are disappointed with yourself and keep on listing everything that is wrong with you like you do not already remind yourself every moment . it is firing", []]
+	],
+	"speakers": {
+		"Maya 🛸": 0,
+		"Eye Devil": 1,
+		"Hedwig🌺": 2
+	}
+}, {
+	"id": 17106574,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Nostalgic",
+	"turns_number": 3,
+	"dialogues": [
+		[1496725, 0, "i hate my school so much , i do not want to keep s - ing but i literally can not take it anymore and it is the only coming mechanism that makes me feel better , even for just a second", []],
+		[1496731, 2, "So do not go to your school if make you is", []],
+		[1467480, 1, "Try drawing on yourself and slowly stop over time . It should work .", []]
+	],
+	"speakers": {
+		"elodie": 0,
+		"Layla Muraad": 1,
+		"DarkGalaxy": 2
+	}
+}, {
+	"id": 17106568,
+	"category": {
+		"id": 72,
+		"name": "Anxiety"
+	},
+	"emotion": "Insecure",
+	"turns_number": 4,
+	"dialogues": [
+		[1242921, 0, "I just really do not like talking to people . I hate being in the center of attention . It is just makes me uncomfortable and cringe so bad .", []],
+		[1494338, 3, "I know it is hard but you need to work on it", ["😉"]],
+		[1244817, 2, "a mood I have been feeling way to often", []],
+		[1497263, 1, "attention does not have to be from strangers . create a space with the people you like to spend time with and try to feel safe among them ( partly depends on those people )", []]
+	],
+	"speakers": {
+		"Hi Itsme": 0,
+		"jass": 1,
+		"lee": 2,
+		"Sonix": 3
+	}
+}, {
+	"id": 17106520,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Overwhelmed",
+	"turns_number": 3,
+	"dialogues": [
+		[1490920, 0, "I just feel so overwhelmed with everything life i have I just want to feel something I just want to hurt myself I just want to i have up I can not even remember the last time I was happy or angry all I feel is sadness I just want to die . I feel like I am already dying inside I just do not know anymore", []],
+		[567783, 2, "I feel exactly the same and it is fucking brutal", []],
+		[1496321, 1, "but dying you had be dead . you do not look like the one who had like been called a hello", []]
+	],
+	"speakers": {
+		"Anouk": 0,
+		"Jean-Claude Van Sam": 1,
+		"Newbie": 2
+	}
+}, {
+	"id": 17106503,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Worried",
+	"turns_number": 3,
+	"dialogues": [
+		[464373, 0, "I am afraid that I am becoming addicted to Benzodiazepines , because they are the only thing that clear my head enough to express myself , or have a conversation . My thoughts are so tumbled and chronic otherwise .", []],
+		[1496720, 2, "it is all going to be alright", ["🥺"]],
+		[1290179, 1, "Seek help , reach out your hand , remember your not alone in this . we all have something were struggling with . But it is how you handle that determines your future . Because the best way to create the future is to create it .", []]
+	],
+	"speakers": {
+		"demonaz85": 0,
+		"Braam Beau": 1,
+		"Kidada Nelson": 2
+	}
+}, {
+	"id": 17106495,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Supportive",
+	"turns_number": 5,
+	"dialogues": [
+		[1495537, 0, "guy hurt me in past deeply and he is willing to change but I just can not trust him anymore , I feel like shirt .", ["😣"]],
+		[1474056, 4, "he can not be trusted he will do it again", []],
+		[606000, 3, "i call people like that snakes because as soon as you trust em they bite you in the bottom", ["😭", "😂"]],
+		[1164746, 2, "hurts you ones hurts you again but not all people are like that so if someone comments and tells you they are then their wrong and stupid", []],
+		[567783, 1, "I can not speak for him , but I can tell you my experience . I dealt with similar , and after a short time of a couple months , they were back to their old ways . I wish I was strong enough then to have cut the cord and walked away . The second hurt was much worse . If you want my advice , when someone first shows you who they are , believe it . I suck at talking myself , but I hope you can value yourself and walk away .", []]
+	],
+	"speakers": {
+		"Ciara💖": 0,
+		"Sailor Moon": 1,
+		"Hurrikane": 2,
+		"User Suspended": 3,
+		"Jean-Claude Van Sam": 4
+	}
+}, {
+	"id": 17106472,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Afraid",
+	"turns_number": 3,
+	"dialogues": [
+		[1335926, 0, "I am Obsessed with killing myself .", []],
+		[1495873, 2, "Me too , do not know how to stop feel like this", []],
+		[1272724, 1, "take the life simply  i have yourself chances do not be harsh on yourself take all the press off we all miss sometimes but it is not the end", []]
+	],
+	"speakers": {
+		"Mariam": 0,
+		"Isis": 1,
+		"Mohamed": 2
+	}
+}, {
+	"id": 17106469,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Stressed",
+	"turns_number": 4,
+	"dialogues": [
+		[640468, 0, "I have trust issues . every single person in my life ( family and friends ) have all done me wrong in some type of way . the worst part about it is I have to act like none of it has phase me because they are all I have . suppressing depression is so exhausting . especially when you can not come out and tell these people they are the reason I feel the way I feel .", []],
+		[1399774, 3, "I would just tell them . Friends and family have love not hate . i would either cut them off or meet new people", []],
+		[568548, 2, "I know exactly how you feel .", []],
+		[1435614, 1, "that is very hard ! done that too and when you speak up it is all your fault .", []]
+	],
+	"speakers": {
+		"Kali Gonzalez": 0,
+		"Ice King👨‍⚕️": 1,
+		"jav584": 2,
+		"Rad": 3
+	}
+}, {
+	"id": 17106451,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[567783, 0, "That is ok . You are allowed to have your boundaries .", []],
+		[564749, 2, "you do not need to change or any of those things to love someone though.someone who loves you for you is not going to make you change anything about you or your life", []],
+		[387787, 1, "Relationship is just a hedgehog is dilemma", []]
+	],
+	"speakers": {
+		"Jean-Claude Van Sam": 0,
+		"Twentyxne_": 1,
+		"EvangeRei": 2
+	}
+}, {
+	"id": 17106418,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Down",
+	"turns_number": 3,
+	"dialogues": [
+		[1359508, 0, "Do you ever feel like breaking down ? Do you ever feel out of place?Like somehow you just do not belong and no one understands you . No you do not feel what it is like , To be on the edge of breaking down but there is no one there to save you , To be like me .", []],
+		[932897, 2, "I feel out of place most of the time", []],
+		[1496708, 1, "you are not alone , me too", []]
+	],
+	"speakers": {
+		"linaaaa": 0,
+		".": 1,
+		"blabla": 2
+	}
+}]

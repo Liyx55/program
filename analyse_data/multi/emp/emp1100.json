@@ -1,0 +1,728 @@
+[{
+	"id": 17403764,
+	"category": {
+		"id": 71,
+		"name": "Grief"
+	},
+	"emotion": "Angry",
+	"turns_number": 3,
+	"dialogues": [
+		[1508146, 0, "When I say men are trash I stand my that shit .", []],
+		[541914, 2, "key . people do be trash the", []],
+		[1081198, 1, "I m guessing you had an unpleasant experience with men in your life ? if so you can stand by that and have trust and relationship issues with men and if you hate us you ate allowed to , just along as you do not shove it down our throats", []]
+	],
+	"speakers": {
+		"blu.": 0,
+		"Layla X GunSenpai": 1,
+		"( ' - ' )": 2
+	}
+}, {
+	"id": 17403730,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[1279827, 0, "Am i the only one who thinks its strange that people claim to be lonely and need friends but do not respond to a decent message ?", []],
+		[1202326, 2, "a lot of creep start with a decent message d", []],
+		[1504844, 1, "I do not really do but I understand rather think it is strange when they ask for DO and they ghost you or do not even ask a question back", ["🤦"]]
+	],
+	"speakers": {
+		"Dennis💛": 0,
+		"savannah": 1,
+		"UglyInside 😏": 2
+	}
+}, {
+	"id": 17403667,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Lonely",
+	"turns_number": 4,
+	"dialogues": [
+		[1505641, 0, "all I want is a shoulder to cry on right now", []],
+		[975828, 3, "take my shoulder and cry as much as you want .", []],
+		[797293, 2, "i read it somewhere , that the shoulder to cry on becomes - real fast . so be cautious .", []],
+		[1513127, 1, "Sometimes pandawon is our best shoulder", []]
+	],
+	"speakers": {
+		"𝗋𝗈𝗇𝗂": 0,
+		"RADIUM 🇵🇸": 1,
+		"Mivian Whiffledew": 2,
+		"Nikhil": 3
+	}
+}, {
+	"id": 17403624,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loving",
+	"turns_number": 3,
+	"dialogues": [
+		[1500934, 0, "sometimes i say bye just to hear do not go but i receive have ok bye", ["😢"]],
+		[1501103, 2, "Depends whom you send it", []],
+		[1366624, 1, "That sucks.but they can not handle how awesome you are , that is why", ["😁"]]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"Abhi": 1,
+		"InconspicuousMe": 2
+	}
+}, {
+	"id": 17403606,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Supportive",
+	"turns_number": 5,
+	"dialogues": [
+		[1514025, 0, "You can I write what is in my heart ? !", ["💔"]],
+		[761456, 4, "Sure , it will make you feel better", ["✨"]],
+		[1150881, 3, "of , go ahead , do it !", []],
+		[1506265, 2, "of course ! just do that !", []],
+		[1251730, 1, "Surest be sure to back up your words with a very large stick", []]
+	],
+	"speakers": {
+		"babyvvampire": 0,
+		"Whateverjustsomeone": 1,
+		"peaceful parrot": 2,
+		"Nil Emgen": 3,
+		"Muggins": 4
+	}
+}, {
+	"id": 17403591,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Exhausted",
+	"turns_number": 4,
+	"dialogues": [
+		[480238, 0, "My pain last night was horrible . My right arm went numb but also had really bad pain in it . Today I keep getting like shocking sharp pains random almost everyone welcomehere . I m so afraid I m just making this up . What if my doctor does not believe me or thinks I m exaggeration ?", []],
+		[1219486, 3, "you could be having symptoms of a bone infection or pre heart attack warnings get that checked out", []],
+		[1487876, 2, "just go for a check do not think so much", []],
+		[684673, 1, "I vote doctor will believe you . IF , and that is a very big IF , - if doctor wo not believe you then you can go to another one .", []]
+	],
+	"speakers": {
+		"Creature_of_tea": 0,
+		"Cakylynn 💀": 1,
+		"darkness sunshine": 2,
+		"Kama2": 3
+	}
+}, {
+	"id": 17403582,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[1357604, 0, "I am ashamed of myself !", ["😓"]],
+		[1485377, 2, "why what have you done ?", []],
+		[1292478, 1, "do not be just try to understand yourself , ask why to get answers do not be harsh on yourselfright now things seem diffuse you later but you got this", []]
+	],
+	"speakers": {
+		"James Fraze": 0,
+		"Newbie": 1,
+		".": 2
+	}
+}, {
+	"id": 17403564,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Sad",
+	"turns_number": 5,
+	"dialogues": [
+		[1513097, 0, "is with a terrible mother in law the breakup ? i love my boyfriend , he loves me , we are happy , but his mother makes every day miserable when we go at their house .", []],
+		[1513127, 3, "Ultimately you both are going to li have together so that does not matter much", []],
+		[1513127, 3, "It is your decision but relationships are mostly hard sometimes , it depends on you how much you love him", []],
+		[1435131, 2, "some mothers act like the ex girlfriend", []],
+		[1514145, 1, "I m 31 and I never had a girlfriend . I bet your life wo not be miserable than mine .", []]
+	],
+	"speakers": {
+		"alexia johnson": 0,
+		"Nikhil": 1,
+		"User Suspended": 2,
+		"Rajveer Arora": 3
+	}
+}, {
+	"id": 17403534,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[1514021, 0, "it is ok to be a shy guy?sometimes i feel so hard to talking with girlsbecause i am really shy and can not find good topic to start the conversation .", []],
+		[788444, 2, "I understand this I suffer with bipolar and meeting new people or anyone I have not meet or do not know can be torture", []],
+		[1514051, 1, "Ah but Sometimes it is good to face what kind of fear what we feeljust be confident and do not overcome your shyness", ["😊"]]
+	],
+	"speakers": {
+		"just alone": 0,
+		"daisy may": 1,
+		"Haruka❤️": 2
+	}
+}, {
+	"id": 17403473,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": null,
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "I want to kill myself so bad . I just want to go away for awhile . I do not want to be here anymore . My mother wishes bad on me every second i am ali have and sees nothing wrong mist and tells me not to cry because her life is worse and she should be crying instead . I HATE HER I HATE HER I HATE LIVING HERE I HATE BEING UNDER HER RULES I HATE HAVING TO TAKE HER ABUSE I HATE EVERYTHING", []],
+		[717841, 3, "huge please stay strong .", []],
+		[1513530, 2, "i dealt with forms abuse growing up , verbal , act . its traumatic . you do not deserve to be treated that way by your own mother . i do not know tour age but i hope you can find a better place to li have with pp who can care for you . they have child protection shelters and homes . there is clot of solutions out there . i wish you strength to find your way to some freedom from all your pain .", []],
+		[1514033, 1, "i know how it feel", ["😣"]]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"°CyberAnon•~•": 1,
+		"Stefãn": 2,
+		"Mw Fnw": 3
+	}
+}, {
+	"id": 17403418,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Meh",
+	"turns_number": 4,
+	"dialogues": [
+		[826845, 0, "Does therapy actually help treat mild depression ?", []],
+		[385240, 3, "it has not helped me", []],
+		[154152, 2, "Yes it does and is pretty effect have if you find the right therapist", []],
+		[1474730, 1, "Yes it does but of course you need to do work on yourself as well . It takes time and patience .", []]
+	],
+	"speakers": {
+		"Inmyownworld": 0,
+		"sebastian.dk": 1,
+		"RedSmile": 2,
+		"Rrw503": 3
+	}
+}, {
+	"id": 17403416,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1511810, 0, "i wish there was an option of starting over . from scratch . clean sheet!while also knowing what mistakes not to commit .", []],
+		[550594, 2, "You can always begin , again !", []],
+		[1371025, 1, "Life is going spiral upwards but only if you realise it . You can always start over because we all li have in a pattern of our choice we make every moment . If you recognize that pattern and correct it then it is possible to li have the life you desired for . Whatever has happened and will happen has nothing to do with the current situation except what we think its impact in our minds . I hope you will come over this hopelessness and Grow in upward direction . More power to you . Cheers .", ["✌", "🌻"]]
+	],
+	"speakers": {
+		"Dee": 0,
+		"Why Do We FALL?": 1,
+		"tiMete": 2
+	}
+}, {
+	"id": 17403373,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Motivated",
+	"turns_number": 3,
+	"dialogues": [
+		[589865, 0, "Got my test results back it is negative have so i am thrilled about that but still have to stay in isolation for the next to days to make my isolation complete . it is deep cleaning the kitchen day !", []],
+		[1455709, 2, "Lets make a position have vice together", []],
+		[1513508, 1, "Pew ! Glad you are ok love . I like your  position have  spin on all of this ( no put intended laugh out loud ) Get come , watch Netflix , and/or get some shores done xx", ["🧡"]]
+	],
+	"speakers": {
+		"Rosie": 0,
+		"Ron": 1,
+		"Coco Wren": 2
+	}
+}, {
+	"id": 17403365,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nothing",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "I have moved on from my ex boyfriend and I do not feel anything when he pips in my mind anymore But I do not love my new boyfriend yet i am in a weird situation where I do not have feelings for anyone .", []],
+		[1304658, 3, "are you feeling numb ?", []],
+		[1496338, 2, "My ex girlfriend was the same way . it is something that went away with time ! Hopefully it is the same for you :)", []],
+		[1513508, 1, "And that is on healing Proud of you , love . Hope you are ok and stay strong .", ["✨"]]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"♥": 1,
+		"𝕸𝖆𝖙𝖙 ✨": 2,
+		"Coco Wren": 3
+	}
+}, {
+	"id": 17403343,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": null,
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "I love it when my mon calls me a sorry excuse for a female because I do not do things a female should according to her anyone welcomed . I hate being female in this family anyone welcomed . There is expectations I ca not meet", []],
+		[1257499, 3, "yeah same i am constantly told i should not be doing shit bc i am a girl , and that i basically act like a man n all that shit", []],
+		[684673, 2, "I would hate it too", ["😡"]],
+		[1345392, 1, "really sorry you got to deal with that shit  can not stand when the gender roles are that rigid", ["☹", "💙"]]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"User Banned": 1,
+		"Kama2": 2,
+		"A G": 3
+	}
+}, {
+	"id": 17403257,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Overwhelmed",
+	"turns_number": 4,
+	"dialogues": [
+		[1115526, 0, "can you overcome you parents negative have influence ? Are we all doomed ?", []],
+		[518741, 3, "Nothing is impossible . Some things take longer time the", []],
+		[637515, 2, "ever tried fixing yourself ? remember how hard it was ? so just imagine how hard it d be to fix other people especially if they are old", []],
+		[972405, 1, "I study psychology and I m only in sixth form but yes you can , we studied the influence of attachment and parents on future relationships and attitudes . and basically , there are loads of studies that show yes", []]
+	],
+	"speakers": {
+		"Komodo": 0,
+		"ホット": 1,
+		"SlySolus": 2,
+		"✨inmyfeels✨": 3
+	}
+}, {
+	"id": 17403246,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[1514033, 0, "at the age of 28 i felt the pressure in my life getting more worst", []],
+		[1241409, 2, "I m 29.and the pressure will get worse", []],
+		[559824, 1, "I feel it so much . I thought 27 was bad and now 28 is like now", []]
+	],
+	"speakers": {
+		"Mw Fnw": 0,
+		"Me": 1,
+		"hereweareafterdark": 2
+	}
+}, {
+	"id": 17403239,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Lonely",
+	"turns_number": 8,
+	"dialogues": [
+		[792915, 0, "I have not felt this lonely in so long ! I just want new friends and someone who actually cares and wo not just walk out of my life without telling me why !", []],
+		[1485377, 6, "You can talk to me . I am like you", []],
+		[1485377, 6, "crashed out from friends circle", []],
+		[550834, 5, "just be you and people who are like you will come", []],
+		[479026, 4, "same situation . here if you need a friend :)", []],
+		[1126099, 3, "hey ! you can message me if you want ! I m always down to talk and make new friends :)", []],
+		[1513967, 2, "You are going to find someone who is true friends and care about you soon . You are too good to people who just walks out of you are life . Hope you feel better(-)", []],
+		[1514026, 1, "you are welcome daytime to talk", []]
+	],
+	"speakers": {
+		"𝑺𝒖𝒈𝒂𝒓𝒃𝒂𝒃𝒆𝒔": 0,
+		"Newbie": 1,
+		"DOGKIND": 2,
+		"Happiness :)": 3,
+		"jord": 4,
+		"ғʟᴀᴍᴍɪɴ' ʜᴏᴛ ᴄʜᴇᴇᴛᴏs": 5,
+		"Dep": 6
+	}
+}, {
+	"id": 17403237,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[1409154, 0, "I deserve so much more than this and every relationship I have been through . When will I be loved unconditionally . When will I be enough ?", []],
+		[1318072, 2, "ok ok calm down.but wait something better coming for you a bright light", []],
+		[771252, 1, "You do deserve more than the shit you get , run . I will love you unconditionally .", []]
+	],
+	"speakers": {
+		"Crybaby": 0,
+		"ZamaSU": 1,
+		"Phena the Kitty": 2
+	}
+}, {
+	"id": 17105809,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Angry",
+	"turns_number": 3,
+	"dialogues": [
+		[1495484, 0, "due my dad's girlfriend really passes me off . her lying up and down to me is really crazy . it just blows my mind how she lies to everyone else and claims that my child is hers . she disgust me and I never want to talk to her again . she i have me fear and headache everytime I talk to her .", []],
+		[1455207, 2, "WHAT ! that is so wrong .", []],
+		[567783, 1, "That is really weird as fuck", []]
+	],
+	"speakers": {
+		"Kat": 0,
+		"sonicsoul 😇😈👽": 1,
+		"Jean-Claude Van Sam": 2
+	}
+}, {
+	"id": 17105807,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[627040, 0, "The worst part of self harm is regret . Regret . It feels like maybe that happens more to some types of people . Like regretting you drew on your arms or regret that you jumped . Maybe it is not worth it but it really feels like the right choice", []],
+		[1495484, 2, "I have cut myself many times in the past and I do not have any regrets . I love to cut it feels good .", []],
+		[993133, 1, "We only regret the pain we i have others or the pain we i have ourselves . Suicide takes away the pain of the self , but it only leaves pain for the others . That is the closest I have come to finding an answer", []]
+	],
+	"speakers": {
+		"Natalie💋✌️": 0,
+		"Kat": 1,
+		"Nice to Meet You 💙": 2
+	}
+}, {
+	"id": 17105799,
+	"category": {
+		"id": 47,
+		"name": "Health"
+	},
+	"emotion": "Anxious",
+	"turns_number": 3,
+	"dialogues": [
+		[1467471, 0, "I had a dream about my teeth falling my friend did as well and my friends cousin and brother did does this mean smith bad is going to happen ? i have not been feeling good lately like not able to breathe either . and salary said a death or loss of someone it means please help i do not want to die . This girl on couture commented that her cousin had the same dream and there uncle died a couple months later and then she had the dream and her aunt died :(", ["😭", "😪"]],
+		[836063, 2, "no do not worry . as long as you do not think something bad is going to happen , then nothing is going to happen . you manifest what you think about . do not let a dream disturb you", []],
+		[656550, 1, "do not worry too much about it . the meaning of this dream can mean something totally different . if you have struggled with stress / anxiety / depression a lot lately it can be about that . it can also be about any major changes ( which is position have ! ) in your life", []]
+	],
+	"speakers": {
+		"ree ree🤍": 0,
+		"「summer」": 1,
+		"GalaxySky": 2
+	}
+}, {
+	"id": 17105786,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Anxious",
+	"turns_number": 3,
+	"dialogues": [
+		[1483561, 0, "I m afraid that I will never be able to achieve my dreams and goals and that it is too late for me", []],
+		[1475763, 2, "I feel the same way", []],
+		[1496648, 1, "we are still young but yeah i have the same fear", []]
+	],
+	"speakers": {
+		"daisy Joseph": 0,
+		"Wish I wasn't me💀": 1,
+		"dtsyy": 2
+	}
+}, {
+	"id": 17105752,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[942044, 0, "I wish I can find love again", []],
+		[1436414, 2, "me too . but I need self love first .", ["😔"]],
+		[1441351, 1, "You will . do not i have up !", []]
+	],
+	"speakers": {
+		"AJGSTYLES": 0,
+		"Nobody": 1,
+		"IthicaGrey": 2
+	}
+}, {
+	"id": 17105740,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Exhausted",
+	"turns_number": 3,
+	"dialogues": [
+		[1490147, 0, "i just want to be happy and loved . i am so fucking tired of being in pain . i would like to think i did not do anything to deserve it but i probably did", ["🙃"]],
+		[666053, 2, "Ah you probably did not but your time will come to shine soon do not worry", []],
+		[1153095, 1, "me i try To enjoy myself as much i can . i love To cook and i am good at it . Nice drink . i make me Forget about other and when i meet the one . i gone happen", []]
+	],
+	"speakers": {
+		"sophie": 0,
+		"Paul": 1,
+		"will": 2
+	}
+}, {
+	"id": 17105712,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Tired",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "why do I over think everything .", []],
+		[1421836, 2, "believe me I do that too it is all right but at the same time it is stressing distressful", []],
+		[1421836, 2, "yes because you are a human but at the same time if you overthink everything you might as well be putting a lot of stress on yourself as well and that is coming from someone that has seizures but it is alright to sometimes I overthink everything", []],
+		[1465689, 1, "Because making the wrong choice can be more overwhelming ! Generally the first choice is the right choice ! Or Sacrum is razor", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Jimena Ramirez Soto": 1,
+		"Newbie": 2
+	}
+}, {
+	"id": 17105711,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Overwhelmed",
+	"turns_number": 3,
+	"dialogues": [
+		[1458472, 0, "Making a card for my parents always makes me super emotional is is", []],
+		[1496321, 1, "that is love and affection , if those does not make you emotional you are dead inside", []],
+		[1361968, 2, "i can not even recall the last time i had free time with my parents , at least you are doing something way better", []]
+	],
+	"speakers": {
+		"Riya": 0,
+		"Newbie": 1,
+		"Yours Anonymous": 2
+	}
+}, {
+	"id": 17105606,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Sad",
+	"turns_number": 4,
+	"dialogues": [
+		[1495774, 0, "Ok . i am just going to cry because life is too hard now :(", []],
+		[710403, 3, "Do not i have up . You were destined to win this .", []],
+		[1388204, 2, "I wo not let you suffer alone", []],
+		[1328286, 1, "It is ok to see", []]
+	],
+	"speakers": {
+		"Kat": 0,
+		"Matthew Williams": 1,
+		"Anthony Piacentini": 2,
+		"Ash": 3
+	}
+}, {
+	"id": 17105604,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 4,
+	"dialogues": [
+		[637817, 0, "I m such an idiot . It is so easy to take advantage of me . I am so tired .", []],
+		[940104, 3, "we learn from experiences like this . I m sorry , hope you can bounce back and feel better soon", []],
+		[1161656, 2, "you should not tell everyone you are weak cause it is more likely someone will use you brow", []],
+		[748062, 1, "Someday you will meet a person who deserves you.dont be tired", ["💚"]]
+	],
+	"speakers": {
+		"Drenax": 0,
+		"i": 1,
+		"freddo": 2,
+		"bad'n'bougie🔥": 3
+	}
+}, {
+	"id": 17105602,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Confused",
+	"turns_number": 4,
+	"dialogues": [
+		[1199484, 0, "My taste in men is excellent . Nl I have good values and know what I want and prioritize . But then I want to question how . just HOW of I always end up with abuse have guys or guys who are in a problematical situation . JUST HOW . What the fuck AM i would i would", []],
+		[893979, 3, "Ugh this is reliable . I m sorry ! Have you ever read Ross Rosenberg is book  The Human Magnet Syndrome ?  i highly recommend !", []],
+		[1316849, 2, "not all men are like that . i hate guys who are abuse have to women or in general .", []],
+		[1443547, 1, "You may have great values , i do not question that . But , I m going to be blunt , maybe you do not have great tastes for men : Maybe you get a little too blinded by the things you like and can not see the red flags , maybe you take things too fast , maybe you are the type of person that get invested too quickly , that does not pull the brake . Maybe you just have to adjust a little , slow you pace", []]
+	],
+	"speakers": {
+		"ElfieCece": 0,
+		"Jayli": 1,
+		"Mad👑": 2,
+		"Fiasco": 3
+	}
+}, {
+	"id": 17105562,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Depressed",
+	"turns_number": 5,
+	"dialogues": [
+		[0, 0, "i have never been attract have and with how severe my mental health is , no one is ever going to want me again", []],
+		[1493098, 4, "why do you think no one is going to want you I think I have a idea maybe find persons who understand you", []],
+		[710218, 3, "same but somehow i have got a girlfriend so maybe you can find someone too", []],
+		[1388204, 2, "maybe I do , i would like to talk to you", []],
+		[640468, 1, "I can relate . I have been suffering from anxiety and depression . and I have come to terms with the fact that I will never be able to marry or have a future with someone . with all of the high and lows I have . securities I have . I do not think I ll ever be happy with someone . I can hardly stand myself sometimes how can I expect someone else to deal with me", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Oceancia Everdeen": 1,
+		".": 2,
+		"Anthony Piacentini": 3,
+		"Kali Gonzalez": 4
+	}
+}, {
+	"id": 17105529,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 5,
+	"dialogues": [
+		[558406, 0, "Just broke up with my girlfriend of 3 years yesterday on Valentine is days . this hurts and sucks due", []],
+		[1095785, 4, "i see it coming too , be brave", ["🤜", "🤛"]],
+		[1496651, 3, "Keep your head up Hunter", ["💪"]],
+		[1493455, 2, "Why do people do it on v- day.its so inappropriate", []],
+		[858961, 1, "feeling hurt too , broke my 3 year relationship off on valentine day too", []]
+	],
+	"speakers": {
+		"Hunter 77": 0,
+		"": 1,
+		"Newbie": 2,
+		"VolkRebel": 3,
+		"elliephant": 4
+	}
+}, {
+	"id": 17105481,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 5,
+	"dialogues": [
+		[1182166, 0, "I just broken with my boyfriend and I m crying like hell", ["👍", "🏻"]],
+		[762823, 4, "i am sorry by i am here for you", []],
+		[1484589, 3, "Cry as much as you want . Crying is good sometimes , but then remember to love yourself and move on . Focus on yourself . You do not need him love", []],
+		[615826, 2, "You stood with your reasons and they were solid , you are just crying your no longer needed emotions out . Take your time you ll heal", []],
+		[1496655, 1, "life and it is stages , sip your drink and i will better ones are coming", []]
+	],
+	"speakers": {
+		"Nisrine 🧚🏻‍♀️": 0,
+		"ok": 1,
+		"Rene🇵🇸": 2,
+		"User Banned": 3,
+		"H.Danny": 4
+	}
+}, {
+	"id": 17105453,
+	"category": {
+		"id": 68,
+		"name": "I Need Help"
+	},
+	"emotion": "Angry",
+	"turns_number": 7,
+	"dialogues": [
+		[1495484, 0, "if I was skinny and beautiful , my family would love me .", []],
+		[1444452, 6, "you are more than beautiful to me", []],
+		[1178467, 5, "They still love you . Do not they ?", []],
+		[1261923, 4, "if they do not accept you for what you are fuck em", []],
+		[1379161, 3, "Just being yourself is enough", []],
+		[1388204, 2, "* them . if they wo not love you for you then they are not good family", []],
+		[1495809, 1, "Well if your family i have love according to superficial aspects , then they do not sound like good people to look up to and take an example for then . You should never change your outer self in order to deserve love and affection . My family sucks , but I learned that you can build your own family by choosing your friends , they will provide you the love you deserve . Also remember that beauty is something very subject have and changes from person to person .", []]
+	],
+	"speakers": {
+		"Kat": 0,
+		"Lord Moaz": 1,
+		"\"Yaar\"💐": 2,
+		"David J": 3,
+		"DaddyZach": 4,
+		"Anthony Piacentini": 5,
+		"Supernova": 6
+	}
+}, {
+	"id": 17105446,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Depressed",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "Having abandonment issues is great cause like.you get to feel all insecure when the person who you really want to talk the most is not responding.and then you start to wonder and hyperfixate on if it was because they lost interest in you and now you are just sitting in a dark room trying not to cry .its great !", []],
+		[1349053, 2, "that is literally the situation I m in too brush what the fuck", []],
+		[1493455, 1, "Be patient.though i understand the torture you feel .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Lain": 1,
+		"VolkRebel": 2
+	}
+}, {
+	"id": 17105444,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Depressed",
+	"turns_number": 4,
+	"dialogues": [
+		[1495873, 0, "Someone is like me in France and want to talk about death ? I can not li have anymore I m so tired and disappointed of myself", []],
+		[1447316, 3, "do i ll i have you advice", []],
+		[1481121, 2, "If you want to talk , you can do me ( i am in France too )", []],
+		[1506676, 1, "Go easy on yourself , you still got a lot of time to find yourself", []]
+	],
+	"speakers": {
+		"Isis": 0,
+		"Mindy Cheif": 1,
+		"°S°pain": 2,
+		"Samuel tosin": 3
+	}
+}, {
+	"id": 17105427,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Tired",
+	"turns_number": 4,
+	"dialogues": [
+		[25320, 0, "I wish someone cared , but I wish my fiance actually cared about me instead of showing us having s*x to his friends . I just want him too love me but all he does is hit and kick me :(", []],
+		[1494244, 3, "Girl I m going to say this once and for all . END IT WITH HIM", []],
+		[1349975, 2, "girl not get out of there before its too late", ["😟", "💕"]],
+		[1486863, 1, "this is abuse , you need to leave .", []]
+	],
+	"speakers": {
+		"Izzyyy🦋🤍": 0,
+		"Anarchist Cat Owner 🇵🇸": 1,
+		"🖤~Mya~🖤": 2,
+		"blodeuwedd 🌼 🦉": 3
+	}
+}]

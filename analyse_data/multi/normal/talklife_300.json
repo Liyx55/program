@@ -1,0 +1,1096 @@
+[{
+	"id": 17219158,
+	"category": {
+		"id": 53,
+		"name": "Education"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 3,
+	"dialogues": [
+		[480724, 0, "I have me topics for a 5 minute oral presentation", []],
+		[966752, 2, "precautions to take while the could", []],
+		[1477208, 1, "how human brain is functionating ? what make us really happy ? 5 minute presentation about happiness mormons .", []]
+	],
+	"speakers": {
+		"El_blue": 0,
+		"√! ^! |\\|£|>€@|>": 1,
+		"how many people?": 2
+	}
+}, {
+	"id": 17219119,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Relieved",
+	"turns_number": 3,
+	"dialogues": [
+		[1199484, 0, "We tolerate too much shit men do . I m glad society is changing", []],
+		[1350258, 2, "ooh . shit what men do :O what is it what we do that woman do not . cause these words . these words keep separation between sexes ali have .", []],
+		[1368389, 1, "We tolerate too much shit from women too .", []]
+	],
+	"speakers": {
+		"ElfieCece": 0,
+		"Mo™": 1,
+		"LostInThisWorld": 2,
+	}
+}, {
+	"id": 17219116,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Inspired",
+	"turns_number": 4,
+	"dialogues": [
+		[802967, 0, "what is your twitter ?", []],
+		[1499838, 3, "That is a dangerous place you are stepping into", ["👀"]],
+		[1325474, 2, "is it worth to use twitter ?", []],
+		[1477780, 1, "Is there people that still uses Twitter ?", []]
+	],
+	"speakers": {
+		"luiza": 0,
+		"Bully Maguire": 1,
+		"Rickey Gascho": 2,
+		"El Mago (Navo)": 3
+	}
+}, {
+	"id": 17219076,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[1494542, 0, "what is the thing you would regret the most if you died tomorrow", []],
+		[1202378, 2, "Wasting my god damn 17 years life just to study", []],
+		[1477208, 1, "not finishing legend of sorry", []]
+	],
+	"speakers": {
+		"Azail": 0,
+		"Eh what?": 1,
+		"how many people?": 2
+	}
+}, {
+	"id": 17219074,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Motivated",
+	"turns_number": 3,
+	"dialogues": [
+		[1503116, 0, "Good morning world What are your goals for today ?", ["🌎"]],
+		[1499838, 2, "To make a new friend ^", []],
+		[1447772, 1, "good evening had an exam today now I m preparing for the next one life is going good", ["😁"]]
+	],
+	"speakers": {
+		"Serenity ☯️": 0,
+		"Bully Maguire": 1,
+		"Tas Tas": 2
+	}
+}, {
+	"id": 17219058,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Confused",
+	"turns_number": 5,
+	"dialogues": [
+		[884718, 0, "Why are people judging people for what they eat ?", []],
+		[510986, 4, "People like to judge every aspect of other people . I personally have an awful diet filled with bad fats and alcohol !", []],
+		[1493822, 3, "cause they are insecure about their own serves so judging others are they are next option . poor little creatures .", []],
+		[1473022, 2, "because they have nothing better to do , and they can only amuse themselves by tearing other people down to hide their own boredom and their own problems", []],
+		[908047, 1, "Because people are the worst .", []]
+	],
+	"speakers": {
+		"Victoria💜💫": 0,
+		"Cam": 1,
+		"A": 2,
+		"Sammy03": 3,
+		"Nik feminine male": 4
+	}
+}, {
+	"id": 17219054,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Meh",
+	"turns_number": 3,
+	"dialogues": [
+		[1366941, 0, "my most meaningful relationship outside family were built in my 30 is . I was intense have pulled when I was a child and teenager . Today I have few friends but I know I can count on them without a doubt and they can count on me", []],
+		[361329, 2, "relationship is relationship . period .", []],
+		[1018324, 1, "yes . I did / do . but it is very very rare . I do not know if it is luck , or like a win in the lottery . it is a fact , does not matter what kind of relationship , that people move in different directions . life changes , we change.or things happen like you wrote . Cancer is the biggest ashore , and I would not wish it to my biggest enemy .", []]
+	],
+	"speakers": {
+		"The Waves🌊🌊🌊": 0,
+		"justme": 1,
+		"Rhyn": 2
+	}
+}, {
+	"id": 17219033,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[1501376, 0, "Want to make some more female friends .", []],
+		[1442814, 2, "just want to make you as my friend", []],
+		[1402908, 1, "Why why only female ? Just curious .", []]
+	],
+	"speakers": {
+		"Just a Badgyal": 0,
+		"Kristalineee": 1,
+		"BigTallGurl": 2
+	}
+}, {
+	"id": 17219022,
+	"category": {
+		"id": 53,
+		"name": "Education"
+	},
+	"emotion": "Inspired",
+	"turns_number": 3,
+	"dialogues": [
+		[832004, 0, "me : I want to use to the webster of the un diversity to download files with assignment for homeworkwebsite : not working for several days : well , apparently the un averse thinks that I do not need to study , that I agree , no problem", []],
+		[665054, 2, "you can borrow them from your friends if they have download", []],
+		[1495242, 1, "Well they will blame you at the end laugh out loud", ["😂"]]
+	],
+	"speakers": {
+		"liquor🦎": 0,
+		"Iwon'tHURTchew": 1,
+		"How You Doin'?": 2
+	}
+}, {
+	"id": 17219018,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[1440769, 0, "Humans are scared of hips because they are violent and responsible for hundreds of deaths per year , when in reality , people kill way more people per year . so that is just being hippocritical .", []],
+		[555201, 2, "That is generally faulty thinking . Off the top of my head , there are far less hippopotamuses than there are human beings , by an extremely wide margin .", []],
+		[1036205, 1, "right people do not know that there words are killing someone hearts every second", ["👍"]]
+	],
+	"speakers": {
+		"Chipmunk": 0,
+		"GodSaveTheQueen": 1,
+		"سأموت من أجل فلسطين": 2
+	}
+}, {
+	"id": 17219009,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Supportive",
+	"turns_number": 6,
+	"dialogues": [
+		[658263, 0, "You attract what you fear", ["😄"]],
+		[1493175, 5, "i fear women , but .", ["😔"]],
+		[1033484, 4, "I am so scared of money oh my god you would not even believe", []],
+		[1449194, 3, "I do not have crystals w me so it is safe to say I do not attract anything", []],
+		[1441273, 2, "We have an old saying where I m from . It says : snakes hate pennyroyal but it grows right in front of their house .", []],
+		[1288235, 1, "I m so scared of traveling", ["😂"]]
+	],
+	"speakers": {
+		"ɐpuᴉ⅂": 0,
+		"User Banned": 1,
+		"Darkwit": 2,
+		"Perseus Hades": 3,
+		"Hoss": 4,
+		"Jen ☕💕": 5
+	}
+}, {
+	"id": 17219005,
+	"category": {
+		"id": 79,
+		"name": "Ask Girls"
+	},
+	"emotion": "Moody",
+	"turns_number": 5,
+	"dialogues": [
+		[1462404, 0, "cookers or thigh high?(I think cookers are outer , personally )", []],
+		[1059126, 4, "wait is there a fashion law against having both simultaneously or something ?", []],
+		[483863, 3, "Thigh high for me , but they are both fantastic", []],
+		[1395108, 2, "oh I thought you meant do I like getting choked . yea", ["🥴", "😵"]],
+		[881651, 1, "thigh high all the way i think they are hot as", []]
+	],
+	"speakers": {
+		"Feng": 0,
+		"('-' )": 1,
+		"S0me0neNew": 2,
+		".": 3,
+		"hekkie": 4
+	}
+}, {
+	"id": 17218902,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Happy",
+	"turns_number": 6,
+	"dialogues": [
+		[1252288, 0, "I m going to get plastic surgery when i am able to", []],
+		[1495296, 5, "Bad idea you are beautiful accept yourself put money into therapy instead", []],
+		[884718, 4, "What will you have surgery on ?", []],
+		[1394483, 3, "now why would you want to do that", []],
+		[1361633, 2, "Nose Job . Ran is the best in the world & cheap .", []],
+		[1204343, 1, "You do not need that", ["💕"]]
+	],
+	"speakers": {
+		"Kixmbxrly": 0,
+		"noticemenot": 1,
+		"Victoria💜💫": 2,
+		"cruzer": 3,
+		"Black Coffee": 4,
+		"comeback": 5
+	}
+}, {
+	"id": 17218892,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Nervous",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "When I was 14 I got sexually assaulted ( just touching ) by a friend . I m ok and I did not get any trauma , but I wonder if this is going to affect me when I ll meet my long distance boyfriend . Maybe I should talk to him about it , but I do not know how .", []],
+		[966752, 2, "it is your past and it would be better if you let it behind", []],
+		[1405693, 1, "I think you should tell him", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"√! ^! |\\|£|>€@|>": 1,
+		"Demonwolfash1🖤": 2
+	}
+}, {
+	"id": 17218826,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Amazed",
+	"turns_number": 11,
+	"dialogues": [
+		[1495325, 0, "i overthink , overcome , overseer and overstress", []],
+		[950412, 10, "basically you are a God", []],
+		[1465956, 9, "I so relate to this , I overthink my overthinking and is always stressing 24/7 and thinking of the worst possible scenario especially when under pressure or something is wrong . the only thing I do not necessarily relate to is overcome.my life can not revolve around one person it will make me tired after a while also I have always felt I m most secure with myself I m always going to prioritize my space and needs", []],
+		[1167900, 8, "i like to sound of overseer an overcome . not sure on overstress", ["😊"]],
+		[1371862, 7, "maybe that why your name is Ahsaas . you are over sensitive have laugh out loud", []],
+		[1411738, 6, "this all over will make you are hair follicle weak had suddenly hair fall pro tip in advance", ["😂"]],
+		[1502690, 5, "I tried , but can not help it those have our moments that is keeps you overthinking .", []],
+		[1457791, 4, "I feel you cut , same.:/", []],
+		[1499160, 3, "I have never related to something more", []],
+		[1375601, 2, "There is another over.its called overcome", []],
+		[367810, 1, "Are you me ? Cause that is all I ever do . And I m overlooking myself with it everyday .", []]
+	],
+	"speakers": {
+		"Ahsaas": 0,
+		".": 1,
+		"⠀": 2,
+		"Diana": 3,
+		"persefone": 4,
+		"Mr Lónly🔥": 5,
+		"xthn": 6,
+		"Catastrophe": 7,
+		"Newbie": 8,
+		"Max Eisenhardt": 9,
+		"🌑Moonlight Bliss🌑": 10
+	}
+}, {
+	"id": 17218824,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Angry",
+	"turns_number": 4,
+	"dialogues": [
+		[1502935, 0, "Why do boys think they have the right to  have  a girl in their life ? We are not something you can have . We are actual people .", []],
+		[1498685, 3, "Yeah , well it is not just guns who think that so please do not be gender specific and specially , not all guns are the same , so do not generalised !", []],
+		[1503243, 2, "humans are like that always.stupid", []],
+		[1429482, 1, "Well , i would gladly be a part of a great girl is life . Is that a better way to say it ? :)", []]
+	],
+	"speakers": {
+		"Aimee🦋💕": 0,
+		"NOSTRADAMUS💫": 1,
+		"Griffin": 2,
+		"11wildy": 3
+	}
+}, {
+	"id": 17218817,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Supported",
+	"turns_number": 3,
+	"dialogues": [
+		[1502342, 0, "I feel so tired my husband cheating on me most of the time", []],
+		[809647, 2, "what are you waiting for ? run !", []],
+		[1454451, 1, "Single Mon is a better option I guess if he is not being responsible towards you and the child . I have seen so many strong Women who take care of their family all alone . Starting would be bit diffuse you later I guess but after a while you will get comfortable and start enjoying the Independent lifestyle", []]
+	],
+	"speakers": {
+		"Nastiti Tyas": 0,
+		"Nady": 1,
+		".": 2
+	}
+}, {
+	"id": 17218798,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Confused",
+	"turns_number": 4,
+	"dialogues": [
+		[1276116, 0, "I would rather be a longer than around face people that say they care about you when the really do not . I am no way near perfect but I know for a fact I am a great friend ! Yet I have no friends which is fine but its just funny I i have everyone a chance and they all show their true colors .", []],
+		[811876, 3, "I guess that is part of process to connect with more people", []],
+		[1350258, 2, "Black and White . in and sang . the power is in the balance . do not i have to much of yourself but do not close yourself off . i agree . these days . good friends . are rare . but well even on here . you can find some good friends !", []],
+		[1394483, 1, "yeah that is what I do then they mess up and I delete them true friends are very hard to find", []]
+	],
+	"speakers": {
+		"lovingbuthurtinginside": 0,
+		"Hardik Patel": 1,
+		"LostInThisWorld": 2,
+		"cruzer": 3
+	}
+}, {
+	"id": 17218786,
+	"category": {
+		"id": 75,
+		"name": "Life Hacks"
+	},
+	"emotion": "Inadequate",
+	"turns_number": 5,
+	"dialogues": [
+		[1497845, 0, "Being simple is too complex .", []],
+		[1327230, 4, "Why , do you think so", []],
+		[1294585, 3, "simplicity is class . less effort but more than enough .", ["✨"]],
+		[811876, 2, "simplicity is complex . and being simple need to over come that", []],
+		[1337376, 1, "and painful too sometimes .", []]
+	],
+	"speakers": {
+		"Bawli": 0,
+		"èrtuo": 1,
+		"Soleil ☀️": 2,
+		"Hardik Patel": 3,
+		"Mayur": 4
+	}
+}, {
+	"id": 17218765,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Nothing",
+	"turns_number": 5,
+	"dialogues": [
+		[1276116, 0, "I keep having dreams my boyfriend left me for someone else!with", []],
+		[1350258, 4, "well as long as they are dreams and not reality.still sucks .", []],
+		[1503243, 3, "now then it is the truth", []],
+		[719169, 2, "Just brain juice flowing up high , do not overthink it the", []],
+		[1484127, 1, "I had dreams like that all the time and she always told me she would never do that to me and then she did but hopefully with you it does not turn out this way", []]
+	],
+	"speakers": {
+		"lovingbuthurtinginside": 0,
+		"LostInThisWorld": 1,
+		"Griffin": 2,
+		"말끗": 3,
+		"Eric": 4
+	}
+}, {
+	"id": 17218759,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Supportive",
+	"turns_number": 5,
+	"dialogues": [
+		[1275583, 0, "women be financially independent , men are not a financial plan to rely on .", []],
+		[1495296, 4, "of course you are right !", []],
+		[1180304, 3, "thank you . somebody had the balls to say it . laugh out loud", []],
+		[1305616, 2, "Stay - at - home wishing is for the weak", []],
+		[1501781, 1, "Course , never rely on someone .", []]
+	],
+	"speakers": {
+		"Flynn": 0,
+		"noticemenot": 1,
+		"Binny Thomas": 2,
+		"🍬𝕂𝕚𝕞𝕞𝕚𝕔𝕠🍬": 3,
+		"Larkspur 🌸": 4
+	}
+}, {
+	"id": 17218748,
+	"category": {
+		"id": 65,
+		"name": "Eating Disorders"
+	},
+	"emotion": "Motivated",
+	"turns_number": 3,
+	"dialogues": [
+		[1502196, 0, "I am not going to eat today . I do not care how hungry I get . I do not care . I do not deserve to eat .", []],
+		[1198373, 2, "Are you like sitting ? I too want to loose weight desperately . it is the only thing that is hindering my life .", []],
+		[771252, 1, "But if you eat , it would make me happy .", []]
+	],
+	"speakers": {
+		"El <3": 0,
+		"K": 1,
+		"Phena the Kitty": 2
+	}
+}, {
+	"id": 17218718,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[1475530, 0, "ok does anyone cry cause someone eats their food cause to me yes and I have always thought it is normal", ["😶"]],
+		[1272724, 2, "Joy does not share food", ["😂"]],
+		[930519, 1, "Come on , would you cry that simply over your food begin eaten or in case it is your far food ?", []]
+	],
+	"speakers": {
+		"ask my name !🦋": 0,
+		"Mohamed": 1,
+		"Joseph": 2
+	}
+}, {
+	"id": 17218699,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[1501477, 0, "i am back at school and my anxiety is rushing :(", []],
+		[265543, 2, "close your eyestake deep slow breathescount from 200 to 1chant some prayer slowlythis should help you feel calmer", []],
+		[1503376, 1, "i have got to go there now and i am off edge , i am late and i do not care , i am just ready to leave already and i have not even went yet", []]
+	],
+	"speakers": {
+		"millie": 0,
+		"love_me_like_I_do": 1,
+		"silent as night": 2
+	}
+}, {
+	"id": 17999010,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Supportive",
+	"turns_number": 3,
+	"dialogues": [
+		[840142, 0, "sometimes you think that you want disappear but all you really want into be found .", []],
+		[1522211, 2, "ah I want to disappear for real", []],
+		[1170727, 1, "sometimes we walk away from those that we feel it is  too good to be true  , yet we question the good things that happens to us", []]
+	],
+	"speakers": {
+		"MR.UNCHAINED": 0,
+		"your random neighborhood thot": 1,
+		"the bathroom singer✳": 2
+	}
+}, {
+	"id": 17998999,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Supportive",
+	"turns_number": 4,
+	"dialogues": [
+		[1442281, 0, "How many times have you thought about suicide ?", []],
+		[1506700, 3, "  way too many to count", ["🤷", "♂"]],
+		[1459102, 2, "many times , but I know I ll never do it", []],
+		[1508878, 1, "more than i can count w my hands", []]
+	],
+	"speakers": {
+		"User Banned": 0,
+		"InquisitiveBeing": 1,
+		"herewegoagain": 2,
+		"felaern": 3
+	}
+}, {
+	"id": 17998988,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[1541717, 0, "Would you rather work more hours per day , but fewer days or work fewer hours per day , but more days ?", []],
+		[1506700, 2, "work fewer hour per day but more days", []],
+		[1458663, 1, "more hours per day but fewer days", []]
+	],
+	"speakers": {
+		"🦜Rainy days🌨": 0,
+		"InquisitiveBeing": 1,
+		"snuggluffagus™": 2
+	}
+}, {
+	"id": 17998984,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[1541717, 0, "Would you rather go into the past and meet your ancestors or go into the future and meet your great - great grandchildren ?", []],
+		[272352, 2, "go back to my past , I know you can not ch siege it but I wish I can", []],
+		[684673, 1, "do not plan on any children , but I still would go into future because that is something I will never learn about otherwise", []]
+	],
+	"speakers": {
+		"🦜Rainy days🌨": 0,
+		"couldcareless": 1,
+		"Kama2": 2
+	}
+}, {
+	"id": 17998939,
+	"category": {
+		"id": 63,
+		"name": "My Story"
+	},
+	"emotion": "Determined",
+	"turns_number": 5,
+	"dialogues": [
+		[1043913, 0, "i do not think a lifetime is enough to do all the things i would want to", []],
+		[1546578, 4, "do the most needed for you", []],
+		[1419505, 3, "are literally left with neareally 600 months ! even if you do one thing per day , guess its going to be done before up . ( counting that all li have till 70 )", []],
+		[1536390, 2, "it is strange to plan / schedule something beyond life ! something that exceeds the life(timeline ) itself . Strange ! I have already started feeling sad about every great book that I will miss.  ", ["☹", "🕊"]],
+		[1089633, 1, "yesterday i wrote exactly this into my diary . i wish i had many li have so i could have not you time to travel and see all the art and nature and beauty and have all the jobs i want to . ugh", []]
+	],
+	"speakers": {
+		"dora": 0,
+		"Mohamed": 1,
+		"Ash🎶": 2,
+		"Hassan🕊️": 3,
+		"blackbird": 4
+	}
+}, {
+	"id": 17998937,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Loving",
+	"turns_number": 3,
+	"dialogues": [
+		[1504895, 0, "Why do not I meet right pp ?", []],
+		[272352, 2, "You have not met me that is y", []],
+		[1547677, 1, "It takes time to find the right 1", []]
+	],
+	"speakers": {
+		"uwu": 0,
+		"couldcareless": 1,
+		"TonyDale": 2
+	}
+}, {
+	"id": 17998928,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Jolly",
+	"turns_number": 3,
+	"dialogues": [
+		[1546801, 0, "just think a hot girl is passing by you and all of a sudden someone is call her henri or aunt .", ["😂", "🤭"]],
+		[1426916, 2, "yeah , I ll smash even though she is 69 years apart me . I m riding", []],
+		[1527435, 1, "That actually does not matter .some of my ff friends call me grandmamy kiss call me miss My cousin is daughter call me aunt .", []]
+	],
+	"speakers": {
+		"Advait": 0,
+		"300": 1,
+		"ManiR": 2
+	}
+}, {
+	"id": 17998917,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Tired",
+	"turns_number": 9,
+	"dialogues": [
+		[1545914, 0, "how to get out comfort zone ?", []],
+		[1510844, 7, "try something you wanted to but never did as a start", []],
+		[1486824, 6, "try what you thought you can not", []],
+		[1427120, 5, "You need to have a goal , and a very strong reason to achieve it .", []],
+		[1501774, 4, "Just do it push herself only way", []],
+		[1543691, 3, "learn to be ok with discomfort .", []],
+		[1546241, 2, "Try new things , what you never tried ?", []],
+		[1547475, 1, "try to have a goal that you really what to do . start with small steps , dear . as long as it is in continuous then i am sure you will get the bigger things . oh my god i am sorry if my sentence sound weird I do not know how to arrange my words hshshhshsh", []],
+		[1547475, 1, "sometimes , jealousy and envy can be some sort of motivation BUT only in healthy way", ["😚"]]
+	],
+	"speakers": {
+		"litisha": 0,
+		"leo👾": 1,
+		"Jake Peralta": 2,
+		"NOBIIITAAA": 3,
+		"LostTryingToFindMyWay": 4,
+		"ariesm": 5,
+		"Samuel Sarge": 6,
+		"Mary✨": 7
+	}
+}, {
+	"id": 17998905,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Nervous",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "How do you learn to trust your partner , after trauma ?", []],
+		[1517918, 3, "do not , leave their there is no trust , it is not going to work out", []],
+		[1058067, 2, "What happened . ,let know about your Trauma . ,", []],
+		[1544223, 1, "I do not think you do .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Loner MI": 1,
+		"Maya_In†oxicated": 2,
+		"xenz": 3
+	}
+}, {
+	"id": 17998890,
+	"category": {
+		"id": 72,
+		"name": "Anxiety"
+	},
+	"emotion": "Anxious",
+	"turns_number": 4,
+	"dialogues": [
+		[1525463, 0, "I am having anxiety . Trying to calm it down for sometime now , but .", []],
+		[1547056, 3, "Get a fresh air . Take a walk . Concentrate on breathing . Listen to healing music .", []],
+		[1501774, 2, "Want to talk best thing for me is to distract myself and i tell myself along as i am breathing i am good", []],
+		[1547553, 1, "listen to good songs , it always helps", []]
+	],
+	"speakers": {
+		"Coco": 0,
+		"Prajakta": 1,
+		"LostTryingToFindMyWay": 2,
+		"Raghav Agarwal": 3
+	}
+}, {
+	"id": 17998889,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Inspired",
+	"turns_number": 3,
+	"dialogues": [
+		[1197842, 0, "Trust me mitka is better thandairy milk .", ["👀"]],
+		[1529222, 2, "Both are good at their places", []],
+		[1458663, 1, "Buena and mint Hero are elite", []]
+	],
+	"speakers": {
+		"I am groot": 0,
+		"letsvibengrow": 1,
+		"snuggluffagus™": 2
+	}
+}, {
+	"id": 17998887,
+	"category": {
+		"id": 58,
+		"name": "LGBT"
+	},
+	"emotion": "Calm",
+	"turns_number": 5,
+	"dialogues": [
+		[1540065, 0, "What is the use of coming out if you do not have a girlfriend ?", []],
+		[476136, 4, "you do not need a girlfriend / partner to let people know what your identity is", []],
+		[1170913, 3, "You let pp know what you into laugh out loud", []],
+		[684673, 2, "I know right ! No idea why pp from do not plan on having relationship bother with what sexuality is theirs", []],
+		[1501774, 1, "To get a girl , how they suppose to know you want to wife them if they think you straight", []]
+	],
+	"speakers": {
+		"Newbie": 0,
+		"✌FIND ME✌": 1,
+		"Harley quin gone bad.🏳️‍🌈": 2,
+		"Kama2": 3,
+		"LostTryingToFindMyWay": 4
+	}
+}, {
+	"id": 17998863,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Meh",
+	"turns_number": 5,
+	"dialogues": [
+		[1533506, 0, "Began The Stallion is annoying to me .", []],
+		[1541950, 4, "she is annoying to me too", []],
+		[1221620, 3, "mad people be scared to say this laugh out loud", []],
+		[1334208, 2, "that is funny cut she always annoyed me laughing my arms off", []],
+		[1507139, 1, "i love how she empower women though", []]
+	],
+	"speakers": {
+		"Apostate Farts": 0,
+		"Dead Inside": 1,
+		"deloaded": 2,
+		"POWER CAT": 3,
+		"Newbie": 4
+	}
+}, {
+	"id": 17998853,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Calm",
+	"turns_number": 3,
+	"dialogues": [
+		[1075385, 0, "due is mad bc i did not accept due is do . due is big mad cause due is is not getting no attention", []],
+		[541914, 2, "Lay wan that attention ! i want. please", ["🥺"]],
+		[1049613, 1, "and some due do not i have of too", ["😛"]]
+	],
+	"speakers": {
+		"Mariyam": 0,
+		"Layla X Akechi ship": 1,
+		"Umer Yousuf": 2
+	}
+}, {
+	"id": 17998848,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Heartbroken",
+	"turns_number": 3,
+	"dialogues": [
+		[1360792, 0, "Being happy with someone , does not mean you are in love with them .", []],
+		[1426916, 3, "it is just a delusion fascination towards someone", []],
+		[1546302, 2, "sadly , it is true .", []]
+	],
+	"speakers": {
+		"Nicole": 0,
+		"300": 1,
+		"Nora": 2
+	}
+}, {
+	"id": 17998831,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[723773, 0, "When did you realised that you were pansexual", []],
+		[1506700, 2, "when I had been on my own for a while and the trying pan started looking real good", []],
+		[1334208, 1, "when my mon caught me in the kitchen with them . I could not run away anymore its who I am !", []]
+	],
+	"speakers": {
+		"panda": 0,
+		"InquisitiveBeing": 1,
+		"POWER CAT": 2
+	}
+}, {
+	"id": 17998826,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Tired",
+	"turns_number": 5,
+	"dialogues": [
+		[1533432, 0, "how many times can a person cross your boundaries before you cut them off ? apparently I have been doing it wrong", []],
+		[1517195, 4, "It is depends on how matters this person to you", []],
+		[1405208, 3, "I do not know i i have people way to many chances but they never change so i would say 3 strikes you are out", []],
+		[1506700, 2, "depends on why they have crossed my boundaries I suppose", []],
+		[1333442, 1, "Depends on their excuse and how i willed my mood is at the moment .", []]
+	],
+	"speakers": {
+		"angelic𖤐arsonist": 0,
+		"Lashinoo": 1,
+		"ctrlaltd3l": 2,
+		"InquisitiveBeing": 3,
+		".": 4
+	}
+}, {
+	"id": 17998806,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Sad",
+	"turns_number": 4,
+	"dialogues": [
+		[1442346, 0, "I am going to be meeting talk life for a little bit . I think I have been doing better and I found people who can help if I need it . thank you everyone who helped me", []],
+		[1546084, 3, "Go and sin no more", []],
+		[1547475, 2, "we do not even know each other but I really hope you will continue in getting better", ["✨", "🕊"]],
+		[1546633, 1, "Best wishes , glad to hear positively", []]
+	],
+	"speakers": {
+		"Tyler": 0,
+		"Zephyr": 1,
+		"Mary✨": 2,
+		"John Wick ♋": 3
+	}
+}, {
+	"id": 17998779,
+	"category": {
+		"id": 48,
+		"name": "Work"
+	},
+	"emotion": "Proud",
+	"turns_number": 3,
+	"dialogues": [
+		[1401176, 0, "I delete instagram & snapchat ( like 20days before ) and I feel more products have and useful now , social media is actually getting useless than being of any good use . what is your thoughts ?", []],
+		[870361, 2, "i stopped using mine too , but now i am tucked with Talklife laugh out loud", []],
+		[1521150, 1, "talklife is the same thing except slightly less judgment all the extra time going to be on this", ["🤣", "😂"]]
+	],
+	"speakers": {
+		"Wolf": 0,
+		"Cat": 1,
+		".": 2
+	}
+}, {
+	"id": 17998759,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Anxious",
+	"turns_number": 6,
+	"dialogues": [
+		[1545914, 0, "you are my pride who not allow me to text him first", ["😭"]],
+		[876398, 5, "same I never text anyone", ["🦍"]],
+		[1428157, 4, "it be like that . i am still waiting for him to text me back . it is been weeks .", ["😂"]],
+		[680761, 3, "maybe it is not your pride . maybe at the back of your mind you know he is not worth the effort .  ", ["🤷", "♀"]],
+		[1334208, 2, "mostly conditioning.most women think it below them to call first . pro tip the.if you wait to long hell think you do not like him and move on", []],
+		[1547435, 1, "it is pride or self respect , watch closely !", []]
+	],
+	"speakers": {
+		"litisha": 0,
+		"Sarcastic University": 1,
+		"lely": 2,
+		"Purple 💜": 3,
+		"POWER CAT": 4,
+		"aditya c": 5
+	}
+}, {
+	"id": 17998757,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Supportive",
+	"turns_number": 6,
+	"dialogues": [
+		[764351, 0, "girls be like  yeah I m fine  and suffer silently", []],
+		[1086521, 6, "girls or human beings ? laugh out loud", []],
+		[1500280, 5, "that is what she said", ["😪"]],
+		[1012815, 4, "* boy is be like", []],
+		[1426082, 2, "ha boys to i village pirate had n are mere to depression had are mere to depression h are mere to depression h", []],
+		[1197842, 1, "boy is be:- are you bidding me", ["😀"]]
+	],
+	"speakers": {
+		"Lorelai Gilmore": 0,
+		"Dr Sky": 1,
+		"Kodaline": 2,
+		"Vicky": 3,
+		"AIR-I'M POLLUTED": 4,
+		"I am groot": 5
+	}
+}, {
+	"id": 17998746,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Supported",
+	"turns_number": 3,
+	"dialogues": [
+		[0, 0, "I fantasized about Harley Quite and joke once how dumb I was", ["🤢", "🤮"]],
+		[541914, 2, "They are both hot . th i would", []],
+		[1507185, 1, "Joke and harley are a classic example of an abuse have relationship", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Layla X Akechi ship": 1,
+		"User Banned": 2
+	}
+}, {
+	"id": 17998741,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Disgust",
+	"turns_number": 3,
+	"dialogues": [
+		[1426977, 0, "can anybody send me your horse pick I m missing mine", []],
+		[541914, 3, "i have my red dead to horsey pick ?", []],
+		[615781, 1, "i do not have one sorry", []]
+	],
+	"speakers": {
+		"Harjinder Kaur": 0,
+		"Layla X Akechi ship": 1,
+		"ris": 2
+	}
+}, {
+	"id": 17998729,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Confused",
+	"turns_number": 4,
+	"dialogues": [
+		[1486497, 0, "This girl really said she got braces so her kiss can come out with straight teeth", ["🤧"]],
+		[507924, 3, "she should not have kiss then", ["😂"]],
+		[1545894, 2, "tell her her kiss will come out toothless initially laughing my arms off", []],
+		[1503260, 1, "she sacrificed herself a lot for her future children .", []]
+	],
+	"speakers": {
+		"Sunkissed": 0,
+		"🌙Starlight✨": 1,
+		"Coco Cookie": 2,
+		"cherie": 3
+	}
+}, {
+	"id": 17998718,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Stressed",
+	"turns_number": 5,
+	"dialogues": [
+		[1546084, 0, "How do you find out what you are good at ?", []],
+		[1390145, 4, "What do you mean ? Academic , hobbies , act ?", []],
+		[1310120, 3, "Try everything that is the only way the other one is that you do know it from when you were young for example you know how to sing or even draw etc", []],
+		[1077095, 2, "first try the things you enjoy . then try to identify what skill you are good at .", []],
+		[1527198, 1, "Nobody is naturally good at things . Practice makes perfect .", []]
+	],
+	"speakers": {
+		"Zephyr": 0,
+		"Maya 🛸": 1,
+		"Jay": 2,
+		"LovePoison🌟": 3,
+		"erecura": 4
+	}
+}, {
+	"id": 17998715,
+	"category": {
+		"id": 68,
+		"name": "I Need Help"
+	},
+	"emotion": "Confused",
+	"turns_number": 3,
+	"dialogues": [
+		[1413236, 0, "what do you mean by LIMP ?", []],
+		[1428157, 2, "just a stupid word people created .", []],
+		[1488861, 1, "Typically a guy who does not have self respect and who is willing to do anything for a girl just to be with that girl", []]
+	],
+	"speakers": {
+		"Aamir": 0,
+		"lely": 1,
+		"A wannabe sage": 2
+	}
+}, {
+	"id": 17998686,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Furious",
+	"turns_number": 4,
+	"dialogues": [
+		[1428157, 0, "wishing killing was legal .", []],
+		[1199762, 3, "it is if you do not get caught", []],
+		[1527435, 2, "Believe me . People would kill each other .", []],
+		[1446377, 1, "who would you kill ?", []]
+	],
+	"speakers": {
+		"lely": 0,
+		"peach tongue peach": 1,
+		"ManiR": 2,
+		"Jakub semenko": 3
+	}
+}, {
+	"id": 17998670,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Supportive",
+	"turns_number": 5,
+	"dialogues": [
+		[1540548, 0, "If you were to be granted a wish by god what would it be ?", ["🌠"]],
+		[1021578, 4, "I would ask him to i have me a wish every week", ["😳", "✋"]],
+		[819220, 3, "i want some potatoes chips", ["😆"]],
+		[1425511, 2, "I become a God too .", []],
+		[1547553, 1, "to i have some faith to everyone going through tough times", []]
+	],
+	"speakers": {
+		"pariii✌": 0,
+		"kissmyaxe": 1,
+		"🔥backfromhell🔥": 2,
+		"winter": 3,
+		"Raghav Agarwal": 4
+	}
+}, {
+	"id": 17998601,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Afraid",
+	"turns_number": 8,
+	"dialogues": [
+		[1425617, 0, "I do not feel motivate to do anything . I am trying to figure out what I want to do for a career , and I just do not know what . And then I feel like I m not good at anything . What do I do ?", []],
+		[1545472, 7, "do what you love money will come after it", []],
+		[1538351, 6, "do you have something that you love doing ?", []],
+		[1547435, 5, "nobody knows you better than you , keep searching and exploring and do not i have up even if you loose at the end of each day , rise up next morning again ! their would be something that you can do and maybe you are not good at it but i have some time , you will grow , just do not loose hope", ["👍"]],
+		[1410279, 4, "there is a major called business for that", []],
+		[1547760, 3, "i would say just try and keep surviving for now , whatever you are supposed to do will come to you one day", []],
+		[421767, 2, "I feel the exact same . I do not know what I like better . I like many things , but I feel like I would never be good enough to do them .", []],
+		[1538122, 1, "Choose something that is fun to do and that ears you six figures annually .", []]
+	],
+	"speakers": {
+		"...": 0,
+		"delusional": 1,
+		"Newbie": 2,
+		"aditya c": 3,
+		"xxxdepresíon": 4,
+		"imangelw": 5,
+		"palechub": 6,
+		"Elusive Anomaly": 7
+	}
+}, {
+	"id": 17998580,
+	"category": {
+		"id": 5,
+		"name": "Bullying"
+	},
+	"emotion": "Confused",
+	"turns_number": 3,
+	"dialogues": [
+		[558464, 0, "the guy who used to bully me is so handsome I hate this", ["😭"]],
+		[1392069, 2, "This proves girls like bad boys", []],
+		[1543691, 1, "it do be like that sometimes laugh out loud", []]
+	],
+	"speakers": {
+		"Vicky": 0,
+		"ariesm": 1,
+		"Keviv✴️": 2
+	}
+}]

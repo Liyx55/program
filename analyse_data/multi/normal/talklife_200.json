@@ -1,0 +1,665 @@
+[{
+	"id": 17153004,
+	"category": {
+		"id": 74,
+		"name": "Depression"
+	},
+	"emotion": "Sad",
+	"turns_number": 3,
+	"dialogues": [
+		[993708, 0, "Really do not want to study .", []],
+		[1499388, 2, "I do want to study but I do not have focus in", []],
+		[1345335, 1, "same , want to Study together ?", []]
+	],
+	"speakers": {
+		"Someone worthless": 0,
+		"GheloEspineli": 1,
+		"✨Parth✨": 2
+	}
+}, {
+	"id": 17152988,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Confused",
+	"turns_number": 3,
+	"dialogues": [
+		[932897, 0, "Are mind and brain the same ?", []],
+		[382339, 2, "No , the brain creates the mind without de brain there is no mind", ["👀"]],
+		[1418662, 1, "no it is the two parts , biological and psychological", []]
+	],
+	"speakers": {
+		".": 0,
+		"Zen 💚": 1,
+		"W O L F Y": 2
+	}
+}, {
+	"id": 17152977,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Sick",
+	"turns_number": 7,
+	"dialogues": [
+		[1036205, 0, "If you are ugly , you are ugly . There is nothing like inner beauty . Do you see short people going around saying they got inner height ?", []],
+		[915830, 6, "everyone is beautiful in their own way", []],
+		[1458892, 5, "beauty is by the eye of the looking . everyone pretty .", []],
+		[1194022, 4, "I got to know people who became incredibly attract have because of their inner being .", []],
+		[1498245, 3, "what the fuck what is the point of beauty if you are a bitch ?", []],
+		[945087, 2, "You do not know about inner beauty because you still see beauty with you are genitals", []],
+		[1498797, 1, "yeah - yes they like my personality and all but man , can not change the fact that If your ugly then you are , there are just people who would see your appearance not so ok two ) Experience", ["🌌", "🔝"]]
+	],
+	"speakers": {
+		"سأموت من أجل فلسطين": 0,
+		"jay": 1,
+		"♡~LittleKittyBun~♡": 2,
+		"Numb": 3,
+		"vic": 4,
+		"chika chika boom boom": 5,
+		"コーヒーくん": 6
+	}
+},{
+	"id": 17152931,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Amused",
+	"turns_number": 5,
+	"dialogues": [
+		[0, 0, "Would you rather have a pretty girlfriend but you guns are in a long distance relationship or a hot and easy girl nearby you can hook up with daytime but does not want any commitment ? no hypocrite please", []],
+		[334868, 4, "Depends if she is pretty in spirit or body", []],
+		[476136, 3, "i mean a relationship and a hook up are two different things so it depends on what people are looking for in general", []],
+		[1465956, 2, "that is a tough decision", []],
+		[1043700, 1, "Hot and easy girl I can hook up with any time and no commitment", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"slim ": 1,
+		"✌FIND ME✌": 2,
+		"⠀": 3,
+		"Death instructor 🚬": 4
+	}
+},{
+	"id": 17152855,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Bored",
+	"turns_number": 3,
+	"dialogues": [
+		[1036205, 0, "How many girls can proudly say that love Black colour more than Pink ?", []],
+		[1202378, 2, "But black is actually better than pink anyone welcomed", []],
+		[1496032, 1, "Black is my best color and am proud to say it", []]
+	],
+	"speakers": {
+		"سأموت من أجل فلسطين": 0,
+		"Eh what?": 1,
+		"Diäz": 2
+	}
+}, {
+	"id": 17152834,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Anxious",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "So basically men prefer  stable women  for marriage over any other ? Laughing my arms off i am going to look for lesions Or I better fall in love with my self", []],
+		[665054, 3, "I prefer a girl I love , thankyou very much", []],
+		[1349053, 2, "no . if a person loves you then they love you for you even if you are unstable . a handful of dukes opinions do not count for all of that renders opinion .", []],
+		[1498810, 1, "hope mature woman who can handle our madness .", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Iwon'tHURTchew": 1,
+		"Max_Eastwood": 2,
+		"Newbie": 3
+	}
+}, {
+	"id": 17152752,
+	"category": {
+		"id": 11,
+		"name": "Hopes"
+	},
+	"emotion": "Overwhelmed",
+	"turns_number": 3,
+	"dialogues": [
+		[1494514, 0, "Sometimes my boyfriend wants to talk on the phone after i get off work and i just do not feel like it . i usually try to like sure have through the call but sometimes he wants to talk for hours and hours and i am just so exhausted . i end up falling asleep in the call . he just stays on the line and listens to me sleep . I feel loved and cared for and taken care of but . sometimes i do not want to call at all i just want to sleep .", []],
+		[815994, 2, "just tell him you are tired and will talk to him the next day ?", []],
+		[1465956, 1, "tell him you are tired and it is draining you", []]
+	],
+	"speakers": {
+		"Ele": 0,
+		"FUCK OFFF": 1,
+		"⠀": 2
+	}
+}, {
+	"id": 17152732,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Sad",
+	"turns_number": 4,
+	"dialogues": [
+		[843496, 0, "How Do You HEAL The Broken Hearted ?", []],
+		[1025482, 3, "By self love as your surname suggests", ["🥰"]],
+		[1473648, 2, "Focus on something different . I personally always download a dating pp and went on searching for a new love :)", []],
+		[1342538, 1, "Heart never breaks Your Cortical is high", ["🦍"]]
+	],
+	"speakers": {
+		"Self Love 💕": 0,
+		"Potato Angel💝": 1,
+		"kiwiagnes": 2,
+		"M1LL10N": 3
+	}
+}, {
+	"id": 17152728,
+	"category": {
+		"id": 12,
+		"name": "Self Harm"
+	},
+	"emotion": "Caring",
+	"turns_number": 3,
+	"dialogues": [
+		[1499450, 0, "how to open up to your parents about what i have been struggling ? please :)", []],
+		[1469009, 2, "Just tell them . If they are kind and understanding about these stuff , you should not have any problems opening up . Take your time and do not worry . I can not really talk from my personal experience because my parents suck in accepting these kind of news laugh out loud", []],
+		[849513, 1, "the depends who you are going thou ?", []]
+	],
+	"speakers": {
+		"Nura Khadeja Abdul Malek": 0,
+		"Hanna": 1,
+		"let's get connected ❤": 2
+	}
+}, {
+	"id": 17152656,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Relieved",
+	"turns_number": 3,
+	"dialogues": [
+		[1087927, 0, "what is your best joke ?", []],
+		[1247861, 2, "Difference between shopman and snowwoman ? SNOWBALLS .", []],
+		[717293, 1, "what is the difference between outlaws and in - lawsoutlaws are wanted", ["😀"]]
+	],
+	"speakers": {
+		"teacupps": 0,
+		"Tearjerker": 1,
+		"Ice Cream 🍨": 2
+	}
+}, {
+	"id": 17152569,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Inspired",
+	"turns_number": 3,
+	"dialogues": [
+		[1452017, 0, "One of the hardest things for humans to do is understand their own emotions but somehow we are going to program roots with emotional intelligence .", []],
+		[1305340, 2, "I am telling you , it is the beginning of the end", ["🙄"]],
+		[1495631, 1, "imagine what a disaster it is going to be .", []]
+	],
+	"speakers": {
+		"sakshi": 0,
+		"ᏕᏂᏗᏂᏒᏬᏦᏂ": 1,
+		"Noseferatu": 2
+	}
+}, {
+	"id": 17152505,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Nothing",
+	"turns_number": 3,
+	"dialogues": [
+		[1484852, 0, "I ignored people for one person . Look at me now . Single", ["😅"]],
+		[834041, 2, "I have been on both sides of that , neither of them really feel great . laugh out loud", []],
+		[1489520, 1, "I can not choose , and in the first place , I was not chosen . And so , I m still single", []]
+	],
+	"speakers": {
+		"𝓛𝓾𝓷𝓪": 0,
+		"Kahtojin": 1,
+		"s": 2
+	}
+}, {
+	"id": 17152481,
+	"category": {
+		"id": 51,
+		"name": "Helpful Tips"
+	},
+	"emotion": "Inspired",
+	"turns_number": 3,
+	"dialogues": [
+		[1185376, 0, "Has anyone tried law of attraction ? Recently i have got to know .I have tried even i understand that how powerful manifesto i am", ["🌸"]],
+		[361690, 2, "I always practice and experience it but now I m losing to connect with the law of attraction", []],
+		[780640, 1, "it is all natural for me , I am either going to get attracted or not . I believe one way is to grow yourself to increase law of attraction .", []]
+	],
+	"speakers": {
+		"ßumä🍀🦄": 0,
+		"LostWanderer": 1,
+		"Vegeta Gold": 2
+	}
+}, {
+	"id": 17152404,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Caring",
+	"turns_number": 5,
+	"dialogues": [
+		[1499437, 0, "guns , what does it means if my boyfriend reply me so late ? should i think position have ? and stay calm ? what do you guns think ?", []],
+		[488390, 4, "first stay calm , maybe he is just busy or anything", []],
+		[1436370, 3, "it means that you should find something to do so you had realize people can be busy too", []],
+		[1354181, 2, "ask him if he is busy and what was he doing first before jumping into conclusion", []],
+		[1499470, 1, "priority defines importance , so if you are not getting attention , then you should question him about his priorities in life", []]
+	],
+	"speakers": {
+		"Lemonade": 0,
+		"Jasmin": 1,
+		"Stethoscope": 2,
+		"Zenith": 3,
+		"Positive Soul": 4
+	}
+}, {
+	"id": 17152379,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Jealous",
+	"turns_number": 3,
+	"dialogues": [
+		[1478571, 0, "so there is this girl i know , and i told her about my crush , just to be honest , she can have sex with everyone in the room , and now she is up in his zone , she wants him . what should i do ?", []],
+		[1453108, 2, "punch her stupid face and tell her how face ass of a person she is .", ["😈"]],
+		[1498660, 1, "If he trips , than he is not worth it baby .", []]
+	],
+	"speakers": {
+		"ElM": 0,
+		"deadpool": 1,
+		"Gabriel...": 2
+	}
+}, {
+	"id": 17152361,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Confused",
+	"turns_number": 3,
+	"dialogues": [
+		[843496, 0, "I Just do not Understand How A Person Says There Done When They Hit ME UP They Text Me He Was BLOCKED From All Social Media But Turns It Around Me What the fuck Manipulate have And A Narcissist", ["💔"]],
+		[1332269, 2, "I know you probably feel overwhelmingly many emotions right now , but remember to breathe . They are not next to you and they can not harm you . It is your choice to respond or not", []],
+		[1392924, 1, "it is because they are not done but you be done . this is the kind of behavior I managed last month with my girl Large , we ll call her that to protect her privacy . she wanted her space and I gave it to her . she hit me up and left an extent have message about a financial bind she is in and she is still in it . I backed off . you have to know when to let go and move forward . its exhilarating !", ["😉"]]
+	],
+	"speakers": {
+		"Self Love 💕": 0,
+		"commuminism": 1,
+		"Chance-": 2
+	}
+}, {
+	"id": 17152337,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Disgust",
+	"turns_number": 4,
+	"dialogues": [
+		[1364170, 0, "Some men shame women more for having consensus sex , than they shame other men for rape .", []],
+		[1453971, 3, "I shame all for having sex because I never got it", []],
+		[1342538, 2, "some women also rape So shame on humanity", ["🦍"]],
+		[611751, 1, "wait who makes fun of consensus sex ?", []]
+	],
+	"speakers": {
+		"ghoststories": 0,
+		"User Banned": 1,
+		"M1LL10N": 2,
+		"flowerboy": 3
+	}
+}, {
+	"id": 17152267,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[809647, 0, "I need girls only kind of group", []],
+		[1280468, 2, "It will be infiltrated by men eventually", []],
+		[1330092, 1, "I also want to be there with you all", []]
+	],
+	"speakers": {
+		"Nady": 0,
+		"User Banned": 1,
+		"Maestro": 2
+	}
+}, {
+	"id": 17152223,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Determined",
+	"turns_number": 7,
+	"dialogues": [
+		[1478168, 0, "I m going to be completely honest . I do not use either apes whatsapp or hangout .", []],
+		[1418881, 7, "me neither . But what about owns or pigeons ?", []],
+		[1491413, 6, "same . I hate when people ask for it and when you tell them you do not use either they try and push you into getting it . Due , I m not giving a random stranger my number or email .", ["😂"]],
+		[1036205, 5, "it is Means your single", []],
+		[446095, 3, "Are not you from Texas Em ? If so , you lost power in your area of the state ?", []],
+		[1498924, 2, "I do not think it is a problem", []],
+		[728874, 1, "laugh out loud has the dumbass disappeared ?", ["😂"]]
+	],
+	"speakers": {
+		"Emilee": 0,
+		"Blackfeather": 1,
+		"sssǝɾ": 2,
+		"سأموت من أجل فلسطين": 3,
+		"TboneSteak": 4,
+		"S. Van Bekkerk Sloterdjick": 5,
+		"🇺🇸RobbyRockRobster🎸": 6
+	}
+}, {
+	"id": 17152179,
+	"category": {
+		"id": 68,
+		"name": "I Need Help"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 4,
+	"dialogues": [
+		[1080844, 0, "can someone please explain to how to make the perfect brownish", []],
+		[1080844, 0, "i meant the whole recipe everyone knows that weed is the main ingredient", []],
+		[1483865, 2, "I can but I ca not remember how I did it", []],
+		[1450234, 1, "if you are brown , then jump on stove", []]
+	],
+	"speakers": {
+		"Numb to the feeling": 0,
+		"No One": 1,
+		"⚡Phoenix⚡": 2
+	}
+}, {
+	"id": 17152128,
+	"category": {
+		"id": 62,
+		"name": "Mental Health"
+	},
+	"emotion": "Depressed",
+	"turns_number": 7,
+	"dialogues": [
+		[1104758, 0, "why do we fall ?", []],
+		[1456204, 6, "gravity be reading this like", ["👁", "👄"]],
+		[1000984, 5, "so we can learn to pick ourselves up", []],
+		[1366941, 4, "Because we still have not figured out how not to .", []],
+		[1369826, 3, "Because I trip over people is bullshit", []],
+		[1498380, 2, "because we can fly on our own", []],
+		[446095, 1, "We fall so we learn how to pick ourselves up and do our best to not fall again", []]
+	],
+	"speakers": {
+		"Thomas Brown": 0,
+		"sad_beanie": 1,
+		"🎸Bear🎸": 2,
+		"The Waves🌊🌊🌊": 3,
+		"ZOINKS": 4,
+		"brattyblueeyes": 5,
+		"TboneSteak": 6
+	}
+}, {
+	"id": 17152127,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Sad",
+	"turns_number": 7,
+	"dialogues": [
+		[974535, 0, "every time I have an interesting conversion with a guy he end up asking for pictures ugh !", []],
+		[1456204, 6, "I say we just do not talk to guns anymore", []],
+		[834851, 5, "laugh out loud is not it true", []],
+		[656143, 4, "show me the pretty face behind interesting conversation .", ["👀"]],
+		[1369826, 3, "This has not ever happened to me other than like , once in six months .", []],
+		[909709, 2, "Yea some may simply be interested in seeing the other , but should accept a no .", []],
+		[1496129, 1, "so are you not good looking ? or what ?", []]
+	],
+	"speakers": {
+		"sunflower vol.6🌻": 0,
+		"sad_beanie": 1,
+		"YOES": 2,
+		"mine🥀": 3,
+		"ZOINKS": 4,
+		"Max_Eastwood": 5,
+		"I believe in heaven": 6
+	}
+}, {
+	"id": 16997161,
+	"category": {
+		"id": 61,
+		"name": "Positive"
+	},
+	"emotion": "Amused",
+	"turns_number": 4,
+	"dialogues": [
+		[0, 0, "I li have on money from weak men and needs who do not know how to get a relationship .", []],
+		[1349053, 3, "congratulations you are a parasite", []],
+		[441967, 2, "that is not a nice thing to say about your clients", []],
+		[1488562, 1, "Congratulations on such a beautiful started", []]
+	],
+	"speakers": {
+		"Anonymous": 0,
+		"Lain": 1,
+		"♡Feeble Cursed One♡": 2,
+		"Ayesha": 3
+	}
+}, {
+	"id": 16997043,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Calm",
+	"turns_number": 4,
+	"dialogues": [
+		[722854, 0, "Let me enter your mind .", []],
+		[707787, 3, "you would not want to do that , you would not last 5 minutes", []],
+		[654426, 2, "so much darkness inside there", []],
+		[1483282, 1, "My do is open , feel free to ask for entry daytime", []]
+	],
+	"speakers": {
+		"infj": 0,
+		"🎻📏": 1,
+		"shooting star": 2,
+		"AzA": 3
+	}
+}, {
+	"id": 16996963,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Inspired",
+	"turns_number": 4,
+	"dialogues": [
+		[1197842, 0, "a guy can either be cut or funny", []],
+		[1334208, 3, "please I m all for", ["😏"]],
+		[1218314, 2, "or like me young dumb and broke .", []],
+		[1489701, 1, "Or can just be a guy", ["👀"]]
+	],
+	"speakers": {
+		"I am groot": 0,
+		"POWER CAT": 1,
+		"Dogbyte.": 2,
+		"Piyush Arya": 3
+	}
+},{
+	"id": 16996888,
+	"category": {
+		"id": 15,
+		"name": "Family"
+	},
+	"emotion": "Lonely",
+	"turns_number": 3,
+	"dialogues": [
+		[1489685, 0, "I must feel so misunderstood all the time .", []],
+		[371541, 2, "You need a better listener who would not judge or misunderstand you based on your comments and opinions", []],
+		[568664, 1, "hey would you like to talk about it", []]
+	],
+	"speakers": {
+		"Palak Padhya": 0,
+		"waqt": 1,
+		"animalpuppy83": 2
+	}
+}, {
+	"id": 16996835,
+	"category": {
+		"id": 20,
+		"name": "Others"
+	},
+	"emotion": "Stressed",
+	"turns_number": 5,
+	"dialogues": [
+		[1081182, 0, "How do you do your assignment when you are in a missed up state ?", []],
+		[986240, 5, "just do it .no choice", []],
+		[1489687, 3, "Have not been doing anything , hate myself so much in", []],
+		[1489285, 2, "thanks for reminding me I have assignment to do", []],
+		[1018509, 1, "call a friend flirt with him and use him . laugh out loud that is what people do", []]
+	],
+	"speakers": {
+		"Rahaf": 0,
+		"goingwiththeflow": 1,
+		"Bekkilol": 2,
+		"NOOR UL AIN": 3,
+		"Naruto": 4
+	}
+}, {
+	"id": 16996821,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Inspired",
+	"turns_number": 3,
+	"dialogues": [
+		[1197842, 0, "Money aside , what do you need rightnow ?", []],
+		[582694, 2, "I need to be on a plane leaving this country", []],
+		[1481465, 1, "i need answers to all the questions that ll come for my exam", []]
+	],
+	"speakers": {
+		"I am groot": 0,
+		"Gage": 1,
+		"lilsuperwoman.": 2
+	}
+}, {
+	"id": 16996788,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Down",
+	"turns_number": 5,
+	"dialogues": [
+		[1489497, 1, "I am sorry to read that . I hope you will find a way to feel better ! It sounds like a hard situation . Take little steps back into the world outside . I cross my fingers", []],
+		[1216199, 4, "i have been living like that for 7 years now you get used to it", []],
+		[1216199, 4, "i find it funny how now because of could everyone else gets to li have like me for a while", []],
+		[1318123, 3, "I am just here.to know the secret behind your surname", []],
+		[1489657, 2, "i am the same . from beginning to end . hope we can change", []]
+	],
+	"speakers": {
+		"Mina": 0,
+		"Eddy Quinson": 1,
+		"The Gaming Otaku": 2,
+		"Nisaxyz": 3
+	}
+}, {
+	"id": 16996718,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Inadequate",
+	"turns_number": 5,
+	"dialogues": [
+		[679277, 0, "Nowadays lot of girls only want a guy with good physique and should be rich", []],
+		[1025482, 4, "there is no more genuine people anymore in this world and that is sad . People are always doing something to get something in return .", []],
+		[506000, 3, "nut up , I do not want any .", []],
+		[1473497, 2, "not true , very few of them , you would not even date most of the girls co they do not fit into your standards and you are posting ?", []],
+		[658263, 1, "what can you offer ?", []]
+	],
+	"speakers": {
+		"Lakshya": 0,
+		"Potato Angel💝": 1,
+		"ⁿᵒ ᵃⁿᵍᵉˡ": 2,
+		"lol": 3,
+		"ɐpuᴉ⅂": 4
+	}
+}, {
+	"id": 16996708,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Calm",
+	"turns_number": 4,
+	"dialogues": [
+		[722854, 0, "Who can help me with English through voice messages ?", []],
+		[911753, 3, "You can speak english well", []],
+		[690654, 2, "what kind if voice messages would you need ?", []],
+		[654426, 1, "i can help through testing", []]
+	],
+	"speakers": {
+		"infj": 0,
+		"ytinbam": 1,
+		"MindCavity": 2,
+		"shooting star": 3
+	}
+}, {
+	"id": 17219342,
+	"category": {
+		"id": 10,
+		"name": "Friends"
+	},
+	"emotion": "Optimistic",
+	"turns_number": 5,
+	"dialogues": [
+		[1455276, 0, "y all ever got that urge to delete everyone is number except your family ?", []],
+		[510986, 4, "Yep . But it does not matter anymore , since I do not talk to but one person who is number I have .", []],
+		[1122318, 3, "yes and I ll do it again", []],
+		[1483134, 2, "I never delete numbers . I just stop talking to everyone .", []],
+		[1465956, 1, "I am annoyed especially by my shillings", []]
+	],
+	"speakers": {
+		"Ali ahhh": 0,
+		"Cam": 1,
+		"👁️👄👁️": 2,
+		"🦋JESStastic🦋": 3,
+		"⠀": 4
+	}
+}, {
+	"id": 17219282,
+	"category": {
+		"id": 7,
+		"name": "Relationships"
+	},
+	"emotion": "Hopeful",
+	"turns_number": 3,
+	"dialogues": [
+		[1484410, 0, "what do i do when my boyfriend cheat on me he talks to another woman , then he apologize to me , what do i do will i forge have him ? please i need answer", ["😢"]],
+		[265543, 2, "do you think you can trust him again ? and he is worth your efforts ? do he respects you and treats you well ?", []],
+		[1440290, 1, "Walk out the damn door Queen", []]
+	],
+	"speakers": {
+		"tel": 0,
+		"love_me_like_I_do": 1,
+		"Walking Shadow": 2
+	}
+}]
